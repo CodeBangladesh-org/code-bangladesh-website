@@ -1,0 +1,11 @@
+id: what-to-learn
+name: কি শিখবেন?
+description: >-
+  হাজার জিনিসের মাঝে কি শিখা উচিত তা নিয়ে সংশয় থেকেই যায়।
+
+image_source: /assets/img/kitty.png
+number_of_courses: dynamic
+number_of_videos: dynamic
+number_of_topics: dynamic
+popular_topics:
+  - প্রোগ্রামিং ল্যাংগুয়েজ

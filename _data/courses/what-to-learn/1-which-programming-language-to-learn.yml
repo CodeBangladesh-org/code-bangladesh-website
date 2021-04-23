@@ -1,0 +1,34 @@
+id: which-programming-language-to-learn
+name: কোন প্রোগ্রামিং ল্যাংগুয়েজ শেখা উচিত?
+description: >-
+  অনেক অনেক প্রোগ্রামিং ল্যাংগুয়েজের মাঝে কি শেখা উচিত?
+
+image_source: /assets/img/kitty.png
+category_id: what-to-learn
+number_of_videos: 3
+
+topics:
+  - প্রোগ্রামিং ল্যাংগুয়েজ
+
+complexity: >-
+  কোন অভিজ্ঞতা থাকার প্রয়োজন নাই।
+
+instructors:
+  - name: Arafin Ahmed
+    link: https://www.youtube.com/channel/UCa0pNZ0t3j9_wa28F_y9bcA
+
+  - name: Jhankar Mahbub
+    link: https://www.youtube.com/channel/UCs2cWnd7Sb1eXT-50oMOxlw
+
+  - name: TechTalk with Mahmood
+    link: https://www.youtube.com/channel/UCoPS0eINtbpxaeY28silADA
+
+content:
+  - name: কোন কাজের জন্য কোন প্রোগ্রামিং ল্যাংগুয়েজ (Arafin Ahmed)
+    video_link: https://www.youtube.com/watch?v=fATzMMDH4lY
+
+  - name: কোন প্রোগ্রামিং ল্যাঙ্গুয়েজ শিখবো? (Jhankar Mahbub)
+    video_link: https://www.youtube.com/watch?v=3w5UAWhIjgQ
+
+  - name: আইটি ক্যারিয়ারের জন্য কোন ল্যাঙ্গুয়েজ শেখা ভাল? (TechTalk with Mahmood)
+    video_link: https://www.youtube.com/watch?v=B-DzsnKbn8E

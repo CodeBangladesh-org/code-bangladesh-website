@@ -1,0 +1,11 @@
+id: javascript-programming
+name: জাভাস্কিপ্ট
+image_source: /assets/img/javascript.png
+number_of_courses: dynamic
+number_of_videos: dynamic
+number_of_topics: dynamic
+popular_topics:
+  - TypeScript
+  - Node.js
+  - React
+  - Angular

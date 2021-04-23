@@ -1,0 +1,56 @@
+id: SOLID-principles-explained-with-java-code-TechTalk-with-Mahmood
+name: SOLID প্রিন্সিপলস জাভা উদাহারনসহ
+description: >-
+  SOLID প্রিন্সিপলগুলোর মূল উদ্দেশ্য হলো maintainable, understandable, ও flexible সফটওয়্যার ডিজাইন করা। Design Principles and
+  Design Patterns প্রকাশনাতে আঙ্কেল বব মার্টিন পাঁচটি সফটওয়্যার ডিজাইন প্রিন্সিপল নিয়ে কথা বলেছেন। সফটওয়্যার বড় হওয়ার সাথে
+  সাথে প্রজেক্টের কমপ্লেসিটি বাড়তে থাকে। যদি SOLID প্রিন্সিপলস এর প্যাটার্নগুলো ফলো করে কোড করা হয় তাহলে পরবর্তীতে প্রজেক্টের কমপ্লেসিটি কমবে,
+  understandable ও flexible কোডবেস হবে।
+
+image_source: /assets/img/java.png
+category_id: java-programming
+number_of_videos: 6
+
+topics:
+  - SOLID প্রিন্সিপলস
+  - Clean Code
+  - সফটওয়্যার ডিজাইন প্রিন্সিপল
+  - জাভা
+
+complexity: >-
+  জাভা প্রোগ্রামিং এ ২-৩ বছরের অভিজ্ঞতা থাকলে বুঝতে সুবিধা হবে।
+
+instructors:
+  - name: TechTalk with Mahmood
+    link: https://www.youtube.com/c/TechtalkwithMahmood
+
+content:
+- name: SOLID প্রিন্সিপল কি?
+  description: >-
+    যে পাঁচটি সফটওয়্যার ডিজাইন প্রিন্সিপল নিয়ে SOLID প্রিন্সিপল তা এই ভিডিওতে ইন্ট্রো আকারে দেয়া হলো।
+  video_link: https://youtu.be/JiHiYx5qupg
+
+- name: সিঙ্গেল রেস্পন্সিবিলিটি প্রিন্সিপল
+  description: >-
+    SOLID এর S বা সিঙ্গেল রেস্পন্সিবিলিটি প্রিন্সিপল নিয়ে আলোচনা এই ভিডিওতে।
+  video_link: https://youtu.be/4AaIYvZmwK0
+
+- name: ওপেন ক্লোজড প্রিন্সিপল
+  description: >-
+    SOLID এর O বা ওপেন ক্লোজড প্রিন্সিপল নিয়ে আলোচনা এই ভিডিওতে।
+  video_link: https://youtu.be/jH1U9Crx-VA
+
+- name: লিসকভ সাবস্টিটুউশন প্রিন্সিপল
+  description: >-
+    SOLID এর L বা লিসকভ সাবস্টিটুউশন প্রিন্সিপল নিয়ে আলোচনা এই ভিডিওতে।
+  video_link: https://youtu.be/5KyVKQTwr1k
+
+- name: ইন্টারফেস সেগ্রিগেশন প্রিন্সিপল
+  description: >-
+    SOLID এর I বা ইন্টারফেস সেগ্রিগেশন প্রিন্সিপল নিয়ে আলোচনা এই ভিডিওতে।
+  video_link: https://youtu.be/fIiDx4Zn8Rs
+
+- name: ডিপেন্ডেন্সি ইনভার্শন প্রিন্সিপল
+  description: >-
+    SOLID এর D বা ডিপেন্ডেন্সি ইনভার্শন প্রিন্সিপল নিয়ে আলোচনা এই ভিডিওতে।
+  video_link: https://youtu.be/2czWW8JucQU
+

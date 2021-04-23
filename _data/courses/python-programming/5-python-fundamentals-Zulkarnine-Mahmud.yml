@@ -1,0 +1,29 @@
+id: python-fundamentals-Zulkarnine-Mahmud
+name: পাইথন বাংলা টিউটোরিয়াল
+description: >-
+  পাইথন ফান্ডামেন্টালস, OOP, Class ও Object শেখানো হয়েছে।
+
+image_source: /assets/img/python.png
+category_id: python-programming
+number_of_videos: 3
+
+topics:
+  - পাইথন
+  - অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং
+
+complexity: >-
+  পাইথন প্রোগ্রামিং এ যাদের কোন অভিজ্ঞতা নাই তারা ভাল ভাবে বুঝতে পারবে।
+
+instructors:
+  - name: Zulkarnine Mahmud
+    link: https://www.youtube.com/c/ZulkarnineMahmud
+
+content:
+  - name: পাইথন ফান্ডামেন্টালস
+    video_link: https://www.youtube.com/watch?v=Z6JjqHxT6oM
+
+  - name: পাইথন Bonus
+    video_link: https://www.youtube.com/watch?v=XEqKCvhlP3c
+
+  - name: পাইথন OOP, Class, Object
+    video_link: https://www.youtube.com/watch?v=XEqKCvhlP3c

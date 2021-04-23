@@ -1,0 +1,22 @@
+id: python-for-beginners-shofiq-sarker
+name: বিগিনারদের জন্য পাইথন
+description: >-
+  এই কোর্সে ৪৫টি ভিডিওতে সিনট্যাক্স থেকে শুরু করে সমস্ত বেসিকই শেখানো হয়েছে।
+
+image_source: /assets/img/python.png
+category_id: python-programming
+number_of_videos: 45
+
+topics:
+  - পাইথন
+
+complexity: >-
+  পাইথন প্রোগ্রামিং এ যাদের কোন অভিজ্ঞতা নাই তারা ভাল ভাবে বুঝতে পারবে।
+
+instructors:
+  - name: Shofiq Sarker
+    link: https://www.youtube.com/channel/UCnpi74yEm-4qn2HKYXsj5dA
+
+content:
+  - name: টিউটোরিয়াল প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PLVEPUT4tO1szqp71AacT0RsKl6qlE7-xi

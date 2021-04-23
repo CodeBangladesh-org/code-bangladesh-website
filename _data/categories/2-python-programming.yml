@@ -1,0 +1,12 @@
+id: python-programming
+name: পাইথন প্রোগ্রামিং
+description: >-
+  যারা প্রথমবারের মত প্রোগ্রামিং শিখছেন, তাদের জন্য অন্যতম আদর্শ প্রোগ্রামিং ল্যাংগুয়েজ। স্ক্রিপ্টিং, ড্যাটা সাইন্স ও মেশিন লার্নিং এর জন্য
+  পাইথন বহুল ব্যবহৃত হয়।
+
+image_source: /assets/img/python.png
+number_of_courses: dynamic
+number_of_videos: dynamic
+number_of_topics: dynamic
+popular_topics:
+  - Django

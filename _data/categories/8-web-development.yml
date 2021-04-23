@@ -1,0 +1,10 @@
+id: web-development
+name: ওয়েব ডেভেলপমেন্ট
+image_source: /assets/img/web-development.png
+number_of_courses: dynamic
+number_of_videos: dynamic
+number_of_topics: dynamic
+popular_topics:
+  - HTML 5
+  - CSS
+  - Bootstrap

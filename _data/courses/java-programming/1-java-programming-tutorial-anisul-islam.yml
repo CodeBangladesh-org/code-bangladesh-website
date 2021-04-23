@@ -1,0 +1,483 @@
+id: java-programming-tutorial-anisul-islam
+name: কোর জাভা টিউটোরিয়াল
+description: >-
+  এই কোর্সে ১৫৩টি ভিডিওতে সিনট্যাক্স থেকে শুরু করে, OOP ও কালেকশন ফ্রেমওয়্যার্ক, জাভার সমস্ত বেসিকই শেখানো হয়েছে।
+
+image_source: /assets/img/java.png
+category_id: java-programming
+number_of_videos: 153
+
+topics:
+  - জাভা
+
+complexity: >-
+  জাভা প্রোগ্রামিং এ যাদের কোন অভিজ্ঞতা নাই তারা ভাল ভাবে বুঝতে পারবে।
+
+instructors:
+  - name: আনিসুল ইসলাম
+    link: https://www.youtube.com/channel/UCEXwc6mNh7Lakj6lX-7a2Mg
+
+content:
+  - name: জাভা সূচনা
+    video_link: https://www.youtube.com/watch?v=hf4k4OWlBfI
+
+  - name: Netbean এ JDK সেটআপ ও JDK not found সমস্যার সমাধান
+    video_link: https://www.youtube.com/watch?v=vLeY9fkdWiU
+
+  - name: প্রথম জাভা আপ্লিকেশন
+    video_link: https://www.youtube.com/watch?v=ZBsm7mX4cE4
+
+  - name: String এ ইস্কেপ সিকুয়েন্স
+    video_link: https://www.youtube.com/watch?v=_1N8dKsQ8JE
+
+  - name: কমেন্ট
+    video_link: https://www.youtube.com/watch?v=jZlMh69-45c
+
+  - name: প্রোগ্রাম চালানোর ধাপগুলো
+    video_link: https://www.youtube.com/watch?v=IKIVEPRW6uM
+
+  - name: ভ্যারিয়েবল ও ড্যাটা টাইপ (পার্ট ১)
+    video_link: https://www.youtube.com/watch?v=8Udh2XRF2gc
+
+  - name: ভ্যারিয়েবল ও ড্যাটা টাইপ (পার্ট ২)
+    video_link: https://www.youtube.com/watch?v=ZLPY87bWO6k
+
+  - name: Format specifier
+    video_link: https://www.youtube.com/watch?v=glkZLc9jnCw
+
+  - name: How to get user input
+    video_link: https://www.youtube.com/watch?v=Po8bPEFsnow
+
+  - name: Arithmetic Operator (simple Calculator)
+    video_link: https://www.youtube.com/watch?v=sMbDqDG56Zw
+
+  - name: Assignment Operator
+    video_link: https://www.youtube.com/watch?v=YDbN8R00vY0
+
+  - name: Area of triangle and circle
+    video_link: https://www.youtube.com/watch?v=GVHCWFbSudM
+
+  - name: Temperature Converter
+    video_link: https://www.youtube.com/watch?v=VevKmDVtB1s
+
+  - name: Unary operator
+    video_link: https://www.youtube.com/watch?v=6qPXOplc6uA
+
+  - name: Relational Operator
+    video_link: https://www.youtube.com/watch?v=eSU34np9DLc
+
+  - name: Control Statement ( if,else )
+    video_link: https://www.youtube.com/watch?v=MddtJbNvxMQ
+
+  - name: Checking Even/Odd Number
+    video_link: https://www.youtube.com/watch?v=PWaVjoY0clQ
+
+  - name: Checking Vowel/Consonant
+    video_link: https://www.youtube.com/watch?v=vP0XFm0BV3U
+
+  - name: Logical Operator (part-1)
+    video_link: https://www.youtube.com/watch?v=ioQRYoE0Y04
+
+  - name: Logical Operator (part-2)
+    video_link: https://www.youtube.com/watch?v=6k0rDeGplwE
+
+  - name: switch (part-1)
+    video_link: https://www.youtube.com/watch?v=NDtRRR3WDL0
+
+  - name: switch (part-2)
+    video_link: https://www.youtube.com/watch?v=hRUkljRO25g
+
+  - name: Conditional Operator
+    video_link: https://www.youtube.com/watch?v=LWvia2PQh4k
+
+  - name: Bitwise operator
+    video_link: https://www.youtube.com/watch?v=TllHVJGEY5A
+
+  - name: Math Class
+    video_link: https://www.youtube.com/watch?v=3E4UB_RYY_c
+
+  - name: for loop
+    video_link: https://www.youtube.com/watch?v=AVKvaIAWKYQ
+
+  - name: while loop
+    video_link: https://www.youtube.com/watch?v=e3GWjcY478Y
+
+  - name: do while loop
+    video_link: https://www.youtube.com/watch?v=sDNrL8xoRx0
+
+  - name: while vs do-while loop
+    video_link: https://www.youtube.com/watch?v=fsnGj9mhCIA
+
+  - name: break and continue statement
+    video_link: https://www.youtube.com/watch?v=m0Kkv3mWQOg
+
+  - name: Netbeans keyboard shortcut
+    video_link: https://www.youtube.com/watch?v=0ZOmylyFZQQ
+
+  - name: print Even number from m to n
+    video_link: https://www.youtube.com/watch?v=rgQAmCziUtc
+
+  - name: Series (part-1)
+    video_link: https://www.youtube.com/watch?v=EjY4iFvPRqU
+
+  - name: Series (part-2)
+    video_link: https://www.youtube.com/watch?v=5M5g24RQfwE
+
+  - name: Factorial of a number
+    video_link: https://www.youtube.com/watch?v=djB0qWh2yiY
+
+  - name: Multiplication Table ( গুণের নামতা )
+    video_link: https://www.youtube.com/watch?v=9uprdqZmQ2A
+
+  - name: Prime Number (মৌলিক সংখ্যা)
+    video_link: https://www.youtube.com/watch?v=T8CRalD1mgc
+
+  - name: Prime Numbers from m to n
+    video_link: https://www.youtube.com/watch?v=ch7E1SXjfLk
+
+  - name: Fibonacci series
+    video_link: https://www.youtube.com/watch?v=5YVuG-885Ug
+
+  - name: sum of digits (Theory)
+    video_link: https://www.youtube.com/watch?v=IVHExlhBhrE
+
+  - name: sum of digits (practical)
+    video_link: https://www.youtube.com/watch?v=lnK_Z_IbpqQ
+
+  - name: How To Reverse A Number (Theory)
+    video_link: https://www.youtube.com/watch?v=NwFRZK5kj_U
+
+  - name: How To Reverse A Number (practical)
+    video_link: https://www.youtube.com/watch?v=L5N9zYoOo8I
+
+  - name: Palindrome number (Theory)
+    video_link: https://www.youtube.com/watch?v=1rVaH6_L3iQ
+
+  - name: Palindrome Number (practical)
+    video_link: https://www.youtube.com/watch?v=4xff-zaIkac
+
+  - name: Armstrong number (Theory)
+    video_link: https://www.youtube.com/watch?v=MWORULBTt-o
+
+  - name: Armstrong Number (practical)
+    video_link: https://www.youtube.com/watch?v=2gRsO3GZkYE
+
+  - name: pattern 1
+    video_link: https://www.youtube.com/watch?v=LLDIiIyU1Pc
+
+  - name: pattern 2
+    video_link: https://www.youtube.com/watch?v=2Rquz1rstM4
+
+  - name: Introduction to Array
+    video_link: https://www.youtube.com/watch?v=CulauAqd7AA
+
+  - name: Array ( finding sum and average )
+    video_link: https://www.youtube.com/watch?v=PEv0gtMdMdA
+
+  - name: Array ( finding Maximum and minimum)
+    video_link: https://www.youtube.com/watch?v=DuyMEGxd-BI
+
+  - name: for each loop
+    video_link: https://www.youtube.com/watch?v=1LIbHvJX-1w
+
+  - name: introduction to 2D array
+    video_link: https://www.youtube.com/watch?v=7gfVMC7x_QM
+
+  - name: Array (Matrix part-1)
+    video_link: https://www.youtube.com/watch?v=0_em4d79wcY
+
+  - name: Array ( Matrix part-2 )
+    video_link: https://www.youtube.com/watch?v=Novjda71-Wc
+
+  - name: sum of diagonal, upper triangle and lower triangle elements of a matrix
+    video_link: https://www.youtube.com/watch?v=iC0c3ABIzkU
+
+  - name: Array output (part-1)
+    video_link: https://www.youtube.com/watch?v=LdrBdj84zw4
+
+  - name: Array output (part-2)
+    video_link: https://www.youtube.com/watch?v=ueJkSgvVt4U
+
+  - name: Sorting an Array
+    video_link: https://www.youtube.com/watch?v=vwS9mDCdoBo
+
+  - name: ArrayList (part-1)
+    video_link: https://www.youtube.com/watch?v=FZFdTY5FIHg
+
+  - name: ArrayList (part-2)
+    video_link: https://www.youtube.com/watch?v=yYOAHrWZ8is
+
+  - name: ArrayList (part-3)
+    video_link: https://www.youtube.com/watch?v=KQhcMDfr2lI
+
+  - name: Sorting an ArrayList
+    video_link: https://www.youtube.com/watch?v=GSmcD5CBGSc
+
+  - name: String (part-1)
+    video_link: https://www.youtube.com/watch?v=CWbO9tf1iGk
+
+  - name: String (part-2)
+    video_link: https://www.youtube.com/watch?v=Az3-FLM8JJI
+
+  - name: String (part-3)
+    video_link: https://www.youtube.com/watch?v=biu3d5cGPV4
+
+  - name: String (part-4)
+    video_link: https://www.youtube.com/watch?v=AzFvZZe4Uvo
+
+  - name: StringBuffer
+    video_link: https://www.youtube.com/watch?v=qF1mJhqlYqw
+
+  - name: String Palindrome
+    video_link: https://www.youtube.com/watch?v=57duOwmqifk
+
+  - name: StringBuilder
+    video_link: https://www.youtube.com/watch?v=JX6wxGi6wNM
+
+  - name: Wrapper class (autoboxing, unboxing)
+    video_link: https://www.youtube.com/watch?v=o0tP_aebqOk
+
+  - name: Conversion between String and Primitive Data type
+    video_link: https://www.youtube.com/watch?v=0ZAsvFSKwqU
+
+  - name: Decimal To Binary,octal,hexadecimal
+    video_link: https://www.youtube.com/watch?v=TPu5VpbVw6c
+
+  - name: Binary, octal, hexadecimal to Decimal
+    video_link: https://www.youtube.com/watch?v=zePmPqyGz-M
+
+  - name: Date
+    video_link: https://www.youtube.com/watch?v=DzY6YTePqJw
+
+  - name: Time
+    video_link: https://www.youtube.com/watch?v=Hj8CHr2k7WA
+
+  - name: Random Number Generator
+    video_link: https://www.youtube.com/watch?v=YJjQrEanyQM
+
+  - name: Introduction to OOP | class,objects
+    video_link: https://www.youtube.com/watch?v=5sH2WHxApTE
+
+  - name: Introducing method
+    video_link: https://www.youtube.com/watch?v=sGqUBTWxYj4
+
+  - name: Parametrized Method
+    video_link: https://www.youtube.com/watch?v=hvbCvpnvMaY
+
+  - name: Constructor
+    video_link: https://www.youtube.com/watch?v=ZaQ9Br0-Sbo
+
+  - name: Types of Constructor
+    video_link: https://www.youtube.com/watch?v=8U3CdZES7IY
+
+  - name: Overloading constructor
+    video_link: https://www.youtube.com/watch?v=oFAWd4l9zQE
+
+  - name: Returning a value from method
+    video_link: https://www.youtube.com/watch?v=oVoKwpmQjR0
+
+  - name: Difference between Constructor And Method
+    video_link: https://www.youtube.com/watch?v=8S7I2Z5yqNQ
+
+  - name: static variable (part-1)
+    video_link: https://www.youtube.com/watch?v=K3RXf7IMwWs
+
+  - name: static variable (part-2)
+    video_link: https://www.youtube.com/watch?v=oS2k1JTnRdc
+
+  - name: static variable (part-3)
+    video_link: https://www.youtube.com/watch?v=GL_YOiqz4WE
+
+  - name: static method
+    video_link: https://www.youtube.com/watch?v=CTvteDE4tIs
+
+  - name: static method's restrictions
+    video_link: https://www.youtube.com/watch?v=Q7q_SXBKwOk
+
+  - name: static block
+    video_link: https://www.youtube.com/watch?v=inpThZFe_NI
+
+  - name: Types of variable | local, class, instance variable
+    video_link: https://www.youtube.com/watch?v=KHRS60UgsNU
+
+  - name: Problem Solving - 1 (Box volume)
+    video_link: https://www.youtube.com/watch?v=N5S2xERb_gs
+
+  - name: Instance Variable Hiding
+    video_link: https://www.youtube.com/watch?v=r5klZTH1e9o
+
+  - name: Math class (Remake)
+    video_link: https://www.youtube.com/watch?v=1RcJUfBQtac
+
+  - name: Method Overloading
+    video_link: https://www.youtube.com/watch?v=DwaUODamu2g
+
+  - name: Automatic Type Conversion
+    video_link: https://www.youtube.com/watch?v=8kbaS9TRtyk
+
+  - name: Debugging in java
+    video_link: https://www.youtube.com/watch?v=h4009ZHlbPw
+
+  - name: call by value vs call by reference
+    video_link: https://www.youtube.com/watch?v=ZrzmE2gW2ks
+
+  - name: variable length arguments
+    video_link: https://www.youtube.com/watch?v=hn5V5TmpDls
+
+  - name: factorial using recursion in java
+    video_link: https://www.youtube.com/watch?v=5yP5Tr218kc
+
+  - name: Iteration vs Recursion
+    video_link: https://www.youtube.com/watch?v=1NbPbdbSDtk
+
+  - name: Encapsulation
+    video_link: https://www.youtube.com/watch?v=hpRcmfNnwu8
+
+  - name: Setter And Getter methods
+    video_link: https://www.youtube.com/watch?v=5zanUOGTzk8
+
+  - name: Inheritance (Theory)
+    video_link: https://www.youtube.com/watch?v=4HbOzg4aWFk
+
+  - name: Inheritance (practical)
+    video_link: https://www.youtube.com/watch?v=XZO7OMMFMl8
+
+  - name: Inheriting Private Member
+    video_link: https://www.youtube.com/watch?v=tF0JZVWr3IQ
+
+  - name: instanceof Operator
+    video_link: https://www.youtube.com/watch?v=TXuPpxpKMDU
+
+  - name: Types of Inheritance
+    video_link: https://www.youtube.com/watch?v=fnqSfeZ8n8c
+
+  - name: Method Overriding (part-1)
+    video_link: https://www.youtube.com/watch?v=CXZ1SgyLMxU
+
+  - name: Method Overriding (part-2)
+    video_link: https://www.youtube.com/watch?v=MHBoFRqQB3k
+
+  - name: Method Overloading Vs Method Overriding
+    video_link: https://www.youtube.com/watch?v=9nR-XD8hFnU
+
+  - name: Why Java Doesn't Support Multiple Inheritance ?
+    video_link: https://www.youtube.com/watch?v=kzUUW4BSSG0
+
+  - name: super keyword (part-1)
+    video_link: https://www.youtube.com/watch?v=_ZrRORCIev4
+
+  - name: Super Keyword (part-2)
+    video_link: https://www.youtube.com/watch?v=gs5aWsbsej4
+
+  - name: super keyword (part-3)
+    video_link: https://www.youtube.com/watch?v=fD2wJtoaQGI
+
+  - name: super keyword (part-4)
+    video_link: https://www.youtube.com/watch?v=RBRmfPWJvhw
+
+  - name: this Keyword (part-1)
+    video_link: https://www.youtube.com/watch?v=WeB03aowC-k
+
+  - name: this Keyword (part-2)
+    video_link: https://www.youtube.com/watch?v=RRtFMXjBo7c
+
+  - name: final Keyword (part-1)
+    video_link: https://www.youtube.com/watch?v=__vHJJf5vWc
+
+  - name: final Keyword (part-2)
+    video_link: https://www.youtube.com/watch?v=lURPx32q5Uw
+
+  - name: Polymorphism (Theory)
+    video_link: https://www.youtube.com/watch?v=AlTTlEj2Z78
+
+  - name: Polymorphism (Practical-1)
+    video_link: https://www.youtube.com/watch?v=ldrDMD0zZPM
+
+  - name: Polymorphism (Practical-2)
+    video_link: https://www.youtube.com/watch?v=g2R4CiV0H9M
+
+  - name: Abstraction (Theory)
+    video_link: https://www.youtube.com/watch?v=XUvnPcnYsHM
+
+  - name: Abstraction (Practical)
+    video_link: https://www.youtube.com/watch?v=P_Yb5CQFh3Y
+
+  - name: Problem solving-2 (Abstract class Shape)
+    video_link: https://www.youtube.com/watch?v=tsyK0r-cpA0
+
+  - name: Introduction to interface
+    video_link: https://www.youtube.com/watch?v=ksj96Q8XVh4
+
+  - name: Why Interface Support Multiple Inheritance ?
+    video_link: https://www.youtube.com/watch?v=vsO0HLu7zaM
+
+  - name: Difference Between Abstract Class And Interface
+    video_link: https://www.youtube.com/watch?v=LNDOlSOa_B4
+
+  - name: Package (theory)
+    video_link: https://www.youtube.com/watch?v=vwyGP2LPAoc
+
+  - name: Package (practical)
+    video_link: https://www.youtube.com/watch?v=xsmTP5WIcPE
+
+  - name: Access Modifier
+    video_link: https://www.youtube.com/watch?v=cHxlv-UPp0g
+
+  - name: Type Casting (Upcasting & Downcasting)
+    video_link: https://www.youtube.com/watch?v=1YineNi4164
+
+  - name: Anonymous class
+    video_link: https://www.youtube.com/watch?v=OTeR-3GnI3s
+
+  - name: Exception handling (Theory)
+    video_link: https://www.youtube.com/watch?v=ucpUzdqDubs
+
+  - name: Exception handling (practical)
+    video_link: https://www.youtube.com/watch?v=p4p5VujIkUo
+
+  - name: Problem solving-3 (Exception Handling)
+    video_link: https://www.youtube.com/watch?v=5CazHwwzfjM
+
+  - name: Decimal Number Formatting
+    video_link: https://www.youtube.com/watch?v=wDI-VqiFM44
+
+  - name: toString Method
+    video_link: https://www.youtube.com/watch?v=ZlMgv5EzrAY
+
+  - name: String comparison | equal( ) vs ==
+    video_link: https://www.youtube.com/watch?v=onseyF_KN-M
+
+  - name: LinkedList (part-1)
+    video_link: https://www.youtube.com/watch?v=NgphSe8Cdr8
+
+  - name: LinkedList (part-2)
+    video_link: https://www.youtube.com/watch?v=ShbLRIUhaKc
+
+  - name: Creating a Student List
+    video_link: https://www.youtube.com/watch?v=mkxBZbxVUV8
+
+  - name: HashMap
+    video_link: https://www.youtube.com/watch?v=5LuNlnwFPQ4
+
+  - name: HashSet
+    video_link: https://www.youtube.com/watch?v=lbhuJ15SjZk
+
+  - name: How to create a file or directory
+    video_link: https://www.youtube.com/watch?v=zcPo8kcPJoM
+
+  - name: How to write into a File
+    video_link: https://www.youtube.com/watch?v=iO31szWASfM
+
+  - name: How to read a File
+    video_link: https://www.youtube.com/watch?v=g9nmd0X43xY
+
+  - name: How to run a java program from command Line
+    video_link: https://www.youtube.com/watch?v=7GkGWdv5lvY
+
+  - name: How to run a java program from a package
+    video_link: https://www.youtube.com/watch?v=OjKYFEO9Q-0
+
+
+
+  
+  

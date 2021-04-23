@@ -1,0 +1,52 @@
+---
+layout: codebangladesh-default
+---
+
+<div class="row"><br></div>
+
+<header class="header-section">
+    <div class="intro-header no-img">
+        <div class="container-md">
+            <div class="row">
+                <div class="page-heading">
+                    <h1>বাংলায় শিখি সবকিছু</h1>
+                    <hr class="small">
+                    <span class="page-subheading">{{ site.description }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="row"><br></div>
+
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5">
+    {% for category in site.data.pretty_categories %}
+    {% if site.data.pretty_category_courses[category.id].size > 0 %}
+    <div class="col mb-4" style="min-width: 19rem">
+        <div class="card" style="min-height: 17rem">
+            <div class="card-body">
+                <img class="img-fluid" height="40" src="{{ category.image_source }}" width="40">
+                <a class="card-title" href="{{ category.id | append: '-courses' | relative_url }}">
+                    {{ category.name | escape }}
+                </a>
+                <div class="card-text" style="padding-top: 15px">
+                    <small>{{ category.description }}</small><br><br>
+                    <small><img class="mg-fluid" height="20" src="/assets/img/learning.png" width="20">
+                        {{ category.number_of_courses }}টি কোর্স
+                    </small>&nbsp;
+                    <small><img class="mg-fluid" height="20" src="/assets/img/youtube.png" width="20">
+                        {{ category.number_of_videos }}টি ভিডিও
+                    </small><br>
+                    <small><img class="mg-fluid" height="20" src="/assets/img/book.png" width="20">
+                        {{ category.number_of_topics }}টি টপিকস
+                    </small>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
+
+

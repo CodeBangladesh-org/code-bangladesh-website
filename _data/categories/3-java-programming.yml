@@ -1,0 +1,12 @@
+id: java-programming
+name: জাভা প্রোগ্রামিং
+description: >-
+  অ্যান্ড্রয়েড মোবাইল অ্যাপ বানানো থেকে শুরু করে বড় বড় ইন্টারপ্রাইজ অ্যাপ্লিকেশনের জন্য জাভা জনপ্রিয়।
+
+image_source: /assets/img/java.png
+number_of_courses: dynamic
+number_of_videos: dynamic
+number_of_topics: dynamic
+popular_topics:
+  - স্প্রিং ফ্রেমওয়ার্ক
+  - হাইবারনেট

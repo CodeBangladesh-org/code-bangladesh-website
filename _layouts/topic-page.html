@@ -1,0 +1,54 @@
+---
+layout: codebangladesh-default
+---
+
+<div class="row"><br></div>
+
+<header class="header-section">
+    <div class="intro-header no-img">
+        <div class="container-md">
+            <div class="row d-flex flex-wrap align-items-center">
+                <div class="page-subheading">
+                    <h1>
+                        <img class="img-fluid" height="60" src="/assets/img/tag.png" width="60">&nbsp;
+                        {{ page.topic.topic_name | escape }}
+                    </h1>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+<div class="row"><br></div>
+
+<div class="list-group">
+    {% for course in page.courses %}
+    <a href="{{ page.category.id | append: '/' | append: course.id | relative_url }}"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">{{ course.name }}</h5>
+            <small class="text-muted"></small>
+        </div>
+        <small class="text-muted">{{ course.description }}</small><br>
+        <small class="text-muted">
+            <img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20">&nbsp
+            <span>{{ course.number_of_videos }}টি ভিডিও</span><br>
+        </small>
+        <small class="text-muted">
+            <img class="img-fluid" height="20" src="/assets/img/tag.png" width="20">&nbsp;
+            <span>
+                {% for topic in course.topics %}
+                {{ topic }}{% if forloop.last %}{% else %},{% endif %}
+                {% endfor %}
+            </span><br>
+        </small>
+        <small class="text-muted">
+            <img class="img-fluid" height="20" src="/assets/img/complexity.png" width="20">&nbsp;
+            {{ course.complexity }}
+        </small>
+    </a>
+    <div class="row"><br></div>
+    {% endfor %}
+</div>

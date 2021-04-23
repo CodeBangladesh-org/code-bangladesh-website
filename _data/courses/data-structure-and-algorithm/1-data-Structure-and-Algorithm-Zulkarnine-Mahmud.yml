@@ -1,0 +1,29 @@
+id: 6-data-Structure-and-Algorithm-Zulkarnine-Mahmud
+name: পাইথন দিয়ে ড্যাটা স্ট্রাকচার ও অ্যালগোরিদম
+description: >-
+  ড্যাটা স্ট্রাকচার ও অ্যালগোরিদম ভিডিও by Googler Zulkarnine Mahmud
+
+image_source: /assets/img/python.png
+category_id: data-structure-and-algorithm
+number_of_videos: 3
+
+topics:
+  - পাইথন
+  - ড্যাটা স্ট্রাকচার ও অ্যালগোরিদম
+
+complexity: >-
+  বেসিক পাইথন প্রোগ্রামিং এর অভিজ্ঞতা থাকতে হবে।
+
+instructors:
+  - name: Zulkarnine Mahmud
+    link: https://www.youtube.com/c/ZulkarnineMahmud
+
+content:
+  - name: পার্ট ১
+    video_link: https://www.youtube.com/watch?v=GrueBnqMIsU
+
+  - name: পার্ট ২
+    video_link: https://www.youtube.com/watch?v=vZi5UySLFOg
+
+  - name: পার্ট ৩
+    video_link: https://www.youtube.com/watch?v=7NlSnZExE1w

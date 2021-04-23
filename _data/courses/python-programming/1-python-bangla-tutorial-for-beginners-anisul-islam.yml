@@ -1,0 +1,22 @@
+id: python-bangla-tutorial-for-beginners-anisul-islam
+name: বিগিনারদের জন্য পাইথন টিউটোরিয়াল
+description: >-
+  এই কোর্সে ৬৭টি ভিডিওতে সিনট্যাক্স থেকে শুরু করে সমস্ত বেসিকই শেখানো হয়েছে।
+
+image_source: /assets/img/python.png
+category_id: python-programming
+number_of_videos: 67
+
+topics:
+  - পাইথন
+
+complexity: >-
+  পাইথন প্রোগ্রামিং এ যাদের কোন অভিজ্ঞতা নাই তারা ভাল ভাবে বুঝতে পারবে।
+
+instructors:
+  - name: আনিসুল ইসলাম
+    link: https://www.youtube.com/channel/UCEXwc6mNh7Lakj6lX-7a2Mg
+
+content:
+  - name: পাইথন টিউটোরিয়াল প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN

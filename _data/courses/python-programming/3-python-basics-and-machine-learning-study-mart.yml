@@ -1,0 +1,23 @@
+id: python-basics-and-machine-learning-study-mart
+name: পাইথন দিয়ে মেশিন লার্নিং
+description: >-
+  এই কোর্সে ১৩৩টি ভিডিওতে প্রথমে পাইথন বেসিক ও পরে মেশিন লার্নিং শেখানো হয়েছে।
+
+image_source: /assets/img/python.png
+category_id: python-programming
+number_of_videos: 133
+
+topics:
+  - পাইথন
+  - মেশিন লার্নিং
+
+complexity: >-
+  পাইথন প্রোগ্রামিং এ যাদের কোন অভিজ্ঞতা নাই তারা ভাল ভাবে বুঝতে পারবে।
+
+instructors:
+  - name: Study Mart
+    link: https://www.youtube.com/channel/UCH6wiF1uC7PhuV_UIR_28AA
+
+content:
+  - name: টিউটোরিয়াল প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PLKdU0fuY4OFcot0zyVbM1-zKf_eCUK4zQ

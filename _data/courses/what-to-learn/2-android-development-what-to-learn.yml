@@ -1,0 +1,31 @@
+id: android-development-what-to-learn
+name: অ্যান্ড্রয়েড ডেভেলপার হওয়ার জন্যে কি শিখবেন
+description: >-
+  অনেক অনেক প্রোগ্রামিং ল্যাংগুয়েজের মাঝে কি শেখা উচিত?
+
+image_source: /assets/img/kitty.png
+category_id: what-to-learn
+number_of_videos: 3
+
+topics:
+  - অ্যান্ড্রয়েড ডেভেলপমেন্ট
+
+complexity: >-
+  কোন অভিজ্ঞতা থাকার প্রয়োজন নাই।
+
+instructors:
+  - name: Rabbil Hasan
+    link: https://www.youtube.com/channel/UCSMFY8_rooijS-Zv43tKCrQ
+
+  - name: Techno BD XYZ
+    link: https://www.youtube.com/channel/UC7fe0TkvATV5FrNiIN8rqdQ
+
+content:
+  - name: Android Developer হওয়ার জন্যে কিভাবে শুরু করবেন, কি শিখবেন ? A Complete Guide (Rabbil Hasan)
+    video_link: https://www.youtube.com/watch?v=O95uA9b9S-o
+
+  - name: Android এর সাথে JAVA এর সম্পর্ক কি ! Kotlin C++ এসব ক্যামনে কি ? (Rabbil Hasan)
+    video_link: https://www.youtube.com/watch?v=yma9e10QSM4
+
+  - name: Flutter কি? কিভাবে অ্যান্ড্রয়েড অ্যাপ তৈরি হয়? (Techno BD XYZ)
+    video_link: https://www.youtube.com/watch?v=SgETZMVg-gg

@@ -1,0 +1,22 @@
+id: python-for-beginners-BlackOsRa
+name: পাইথন বাংলা টিউটোরিয়াল
+description: >-
+  প্রায় ৫ঘণ্টার ১টি ভিডিওতে পাইথন শেখানো হয়েছে।
+
+image_source: /assets/img/python.png
+category_id: python-programming
+number_of_videos: 1
+
+topics:
+  - পাইথন
+
+complexity: >-
+  পাইথন প্রোগ্রামিং এ যাদের কোন অভিজ্ঞতা নাই তারা ভাল ভাবে বুঝতে পারবে।
+
+instructors:
+  - name: BlackOsRa
+    link: https://www.youtube.com/channel/UCJwNRJtc_rh0s7wKNEPTjvQ
+
+content:
+  - name: পাইথন টিউটোরিয়াল
+    video_link: https://www.youtube.com/watch?v=FF2UcqjOGrU
