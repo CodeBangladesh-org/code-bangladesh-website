@@ -25,7 +25,7 @@ layout: codebangladesh-default
 
 <div class="list-group">
     {% for course in page.courses %}
-    <a href="{{ page.category.id | append: '/' | append: course.id | relative_url }}"
+    <a href="{{ course.category_id | append: '/' | append: course.id | relative_url }}"
        class="list-group-item list-group-item-action flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between">
             <h5 class="mb-1">{{ course.name }}</h5>
