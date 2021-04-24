@@ -1,0 +1,13 @@
+# Code Bangladesh Website
+
+### Contribute
+- Fork it (https://github.com/CodeBangladesh-org/code-bangladesh-website/fork)
+- Create your feature branch (git checkout -b my-new-feature)
+- Commit your changes (git commit -am 'Add some feature')
+- Push to the branch (git push origin my-new-feature)
+- Create a new Pull Request
+
+
+### Copyright & License
+
+Licensed under the MIT License, see the link:LICENSE[LICENSE] file for details.
