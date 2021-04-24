@@ -1,14 +1,21 @@
 title: CodeBangladesh.org
-author: CodeBangladesh.org
-email: admin@codebangladesh.org
 description: >-
   সফটওয়্যার ডেভেলপমেন্ট, প্রোগ্রামিং ও টেক জব সংক্রান্ত ফ্রি কনটেন্টগুলো একসাথে সাজিয়ে উপস্থাপন করা যাতে
   যারা নতুন শিখছেন তারা দ্রুত ভালভাবে শিখতে পারেন।
+author: CodeBangladesh.org
+email: admin@codebangladesh.org
 
 baseurl: ""
 url: "https://CodeBangladesh.org"
+
 github_username:  CodeBangladesh-org
 google_analytics: UA-195294918-1
+
+exclude:
+  - generated
+
+# Custom Properties
+header_text: বাংলায় শিখি সবকিছু
 
 # Build settings
 theme: minima
