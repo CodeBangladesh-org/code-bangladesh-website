@@ -96,4 +96,33 @@ module Common
     value.gsub!(' ', '-')
     value
   end
+
+  def self.create_file(path, extension)
+    dir = File.dirname(path)
+    unless File.directory?(dir)
+      FileUtils.mkdir_p(dir)
+    end
+    path << ".#{extension}"
+    File.new(path, 'w')
+  end
+
+  def self.generate_json(site, path, obj)
+    json_file = Common.create_file("./generated/" + path, "json")
+    json_file.puts(JSON.pretty_generate(obj))
+    json_file.close
+    site.static_files << DynamicStaticFile.new(site, site.source, "/generated/", path + ".json", "/assets/")
+  end
+
+  class DynamicStaticFile < Jekyll::StaticFile
+    def initialize(site, base, dir, name, dest)
+      super(site, base, dir, name)
+      @name = name
+      @dest = dest
+    end
+    def destination(dest)
+      @destination ||= {}
+      @destination[@dest] ||= @site.in_dest_dir(@dest, Jekyll::URL.unescape_path(url))
+    end
+  end
+
 end
