@@ -1,0 +1,31 @@
+id: java-oop-with-real-example-Stack-Learner
+name: জাভায় উদাহারনসহ অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং
+description: >-
+  অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং শেখানো হয়েছে।
+
+image_source: /assets/img/java.png
+category_id: java-programming
+number_of_videos: 10
+
+topics:
+  - জাভা
+  - অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং
+
+complexity: >-
+  বেসিক জাভা সিনট্যাক্স জানা থাকতে হবে।
+
+instructors:
+  - name: Stack Learner
+    link: https://www.youtube.com/c/StackLearner
+
+content:
+- name: ফুল প্লেলিস্ট
+  description:
+  video_link: https://www.youtube.com/playlist?list=PL_XxuZqN0xVDS-5KCnZyPl0LKQ8m49CHM
+
+
+
+
+
+
+

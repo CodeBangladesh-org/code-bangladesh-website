@@ -1,0 +1,24 @@
+id: java-basic-syntax-bangla-tutorial-Bangla-Coding-Tutor.yml
+name: জাভা বেসিক সিনট্যাক্স টিউটোরিয়াল
+description: >-
+  প্রোগ্রামিং এর কিছুই জানেন না? তাহলে এই ভিডিওগুলো আপনার জন্য।
+
+image_source: /assets/img/java.png
+category_id: java-programming
+number_of_videos: 21
+
+topics:
+  - জাভা
+
+complexity: >-
+  কোন অভিজ্ঞতা থাকার প্রয়োজন নেই।
+
+instructors:
+  - name: Bangla Coding Tutor
+    link: https://www.youtube.com/c/BanglaCodingTutor
+
+content:
+- name: ফুল প্লেলিস্ট
+  description:
+  video_link: https://www.youtube.com/playlist?list=PLdl6zXgLsy3xCae1uL6rJ8Ay9sIiyBy5I
+

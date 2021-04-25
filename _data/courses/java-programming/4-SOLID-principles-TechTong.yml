@@ -1,0 +1,60 @@
+id: SOLID-principles-TechTong
+name: কোড রিফ্যাক্টরিং এর জন্য SOLID প্রিন্সিপলস
+description: >-
+  SOLID Principles ডিপ ড্রাইভ কোড রিফ্যাক্টরিং সাথে।
+
+image_source: /assets/img/java.png
+category_id: java-programming
+number_of_videos: 6
+
+topics:
+  - জাভা
+  - SOLID প্রিন্সিপলস
+  - কোড রিফ্যাক্টরিং
+  - সফটওয়্যার ডিজাইন প্রিন্সিপল
+
+complexity: >-
+  বেসিক জাভা প্রোগ্রামিং এর অভিজ্ঞতা থাকতে হবে।
+
+instructors:
+  - name: TechTong
+    link: https://www.youtube.com/c/TechTongBD
+
+content:
+- name: SOLID Principles in Software Design - What and Why?
+  description:
+  video_link: https://www.youtube.com/watch?v=9cEMm3K9DcI
+
+- name: Single Responsibility Principle Explained with Hands On Refactoring
+  description:
+  video_link: https://www.youtube.com/watch?v=NIewq8AbJ1c
+
+- name: Open/Closed Principle Explained | Code Refactoring
+  description:
+  video_link: https://www.youtube.com/watch?v=osLOR9FH_hg
+
+- name: Liskov Substitution Principle explained pratically in Java
+  description:
+  video_link: https://www.youtube.com/watch?v=C1oNSlug6f0
+
+- name: Interface Segregation Principle Explained with Java Hands on Refactoring
+  description:
+  video_link: https://www.youtube.com/watch?v=jODR2vEmbzY
+
+- name: Dependency inversion principle - what, why, and how?
+  description:
+  video_link: https://www.youtube.com/watch?v=7yzqTAzjyk0
+
+
+
+
+
+
+
+
+
+
+
+
+
+

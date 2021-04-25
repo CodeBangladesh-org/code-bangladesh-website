@@ -1,0 +1,31 @@
+id: java-basic-tutorials-codingBurg
+name: জাভা প্রোগ্রামিং টিউটোরিয়াল
+description: >-
+  বেসিক জাভা প্রোগ্রামিং, OOP, মাল্টিথ্রেডিং, ইনার ক্লাস ও ইনহেরিটেন্স শেখানো হয়েছে।
+
+image_source: /assets/img/java.png
+category_id: java-programming
+number_of_videos: 5
+
+topics:
+  - জাভা
+  - অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং
+
+complexity: >-
+  বেসিক প্রোগ্রামিং এর অভিজ্ঞতা থাকতে হবে।
+
+instructors:
+  - name: CodingBurg
+    link: https://www.youtube.com/channel/UC7sS1rBaAMypmr6nBCixIAQ
+
+content:
+- name: ফুল প্লেলিস্ট
+  description:
+  video_link: https://www.youtube.com/playlist?list=PLD0kkgmDMAp1NB6HVo7m2s1lWkKEzQzlC
+
+
+
+
+
+
+

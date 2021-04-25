@@ -1,0 +1,30 @@
+id: how-to-be-good-developer
+name: কিভাবে ভাল ডেভেলপার হওয়া যায়?
+description: >-
+  ওয়েব ডেভেলপমেন্টের অনেকগুলো টেকনোলোজির মাঝে কি শেখা উচিত?
+
+image_source: /assets/img/kitty.png
+category_id: what-to-learn
+number_of_videos: 2
+
+topics:
+  - ওয়েব ডেভেলপমেন্ট
+
+complexity: >-
+  কোন অভিজ্ঞতা থাকার প্রয়োজন নাই।
+
+instructors:
+  - name: Maruf Hasan Bulbul
+    link: https://www.youtube.com/channel/UCM2pYl_Hc9i58_0l8C7_4Yg
+
+  - name: TechTong
+    link: https://www.youtube.com/c/TechTongBD
+
+content:
+  - name: কিভাবে ভাল প্রোগ্রামার হওয়া যায়? (Maruf Hasan Bulbul)
+    video_link: https://www.youtube.com/watch?v=0HzUwTCM7k0
+
+  - name: Mindset of a good software engineer | Non Technical Skills (TechTong)
+    video_link: https://www.youtube.com/watch?v=NAuEdOTdyWI
+
+

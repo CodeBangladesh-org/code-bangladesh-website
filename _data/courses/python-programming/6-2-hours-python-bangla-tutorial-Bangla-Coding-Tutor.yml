@@ -1,0 +1,24 @@
+id: 2-hours-python-bangla-tutorial-Bangla-Coding-Tutor
+name: ২ ঘণ্টায় পাইথন বাংলা টিউটোরিয়াল
+description: >-
+  পাইথন ফান্ডামেন্টালস শেখানো হয়েছে।
+
+image_source: /assets/img/python.png
+category_id: python-programming
+number_of_videos: 11
+
+topics:
+  - পাইথন
+  - অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং
+
+complexity: >-
+  পাইথন প্রোগ্রামিং এ যাদের কোন অভিজ্ঞতা নাই তারা ভাল ভাবে বুঝতে পারবে।
+
+instructors:
+  - name: Bangla Coding Tutor
+    link: https://www.youtube.com/c/BanglaCodingTutor
+
+content:
+  - name: ফুল প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PLdl6zXgLsy3wZIv1VidGb0eBymRMXoKu0
+
