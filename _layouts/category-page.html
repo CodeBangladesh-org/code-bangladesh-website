@@ -26,7 +26,7 @@ layout: codebangladesh-default
         <span>ফিল্টারঃ </span>
         {% for topic in page.topics %}
         <a href="{{ 'topics' | append: '/' | append: topic['filename'] | slug | relative_url }}"
-           class="badge badge-light" style="font-size: 100%">
+           class="badge" style="font-size: 100%">
             {{ topic["topic_name"] }} [{{ topic["number_of_courses"] | bangla_number }}]
         </a>
         {% endfor %}
