@@ -1,0 +1,22 @@
+id: play-with-DOM-Learn-with-Sumit
+name: Play with DOM
+description: >-
+  জাভাস্ক্রিপ্ট DOM কে ম্যানিপুলেট করে ডাইনামিক ওয়েবপেইজ তৈরি করে। জাভাস্ক্রিপ্ট মাস্টারিং এর অন্যতম গুরুত্বপুর্ন কনসেপ্ট এটি।
+
+image_source: /assets/img/javascript.png
+category_id: javascript-programming
+number_of_videos: 7
+
+topics:
+  - জাভাস্ক্রিপ্ট
+
+complexity: >-
+  জাভাস্ক্রিপ্ট এর বেসিক জানা থাকতে হবে।
+
+instructors:
+  - name: Learn with Sumit
+    link: https://www.youtube.com/c/LearnwithSumit
+
+content:
+  - name: Play with DOM (প্লেলিস্ট)
+    video_link: https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_

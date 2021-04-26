@@ -1,0 +1,22 @@
+id: beginning-javascript-Learn-with-Hasin-Hayder
+name: বিগিনিং জাভাস্ক্রিপ্ট
+description: >-
+  দারুণ সাবলীল ভাষায় জাভাস্ক্রিপ্ট শিখেয়েছেন Hasin Hayder।
+
+image_source: /assets/img/javascript.png
+category_id: javascript-programming
+number_of_videos: 40
+
+topics:
+  - জাভাস্ক্রিপ্ট
+
+complexity: >-
+  জাভাস্ক্রিপ্ট কোন অভিজ্ঞতা না থাকলে শিখতে পারবেন।
+
+instructors:
+  - name: Learn with Hasin Hayder
+    link: https://www.youtube.com/c/LearnwithHasinHayder
+
+content:
+  - name: বিগিনিং জাভাস্ক্রিপ্ট (প্লেলিস্ট)
+    video_link: https://www.youtube.com/playlist?list=PLoR56CteKZnAdVtfTbAbUqT2thG4S-Anv

@@ -1,5 +1,9 @@
 id: javascript-programming
-name: জাভাস্কিপ্ট
+name: জাভাস্ক্রিপ্ট
+description: >-
+  ওয়েব বা ব্রাউজার বেসড কোন সফটওয়্যার বানাতে গেলে জাভাস্ক্রিপ্ট জানা প্রায় ফরজ। ডাইনামিক ফ্রন্টএন্ড বা I/O বেসড ব্যাকএন্ড অ্যাপ্লিকেশন তৈরির
+  ক্ষমতার জন্য সবচেয়ে পরিচিত।
+
 image_source: /assets/img/javascript.png
 number_of_courses: dynamic
 number_of_videos: dynamic

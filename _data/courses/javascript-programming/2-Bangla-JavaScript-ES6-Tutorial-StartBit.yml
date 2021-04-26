@@ -1,0 +1,23 @@
+id: Bangla-JavaScript-ES6-Tutorial-StartBit
+name: বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল (ES6)
+description: >-
+  জাভাস্ক্রিপ্ট টিউটোরিয়াল সিরিজে আমরা JavaScript ও EcmaScript 6 এর বেসিক শিখব। এই সিরিজ টি দেখার পর আপনি JavaScript এর
+  যেকোন frontend ও backend ফ্রেমওয়ার্ক AngularJS, ReactJS, NodeJS নিয়ে কাজ করা শুরু করতে পারবেন।
+
+image_source: /assets/img/javascript.png
+category_id: javascript-programming
+number_of_videos: 21
+
+topics:
+  - জাভাস্ক্রিপ্ট
+
+complexity: >-
+  জাভাস্ক্রিপ্ট কোন অভিজ্ঞতা না থাকলে শিখতে পারবেন।
+
+instructors:
+  - name: StartBit
+    link: https://www.youtube.com/c/FakiBuzz
+
+content:
+  - name: বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল (প্লেলিস্ট)
+    video_link: https://www.youtube.com/playlist?list=PLlBKlxyCgmsAKeLIH0prMe1o9s1M4nAyr
