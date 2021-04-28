@@ -1,0 +1,22 @@
+id: CSS3-For-Beginners-JS-Bangladesh
+name: CSS3 for beginners
+description: >-
+  CSS নিয়ে Fundamental বিষয়গুলো থেকে শুরু করে Advanced টপিক পর্যন্ত আলোচনা করা হবে।
+
+image_source: /assets/img/web-design.png
+category_id: web-design
+number_of_videos: 11
+
+topics:
+  - CSS3
+
+complexity: >-
+  কোন অভিজ্ঞতা থাকার প্রয়োজন নাই।
+
+instructors:
+  - name: JS Bangladesh
+    link: https://www.youtube.com/channel/UCC-aIlmCJvIERahr2spCEDg
+
+content:
+  - name: প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PL4iFnndHldugVWLTCHxJPhvKxJPDeYIGa

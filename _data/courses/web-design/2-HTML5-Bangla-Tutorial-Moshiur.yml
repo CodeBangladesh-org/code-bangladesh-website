@@ -1,0 +1,22 @@
+id: HTML5-Bangla-Tutorial-Moshiur
+name: HTML5 বাংলা টিউটোরিয়াল
+description: >-
+  প্রফেশনার ওয়েব ডিজাইনারের জন্য প্রথমে যা জানতে হবে তা হলো HTML5। এই কোর্সটি বিস্তারিত আলোচনা করা হয়েছে।
+
+image_source: /assets/img/web-design.png
+category_id: web-design
+number_of_videos: 30
+
+topics:
+  - HTML5
+
+complexity: >-
+  কোন অভিজ্ঞতা থাকার প্রয়োজন নাই।
+
+instructors:
+  - name: Moshiur
+    link: https://www.youtube.com/c/Moshiur
+
+content:
+  - name: প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PLm64fbD5OnxuObyOVSxcM0TUcBLDF2w64

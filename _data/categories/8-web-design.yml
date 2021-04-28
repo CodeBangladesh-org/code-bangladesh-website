@@ -1,0 +1,15 @@
+id: web-design
+name: ওয়েব ডিজাইন
+description: >-
+  ব্রাউজারে আমরা যা দেখি তা HTML, CSS ও জাভাস্ক্রিপ্টের কারসাজি। একটি স্ট্যাটিক ওয়েবসাইট বা ওয়েব আপ্লিকেশনের ফ্রন্টএন্ড বানাতে ওয়েব
+  ডিজাইন জানতেই হবে।
+
+image_source: /assets/img/web-design.png
+number_of_courses: dynamic
+number_of_videos: dynamic
+number_of_topics: dynamic
+
+popular_topics:
+  - HTML 5
+  - CSS
+  - Bootstrap
