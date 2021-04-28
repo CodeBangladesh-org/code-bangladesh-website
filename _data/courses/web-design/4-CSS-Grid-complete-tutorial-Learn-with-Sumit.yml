@@ -1,0 +1,23 @@
+id: CSS-Grid-complete-tutorial-Learn-with-Sumit
+name: CSS Grid বাংলা টিউটোরিয়াল
+description: >-
+  Modern Web Design Layout তৈরী করার জন্য খুব ই কার্যকরী একটি layout system হলো CSS Grid. এই video তে আমি CSS Grid সম্পর্কে
+  একটা complete ধারণা দিয়েছি এবং শেষে একটা practical layout বানিয়ে দেখিয়েছি।
+
+image_source: /assets/img/web-design.png
+category_id: web-design
+number_of_videos: 1
+
+topics:
+  - CSS3
+
+complexity: >-
+  বেসিক CSS অভিজ্ঞতা থাকার প্রয়োজন।
+
+instructors:
+  - name: Learn with Sumit
+    link: https://www.youtube.com/c/LearnwithSumit
+
+content:
+  - name: একটি ভিডিওতেই সবকিছু
+    video_link: https://www.youtube.com/watch?v=kEFIdXzQXYw
