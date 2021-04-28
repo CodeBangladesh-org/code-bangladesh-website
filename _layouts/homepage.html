@@ -24,9 +24,9 @@ layout: codebangladesh-default
     {% for category in site.data.pretty_categories %}
     {% if site.data.pretty_category_courses[category.id].size > 0 %}
     <div class="col mb-4" style="min-width: 19rem">
-        <div class="card" style="min-height: 18rem">
+        <div class="card" style="min-height: 19rem">
             <div class="card-body">
-                <h5><img class="img-fluid" height="40" src="{{ category.image_source }}" width="40">
+                <h5><img class="img-fluid" src="{{ category.image_source }}" height="35" width="35">
                 <a class="card-title" href="{{ category.id | append: '-courses' | relative_url }}">
                     {{ category.name | escape }}
                 </a></h5>
