@@ -1,7 +1,8 @@
 id: mobile-app-development
 name: মোবাইল অ্যাপ ডেভেলপমেন্ট
-description:
-image_source: https://dummyimage.com/600x400/563d7c/ffffff&text=.card-img-topfff&text=.card-img-top
+description: >-
+
+image_source: /assets/img/mobile-development.png
 number_of_courses: dynamic
 number_of_videos: dynamic
 number_of_topics: dynamic
