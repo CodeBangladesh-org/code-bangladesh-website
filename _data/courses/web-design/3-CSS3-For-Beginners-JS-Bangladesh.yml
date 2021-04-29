@@ -8,7 +8,7 @@ category_id: web-design
 number_of_videos: 11
 
 topics:
-  - CSS3
+  - CSS
 
 complexity: >-
   কোন অভিজ্ঞতা থাকার প্রয়োজন নাই।
@@ -18,5 +18,5 @@ instructors:
     link: https://www.youtube.com/channel/UCC-aIlmCJvIERahr2spCEDg
 
 content:
-  - name: প্লেলিস্ট
+  - name: ইউটিউব প্লেলিস্ট
     video_link: https://www.youtube.com/playlist?list=PL4iFnndHldugVWLTCHxJPhvKxJPDeYIGa

@@ -1,0 +1,23 @@
+id: Bootstrap5-Full-Bangla-Crash-Course-StartBit
+name: বুটষ্ট্র্যাপ ৫ সম্পূর্ন বাংলা ক্র্যাস কোর্স
+description: >-
+  বাংলায় বুটস্ট্র্যাপ 5 এর একটি পূর্নাংগ কোর্স, এই কোর্সে পুরো বুটস্ট্র্যাপ 5 শুরু থেকে শেষ পর্যন্ত কভার করব।
+
+image_source: /assets/img/web-design.png
+category_id: web-design
+number_of_videos: 1
+
+topics:
+  - বুটস্ট্র্যাপ
+  - CSS
+
+complexity: >-
+  CSS সম্পর্কে ধারনা থাকতে হবে।
+
+instructors:
+  - name: StartBit
+    link: https://www.youtube.com/c/FakiBuzz
+
+content:
+  - name: বুটষ্ট্র্যাপ ৫ সম্পূর্ন বাংলা ক্র্যাস কোর্স
+    video_link: https://www.youtube.com/watch?v=Ap_8f7Y1wx8
