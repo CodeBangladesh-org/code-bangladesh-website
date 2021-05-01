@@ -1,8 +1,7 @@
 id: SOLID-principles-explained-with-java-code-TechTalk-with-Mahmood
 name: SOLID প্রিন্সিপলস জাভা উদাহারনসহ
 description: >-
-  SOLID প্রিন্সিপলগুলোর মূল উদ্দেশ্য হলো maintainable, understandable, ও flexible সফটওয়্যার ডিজাইন করা। Design Principles and
-  Design Patterns প্রকাশনাতে আঙ্কেল বব মার্টিন পাঁচটি সফটওয়্যার ডিজাইন প্রিন্সিপল নিয়ে কথা বলেছেন। সফটওয়্যার বড় হওয়ার সাথে
+  SOLID প্রিন্সিপলগুলোর মূল উদ্দেশ্য হলো maintainable, understandable, ও flexible সফটওয়্যার ডিজাইন করা। সফটওয়্যার বড় হওয়ার সাথে
   সাথে প্রজেক্টের কমপ্লেসিটি বাড়তে থাকে। যদি SOLID প্রিন্সিপলস এর প্যাটার্নগুলো ফলো করে কোড করা হয় তাহলে পরবর্তীতে প্রজেক্টের কমপ্লেসিটি কমবে,
   understandable ও flexible কোডবেস হবে।
 
