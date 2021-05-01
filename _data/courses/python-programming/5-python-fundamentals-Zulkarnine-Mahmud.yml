@@ -21,9 +21,12 @@ instructors:
 content:
   - name: পাইথন ফান্ডামেন্টালস
     video_link: https://www.youtube.com/watch?v=Z6JjqHxT6oM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: পাইথন Bonus
     video_link: https://www.youtube.com/watch?v=XEqKCvhlP3c
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: পাইথন OOP, Class, Object
     video_link: https://www.youtube.com/watch?v=XEqKCvhlP3c
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

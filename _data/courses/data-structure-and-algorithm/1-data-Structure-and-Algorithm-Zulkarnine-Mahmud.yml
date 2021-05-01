@@ -21,9 +21,12 @@ instructors:
 content:
   - name: পার্ট ১
     video_link: https://www.youtube.com/watch?v=GrueBnqMIsU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: পার্ট ২
     video_link: https://www.youtube.com/watch?v=vZi5UySLFOg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: পার্ট ৩
     video_link: https://www.youtube.com/watch?v=7NlSnZExE1w
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

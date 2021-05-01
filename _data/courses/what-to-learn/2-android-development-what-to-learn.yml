@@ -23,9 +23,12 @@ instructors:
 content:
   - name: Android Developer হওয়ার জন্যে কিভাবে শুরু করবেন, কি শিখবেন ? A Complete Guide (Rabbil Hasan)
     video_link: https://www.youtube.com/watch?v=O95uA9b9S-o
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Android এর সাথে JAVA এর সম্পর্ক কি ! Kotlin C++ এসব ক্যামনে কি ? (Rabbil Hasan)
     video_link: https://www.youtube.com/watch?v=yma9e10QSM4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Flutter কি? কিভাবে অ্যান্ড্রয়েড অ্যাপ তৈরি হয়? (Techno BD XYZ)
     video_link: https://www.youtube.com/watch?v=SgETZMVg-gg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

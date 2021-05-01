@@ -20,3 +20,4 @@ instructors:
 content:
   - name: Play with DOM (ইউটিউব প্লেলিস্ট)
     video_link: https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

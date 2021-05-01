@@ -21,3 +21,4 @@ instructors:
 content:
   - name: একটি ভিডিওতেই সবকিছু
     video_link: https://www.youtube.com/watch?v=kEFIdXzQXYw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

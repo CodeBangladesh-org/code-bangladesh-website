@@ -19,9 +19,9 @@ instructors:
     link: https://www.youtube.com/channel/UC7sS1rBaAMypmr6nBCixIAQ
 
 content:
-- name: ইউটিউব প্লেলিস্ট
-  description:
-  video_link: https://www.youtube.com/playlist?list=PLD0kkgmDMAp1NB6HVo7m2s1lWkKEzQzlC
+  - name: ইউটিউব প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PLD0kkgmDMAp1NB6HVo7m2s1lWkKEzQzlC
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
 
 

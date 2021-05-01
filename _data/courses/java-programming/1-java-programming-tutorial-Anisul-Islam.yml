@@ -20,6 +20,7 @@ instructors:
 content:
   - name: জাভা সূচনা
     video_link: https://www.youtube.com/watch?v=hf4k4OWlBfI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Netbean এ JDK সেটআপ ও JDK not found সমস্যার সমাধান
     video_link: https://www.youtube.com/watch?v=vLeY9fkdWiU

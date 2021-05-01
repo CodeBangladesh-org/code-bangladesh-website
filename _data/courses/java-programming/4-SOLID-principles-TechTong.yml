@@ -21,30 +21,29 @@ instructors:
     link: https://www.youtube.com/c/TechTongBD
 
 content:
-- name: SOLID Principles in Software Design - What and Why?
-  description:
-  video_link: https://www.youtube.com/watch?v=9cEMm3K9DcI
+  - name: SOLID Principles in Software Design - What and Why?
+    video_link: https://www.youtube.com/watch?v=9cEMm3K9DcI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-- name: Single Responsibility Principle Explained with Hands On Refactoring
-  description:
-  video_link: https://www.youtube.com/watch?v=NIewq8AbJ1c
+  - name: Single Responsibility Principle Explained with Hands On Refactoring
+    video_link: https://www.youtube.com/watch?v=NIewq8AbJ1c
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-- name: Open/Closed Principle Explained | Code Refactoring
-  description:
-  video_link: https://www.youtube.com/watch?v=osLOR9FH_hg
+  - name: Open/Closed Principle Explained | Code Refactoring
+    video_link: https://www.youtube.com/watch?v=osLOR9FH_hg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-- name: Liskov Substitution Principle explained pratically in Java
-  description:
-  video_link: https://www.youtube.com/watch?v=C1oNSlug6f0
+  - name: Liskov Substitution Principle explained pratically in Java
+    video_link: https://www.youtube.com/watch?v=C1oNSlug6f0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-- name: Interface Segregation Principle Explained with Java Hands on Refactoring
-  description:
-  video_link: https://www.youtube.com/watch?v=jODR2vEmbzY
+  - name: Interface Segregation Principle Explained with Java Hands on Refactoring
+    video_link: https://www.youtube.com/watch?v=jODR2vEmbzY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-- name: Dependency inversion principle - what, why, and how?
-  description:
-  video_link: https://www.youtube.com/watch?v=7yzqTAzjyk0
-
+  - name: Dependency inversion principle - what, why, and how?
+    video_link: https://www.youtube.com/watch?v=7yzqTAzjyk0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
 
 

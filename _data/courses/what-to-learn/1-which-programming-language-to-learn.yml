@@ -26,9 +26,12 @@ instructors:
 content:
   - name: কোন কাজের জন্য কোন প্রোগ্রামিং ল্যাংগুয়েজ (Arafin Ahmed)
     video_link: https://www.youtube.com/watch?v=fATzMMDH4lY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: কোন প্রোগ্রামিং ল্যাঙ্গুয়েজ শিখবো? (Jhankar Mahbub)
     video_link: https://www.youtube.com/watch?v=3w5UAWhIjgQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: আইটি ক্যারিয়ারের জন্য কোন ল্যাঙ্গুয়েজ শেখা ভাল? (TechTalk with Mahmood)
     video_link: https://www.youtube.com/watch?v=B-DzsnKbn8E
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

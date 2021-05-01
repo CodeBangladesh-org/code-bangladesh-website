@@ -24,33 +24,33 @@ instructors:
     link: https://www.youtube.com/c/TechtalkwithMahmood
 
 content:
-- name: SOLID প্রিন্সিপল কি?
-  description: >-
-    যে পাঁচটি সফটওয়্যার ডিজাইন প্রিন্সিপল নিয়ে SOLID প্রিন্সিপল তা এই ভিডিওতে ইন্ট্রো আকারে দেয়া হলো।
-  video_link: https://youtu.be/JiHiYx5qupg
+  - name: SOLID প্রিন্সিপল কি?
+    video_link: https://youtu.be/JiHiYx5qupg
+    description: >-
+      যে পাঁচটি সফটওয়্যার ডিজাইন প্রিন্সিপল নিয়ে SOLID প্রিন্সিপল তা এই ভিডিওতে ইন্ট্রো আকারে দেয়া হলো। (ইউটিউব লিঙ্ক)
 
-- name: সিঙ্গেল রেস্পন্সিবিলিটি প্রিন্সিপল
-  description: >-
-    SOLID এর S বা সিঙ্গেল রেস্পন্সিবিলিটি প্রিন্সিপল নিয়ে আলোচনা এই ভিডিওতে।
-  video_link: https://youtu.be/4AaIYvZmwK0
+  - name: সিঙ্গেল রেস্পন্সিবিলিটি প্রিন্সিপল
+    video_link: https://youtu.be/4AaIYvZmwK0
+    description: >-
+      SOLID এর S বা সিঙ্গেল রেস্পন্সিবিলিটি প্রিন্সিপল নিয়ে আলোচনা এই ভিডিওতে। (ইউটিউব লিঙ্ক)
 
-- name: ওপেন ক্লোজড প্রিন্সিপল
-  description: >-
-    SOLID এর O বা ওপেন ক্লোজড প্রিন্সিপল নিয়ে আলোচনা এই ভিডিওতে।
-  video_link: https://youtu.be/jH1U9Crx-VA
+  - name: ওপেন ক্লোজড প্রিন্সিপল
+    video_link: https://youtu.be/jH1U9Crx-VA
+    description: >-
+      SOLID এর O বা ওপেন ক্লোজড প্রিন্সিপল নিয়ে আলোচনা এই ভিডিওতে। (ইউটিউব লিঙ্ক)
 
-- name: লিসকভ সাবস্টিটুউশন প্রিন্সিপল
-  description: >-
-    SOLID এর L বা লিসকভ সাবস্টিটুউশন প্রিন্সিপল নিয়ে আলোচনা এই ভিডিওতে।
-  video_link: https://youtu.be/5KyVKQTwr1k
+  - name: লিসকভ সাবস্টিটুউশন প্রিন্সিপল
+    video_link: https://youtu.be/5KyVKQTwr1k
+    description: >-
+      SOLID এর L বা লিসকভ সাবস্টিটুউশন প্রিন্সিপল নিয়ে আলোচনা এই ভিডিওতে। (ইউটিউব লিঙ্ক)
 
-- name: ইন্টারফেস সেগ্রিগেশন প্রিন্সিপল
-  description: >-
-    SOLID এর I বা ইন্টারফেস সেগ্রিগেশন প্রিন্সিপল নিয়ে আলোচনা এই ভিডিওতে।
-  video_link: https://youtu.be/fIiDx4Zn8Rs
+  - name: ইন্টারফেস সেগ্রিগেশন প্রিন্সিপল
+    video_link: https://youtu.be/fIiDx4Zn8Rs
+    description: >-
+      SOLID এর I বা ইন্টারফেস সেগ্রিগেশন প্রিন্সিপল নিয়ে আলোচনা এই ভিডিওতে। (ইউটিউব লিঙ্ক)
 
-- name: ডিপেন্ডেন্সি ইনভার্শন প্রিন্সিপল
-  description: >-
-    SOLID এর D বা ডিপেন্ডেন্সি ইনভার্শন প্রিন্সিপল নিয়ে আলোচনা এই ভিডিওতে।
-  video_link: https://youtu.be/2czWW8JucQU
+  - name: ডিপেন্ডেন্সি ইনভার্শন প্রিন্সিপল
+    video_link: https://youtu.be/2czWW8JucQU
+    description: >-
+      SOLID এর D বা ডিপেন্ডেন্সি ইনভার্শন প্রিন্সিপল নিয়ে আলোচনা এই ভিডিওতে। (ইউটিউব লিঙ্ক)
 
