@@ -24,461 +24,608 @@ content:
 
   - name: Netbean এ JDK সেটআপ ও JDK not found সমস্যার সমাধান
     video_link: https://www.youtube.com/watch?v=vLeY9fkdWiU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: প্রথম জাভা আপ্লিকেশন
     video_link: https://www.youtube.com/watch?v=ZBsm7mX4cE4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: String এ ইস্কেপ সিকুয়েন্স
     video_link: https://www.youtube.com/watch?v=_1N8dKsQ8JE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: কমেন্ট
     video_link: https://www.youtube.com/watch?v=jZlMh69-45c
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: প্রোগ্রাম চালানোর ধাপগুলো
     video_link: https://www.youtube.com/watch?v=IKIVEPRW6uM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: ভ্যারিয়েবল ও ড্যাটা টাইপ (পার্ট ১)
     video_link: https://www.youtube.com/watch?v=8Udh2XRF2gc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: ভ্যারিয়েবল ও ড্যাটা টাইপ (পার্ট ২)
     video_link: https://www.youtube.com/watch?v=ZLPY87bWO6k
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Format specifier
     video_link: https://www.youtube.com/watch?v=glkZLc9jnCw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: How to get user input
     video_link: https://www.youtube.com/watch?v=Po8bPEFsnow
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Arithmetic Operator (simple Calculator)
     video_link: https://www.youtube.com/watch?v=sMbDqDG56Zw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Assignment Operator
     video_link: https://www.youtube.com/watch?v=YDbN8R00vY0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Area of triangle and circle
     video_link: https://www.youtube.com/watch?v=GVHCWFbSudM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Temperature Converter
     video_link: https://www.youtube.com/watch?v=VevKmDVtB1s
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Unary operator
     video_link: https://www.youtube.com/watch?v=6qPXOplc6uA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Relational Operator
     video_link: https://www.youtube.com/watch?v=eSU34np9DLc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Control Statement ( if,else )
     video_link: https://www.youtube.com/watch?v=MddtJbNvxMQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Checking Even/Odd Number
     video_link: https://www.youtube.com/watch?v=PWaVjoY0clQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Checking Vowel/Consonant
     video_link: https://www.youtube.com/watch?v=vP0XFm0BV3U
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Logical Operator (part-1)
     video_link: https://www.youtube.com/watch?v=ioQRYoE0Y04
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Logical Operator (part-2)
     video_link: https://www.youtube.com/watch?v=6k0rDeGplwE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: switch (part-1)
     video_link: https://www.youtube.com/watch?v=NDtRRR3WDL0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: switch (part-2)
     video_link: https://www.youtube.com/watch?v=hRUkljRO25g
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Conditional Operator
     video_link: https://www.youtube.com/watch?v=LWvia2PQh4k
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Bitwise operator
     video_link: https://www.youtube.com/watch?v=TllHVJGEY5A
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Math Class
     video_link: https://www.youtube.com/watch?v=3E4UB_RYY_c
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: for loop
     video_link: https://www.youtube.com/watch?v=AVKvaIAWKYQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: while loop
     video_link: https://www.youtube.com/watch?v=e3GWjcY478Y
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: do while loop
     video_link: https://www.youtube.com/watch?v=sDNrL8xoRx0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: while vs do-while loop
     video_link: https://www.youtube.com/watch?v=fsnGj9mhCIA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: break and continue statement
     video_link: https://www.youtube.com/watch?v=m0Kkv3mWQOg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Netbeans keyboard shortcut
     video_link: https://www.youtube.com/watch?v=0ZOmylyFZQQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: print Even number from m to n
     video_link: https://www.youtube.com/watch?v=rgQAmCziUtc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Series (part-1)
     video_link: https://www.youtube.com/watch?v=EjY4iFvPRqU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Series (part-2)
     video_link: https://www.youtube.com/watch?v=5M5g24RQfwE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Factorial of a number
     video_link: https://www.youtube.com/watch?v=djB0qWh2yiY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Multiplication Table ( গুণের নামতা )
     video_link: https://www.youtube.com/watch?v=9uprdqZmQ2A
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Prime Number (মৌলিক সংখ্যা)
     video_link: https://www.youtube.com/watch?v=T8CRalD1mgc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Prime Numbers from m to n
     video_link: https://www.youtube.com/watch?v=ch7E1SXjfLk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Fibonacci series
     video_link: https://www.youtube.com/watch?v=5YVuG-885Ug
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: sum of digits (Theory)
     video_link: https://www.youtube.com/watch?v=IVHExlhBhrE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: sum of digits (practical)
     video_link: https://www.youtube.com/watch?v=lnK_Z_IbpqQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: How To Reverse A Number (Theory)
     video_link: https://www.youtube.com/watch?v=NwFRZK5kj_U
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: How To Reverse A Number (practical)
     video_link: https://www.youtube.com/watch?v=L5N9zYoOo8I
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Palindrome number (Theory)
     video_link: https://www.youtube.com/watch?v=1rVaH6_L3iQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Palindrome Number (practical)
     video_link: https://www.youtube.com/watch?v=4xff-zaIkac
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Armstrong number (Theory)
     video_link: https://www.youtube.com/watch?v=MWORULBTt-o
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Armstrong Number (practical)
     video_link: https://www.youtube.com/watch?v=2gRsO3GZkYE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: pattern 1
     video_link: https://www.youtube.com/watch?v=LLDIiIyU1Pc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: pattern 2
     video_link: https://www.youtube.com/watch?v=2Rquz1rstM4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Introduction to Array
     video_link: https://www.youtube.com/watch?v=CulauAqd7AA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Array ( finding sum and average )
     video_link: https://www.youtube.com/watch?v=PEv0gtMdMdA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Array ( finding Maximum and minimum)
     video_link: https://www.youtube.com/watch?v=DuyMEGxd-BI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: for each loop
     video_link: https://www.youtube.com/watch?v=1LIbHvJX-1w
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: introduction to 2D array
     video_link: https://www.youtube.com/watch?v=7gfVMC7x_QM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Array (Matrix part-1)
     video_link: https://www.youtube.com/watch?v=0_em4d79wcY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Array ( Matrix part-2 )
     video_link: https://www.youtube.com/watch?v=Novjda71-Wc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: sum of diagonal, upper triangle and lower triangle elements of a matrix
     video_link: https://www.youtube.com/watch?v=iC0c3ABIzkU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Array output (part-1)
     video_link: https://www.youtube.com/watch?v=LdrBdj84zw4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Array output (part-2)
     video_link: https://www.youtube.com/watch?v=ueJkSgvVt4U
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Sorting an Array
     video_link: https://www.youtube.com/watch?v=vwS9mDCdoBo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: ArrayList (part-1)
     video_link: https://www.youtube.com/watch?v=FZFdTY5FIHg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: ArrayList (part-2)
     video_link: https://www.youtube.com/watch?v=yYOAHrWZ8is
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: ArrayList (part-3)
     video_link: https://www.youtube.com/watch?v=KQhcMDfr2lI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Sorting an ArrayList
     video_link: https://www.youtube.com/watch?v=GSmcD5CBGSc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: String (part-1)
     video_link: https://www.youtube.com/watch?v=CWbO9tf1iGk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: String (part-2)
     video_link: https://www.youtube.com/watch?v=Az3-FLM8JJI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: String (part-3)
     video_link: https://www.youtube.com/watch?v=biu3d5cGPV4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: String (part-4)
     video_link: https://www.youtube.com/watch?v=AzFvZZe4Uvo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: StringBuffer
     video_link: https://www.youtube.com/watch?v=qF1mJhqlYqw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: String Palindrome
     video_link: https://www.youtube.com/watch?v=57duOwmqifk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: StringBuilder
     video_link: https://www.youtube.com/watch?v=JX6wxGi6wNM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Wrapper class (autoboxing, unboxing)
     video_link: https://www.youtube.com/watch?v=o0tP_aebqOk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Conversion between String and Primitive Data type
     video_link: https://www.youtube.com/watch?v=0ZAsvFSKwqU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Decimal To Binary,octal,hexadecimal
     video_link: https://www.youtube.com/watch?v=TPu5VpbVw6c
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Binary, octal, hexadecimal to Decimal
     video_link: https://www.youtube.com/watch?v=zePmPqyGz-M
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Date
     video_link: https://www.youtube.com/watch?v=DzY6YTePqJw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Time
     video_link: https://www.youtube.com/watch?v=Hj8CHr2k7WA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Random Number Generator
     video_link: https://www.youtube.com/watch?v=YJjQrEanyQM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Introduction to OOP | class,objects
     video_link: https://www.youtube.com/watch?v=5sH2WHxApTE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Introducing method
     video_link: https://www.youtube.com/watch?v=sGqUBTWxYj4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Parametrized Method
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
     video_link: https://www.youtube.com/watch?v=hvbCvpnvMaY
 
   - name: Constructor
     video_link: https://www.youtube.com/watch?v=ZaQ9Br0-Sbo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Types of Constructor
     video_link: https://www.youtube.com/watch?v=8U3CdZES7IY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Overloading constructor
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
     video_link: https://www.youtube.com/watch?v=oFAWd4l9zQE
 
   - name: Returning a value from method
     video_link: https://www.youtube.com/watch?v=oVoKwpmQjR0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Difference between Constructor And Method
     video_link: https://www.youtube.com/watch?v=8S7I2Z5yqNQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: static variable (part-1)
     video_link: https://www.youtube.com/watch?v=K3RXf7IMwWs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: static variable (part-2)
     video_link: https://www.youtube.com/watch?v=oS2k1JTnRdc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: static variable (part-3)
     video_link: https://www.youtube.com/watch?v=GL_YOiqz4WE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: static method
     video_link: https://www.youtube.com/watch?v=CTvteDE4tIs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: static method's restrictions
     video_link: https://www.youtube.com/watch?v=Q7q_SXBKwOk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: static block
     video_link: https://www.youtube.com/watch?v=inpThZFe_NI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Types of variable | local, class, instance variable
     video_link: https://www.youtube.com/watch?v=KHRS60UgsNU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Problem Solving - 1 (Box volume)
     video_link: https://www.youtube.com/watch?v=N5S2xERb_gs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Instance Variable Hiding
     video_link: https://www.youtube.com/watch?v=r5klZTH1e9o
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Math class (Remake)
     video_link: https://www.youtube.com/watch?v=1RcJUfBQtac
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Method Overloading
     video_link: https://www.youtube.com/watch?v=DwaUODamu2g
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Automatic Type Conversion
     video_link: https://www.youtube.com/watch?v=8kbaS9TRtyk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Debugging in java
     video_link: https://www.youtube.com/watch?v=h4009ZHlbPw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: call by value vs call by reference
     video_link: https://www.youtube.com/watch?v=ZrzmE2gW2ks
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: variable length arguments
     video_link: https://www.youtube.com/watch?v=hn5V5TmpDls
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: factorial using recursion in java
     video_link: https://www.youtube.com/watch?v=5yP5Tr218kc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Iteration vs Recursion
     video_link: https://www.youtube.com/watch?v=1NbPbdbSDtk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Encapsulation
     video_link: https://www.youtube.com/watch?v=hpRcmfNnwu8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Setter And Getter methods
     video_link: https://www.youtube.com/watch?v=5zanUOGTzk8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Inheritance (Theory)
     video_link: https://www.youtube.com/watch?v=4HbOzg4aWFk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Inheritance (practical)
     video_link: https://www.youtube.com/watch?v=XZO7OMMFMl8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Inheriting Private Member
     video_link: https://www.youtube.com/watch?v=tF0JZVWr3IQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: instanceof Operator
     video_link: https://www.youtube.com/watch?v=TXuPpxpKMDU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Types of Inheritance
     video_link: https://www.youtube.com/watch?v=fnqSfeZ8n8c
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Method Overriding (part-1)
     video_link: https://www.youtube.com/watch?v=CXZ1SgyLMxU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Method Overriding (part-2)
     video_link: https://www.youtube.com/watch?v=MHBoFRqQB3k
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Method Overloading Vs Method Overriding
     video_link: https://www.youtube.com/watch?v=9nR-XD8hFnU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Why Java Doesn't Support Multiple Inheritance ?
     video_link: https://www.youtube.com/watch?v=kzUUW4BSSG0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: super keyword (part-1)
     video_link: https://www.youtube.com/watch?v=_ZrRORCIev4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Super Keyword (part-2)
     video_link: https://www.youtube.com/watch?v=gs5aWsbsej4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: super keyword (part-3)
     video_link: https://www.youtube.com/watch?v=fD2wJtoaQGI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: super keyword (part-4)
     video_link: https://www.youtube.com/watch?v=RBRmfPWJvhw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: this Keyword (part-1)
     video_link: https://www.youtube.com/watch?v=WeB03aowC-k
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: this Keyword (part-2)
     video_link: https://www.youtube.com/watch?v=RRtFMXjBo7c
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: final Keyword (part-1)
     video_link: https://www.youtube.com/watch?v=__vHJJf5vWc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: final Keyword (part-2)
     video_link: https://www.youtube.com/watch?v=lURPx32q5Uw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Polymorphism (Theory)
     video_link: https://www.youtube.com/watch?v=AlTTlEj2Z78
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Polymorphism (Practical-1)
     video_link: https://www.youtube.com/watch?v=ldrDMD0zZPM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Polymorphism (Practical-2)
     video_link: https://www.youtube.com/watch?v=g2R4CiV0H9M
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Abstraction (Theory)
     video_link: https://www.youtube.com/watch?v=XUvnPcnYsHM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Abstraction (Practical)
     video_link: https://www.youtube.com/watch?v=P_Yb5CQFh3Y
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Problem solving-2 (Abstract class Shape)
     video_link: https://www.youtube.com/watch?v=tsyK0r-cpA0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Introduction to interface
     video_link: https://www.youtube.com/watch?v=ksj96Q8XVh4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Why Interface Support Multiple Inheritance ?
     video_link: https://www.youtube.com/watch?v=vsO0HLu7zaM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Difference Between Abstract Class And Interface
     video_link: https://www.youtube.com/watch?v=LNDOlSOa_B4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Package (theory)
     video_link: https://www.youtube.com/watch?v=vwyGP2LPAoc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Package (practical)
     video_link: https://www.youtube.com/watch?v=xsmTP5WIcPE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Access Modifier
     video_link: https://www.youtube.com/watch?v=cHxlv-UPp0g
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Type Casting (Upcasting & Downcasting)
     video_link: https://www.youtube.com/watch?v=1YineNi4164
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Anonymous class
     video_link: https://www.youtube.com/watch?v=OTeR-3GnI3s
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Exception handling (Theory)
     video_link: https://www.youtube.com/watch?v=ucpUzdqDubs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Exception handling (practical)
     video_link: https://www.youtube.com/watch?v=p4p5VujIkUo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Problem solving-3 (Exception Handling)
     video_link: https://www.youtube.com/watch?v=5CazHwwzfjM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Decimal Number Formatting
     video_link: https://www.youtube.com/watch?v=wDI-VqiFM44
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: toString Method
     video_link: https://www.youtube.com/watch?v=ZlMgv5EzrAY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: String comparison | equal( ) vs ==
     video_link: https://www.youtube.com/watch?v=onseyF_KN-M
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: LinkedList (part-1)
     video_link: https://www.youtube.com/watch?v=NgphSe8Cdr8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: LinkedList (part-2)
     video_link: https://www.youtube.com/watch?v=ShbLRIUhaKc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: Creating a Student List
     video_link: https://www.youtube.com/watch?v=mkxBZbxVUV8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: HashMap
     video_link: https://www.youtube.com/watch?v=5LuNlnwFPQ4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: HashSet
     video_link: https://www.youtube.com/watch?v=lbhuJ15SjZk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: How to create a file or directory
     video_link: https://www.youtube.com/watch?v=zcPo8kcPJoM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: How to write into a File
     video_link: https://www.youtube.com/watch?v=iO31szWASfM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: How to read a File
     video_link: https://www.youtube.com/watch?v=g9nmd0X43xY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: How to run a java program from command Line
     video_link: https://www.youtube.com/watch?v=7GkGWdv5lvY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
   - name: How to run a java program from a package
     video_link: https://www.youtube.com/watch?v=OjKYFEO9Q-0
-
-
-
-  
-  
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
