@@ -3,18 +3,20 @@ module MobileAppDataGeneratorPlugin
   class Generator < Jekyll::Generator
     def generate(site)
 
-      courses = []
       categories = Common.read_categories(site)
       categories.each do | category |
-        courses += Common.read_category_courses(site, category["id"])
+        category["courses"] = Common.read_category_courses(site, category["id"])
+        category["topics"] = Common.read_category_topics(site, category["id"])
       end
+
+      # Delete category if no courses
+      categories.delete_if { |category| category["courses"].size == 0 }
 
       conf = Jekyll.configuration({})
       payload_obj = {
-        "header_text" => conf["header_text"],
+        "headerText" => conf["header_text"],
         "description" => conf["description"],
-        "categories" => categories,
-        "courses" => courses
+        "categories" => categories
       }
 
       Common.generate_json(site, "app-data", payload_obj)
