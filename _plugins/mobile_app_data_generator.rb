@@ -13,9 +13,15 @@ module MobileAppDataGeneratorPlugin
       categories.delete_if { |category| category["courses"].size == 0 }
 
       conf = Jekyll.configuration({})
-      payload_obj = {
+      site_conf = {
         "headerText" => conf["header_text"],
         "description" => conf["description"],
+        "email" => conf["email"],
+        "discordInvite" => conf["discord_invite"],
+        "githubLink" => conf["github_link"],
+      }
+      payload_obj = {
+        "site_conf" => site_conf,
         "categories" => categories
       }
 
