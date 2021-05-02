@@ -16,6 +16,8 @@ exclude:
 
 # Custom Properties
 header_text: বাংলায় শিখি সবকিছু
+discord_invite: https://discord.gg/RsCDspZKqM
+github_link: https://github.com/CodeBangladesh-org
 
 # Build settings
 theme: minima

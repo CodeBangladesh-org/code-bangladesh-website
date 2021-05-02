@@ -4,7 +4,7 @@
             <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
                 <ul class="list-inline text-center footer-links">
                     <li class="list-inline-item">
-                        <a href="mailto:admin@codebangladesh.org" title="ইমেইল করুন">
+                        <a href="mailto:{{ site.email }}" title="ইমেইল করুন">
                           <span aria-hidden="true" class="fa-stack fa-lg">
                             <i class="fas fa-circle fa-stack-2x"></i>
                             <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
@@ -13,7 +13,7 @@
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a href="https://github.com/CodeBangladesh-org" title="গিটহাব">
+                        <a href="{{ site.github_link }}" title="গিটহাব">
                           <span aria-hidden="true" class="fa-stack fa-lg">
                             <i class="fas fa-circle fa-stack-2x"></i>
                             <i class="fab fa-github fa-stack-1x fa-inverse"></i>
@@ -22,7 +22,7 @@
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a href="https://discord.gg/wMNP5JEn" title="ডিসকর্ড" target="_blank">
+                        <a href="{{ site.discord_invite }}" title="ডিসকর্ড" target="_blank">
                           <span aria-hidden="true" class="fa-stack fa-lg">
                               <i class="fas fa-circle fa-stack-2x"></i>
                               <i class="fab fa-discord fa-stack-1x fa-inverse"></i>
@@ -33,7 +33,7 @@
                 </ul>
 
                 <p class="copyright text-muted">কোড বাংলাদেশ&nbsp;•&nbsp;2021 &nbsp•&nbsp;
-                    <span class="author-site"><a href="https://CodeBangladesh.org">CodeBangladesh.org</a></span>
+                    <span class="author-site"><a href="{{ site.url }}">CodeBangladesh.org</a></span>
                 </p>
             </div>
         </div>
