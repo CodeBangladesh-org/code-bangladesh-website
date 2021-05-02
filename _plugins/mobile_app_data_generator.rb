@@ -21,7 +21,7 @@ module MobileAppDataGeneratorPlugin
         "githubLink" => conf["github_link"],
       }
       payload_obj = {
-        "site_conf" => site_conf,
+        "siteConf" => site_conf,
         "categories" => categories
       }
 
