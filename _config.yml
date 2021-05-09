@@ -18,6 +18,7 @@ exclude:
 header_text: বাংলায় শিখি সবকিছু
 discord_invite: https://discord.gg/RsCDspZKqM
 github_link: https://github.com/CodeBangladesh-org
+android_appstore_link: https://play.google.com/store/apps/details?id=org.codebangladesh
 
 # Build settings
 theme: minima
