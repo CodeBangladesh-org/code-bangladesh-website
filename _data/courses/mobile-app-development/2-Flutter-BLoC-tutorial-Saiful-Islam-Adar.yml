@@ -1,0 +1,26 @@
+id: 2-Flutter-BLoC-tutorial-Saiful-Islam-Adar
+name: Flutter BLoC টিউটোরিয়াল
+description: >-
+  এই কোর্সে ২টি ভিডিওতে BLoC ব্যাবহার করে Flutter widget এর ডাটা আপডেট কিভাবে করা হয় তা দেখানো হয়েছে।
+
+image_source: /assets/img/mobile-development.png
+category_id: mobile-app-development
+number_of_videos: 2
+
+topics:
+  - ফ্লুটার (Flutter)
+
+complexity: >-
+  Flutter সম্পর্কে ধারনা থাকতে হবে।
+
+instructors:
+  - name: Saiful Islam Adar
+    link: https://www.youtube.com/channel/UC5b-WLcdZJF3pj3Y61PcWOA
+
+content:
+  - name: পার্ট ১
+    video_link: https://www.youtube.com/watch?v=p97wuh1J6Fc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+  - name: পার্ট ২
+    video_link: https://www.youtube.com/watch?v=MHoRl4EYTM0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

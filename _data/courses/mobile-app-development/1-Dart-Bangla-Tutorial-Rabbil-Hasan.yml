@@ -1,0 +1,23 @@
+id: 1-Dart-Bangla-Tutorial-Rabbil-Hasan
+name: Dart টিউটোরিয়াল
+description: >-
+  Dart একটি প্রোগ্রামিং ল্যাঙ্গুয়েজ। Flutter হচ্ছে Cross platform মোবাইল অ্যাপ তৈরি করার SDK যা Dart ল্যাঙ্গুয়েজ ব্যাবহার করে।
+
+image_source: /assets/img/mobile-development.png
+category_id: mobile-app-development
+number_of_videos: 51
+
+topics:
+  - ডার্ট (Dart)
+
+complexity: >-
+  প্রোগ্রামিং এর বেসিক ধারনা থাকতে হবে।
+
+instructors:
+  - name: Rabbil Hasan
+    link: https://www.youtube.com/channel/UCSMFY8_rooijS-Zv43tKCrQ
+
+content:
+  - name: ইউটিউব প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PLkyGuIcLcmx1mIPyMdVodlSVJqL7Y9Wv7
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
