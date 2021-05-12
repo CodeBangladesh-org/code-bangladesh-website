@@ -1,0 +1,23 @@
+id: C-Programming-Bangla-Tutorials-Shikkhangon-BD
+name: সি প্রোগ্রামিং বাংলা টিউটোরিয়াল
+description: >-
+  সি প্রোগ্রামিং এর বেসিক কন্সেপ্ট কভার করা হয়েছে। প্রত্যেকটি বেসিকের উপর বিভিন্ন সমস্যার সমাধান।
+
+image_source: /assets/img/C.png
+category_id: c-cplusplus-programming
+number_of_videos: 66
+
+topics:
+  - সি প্রোগ্রামিং
+
+complexity: >-
+  তেমন কোন ধারনা না থাকলেও হবে।
+
+instructors:
+  - name: Shikkhangon BD
+    link: https://www.youtube.com/c/MathSolutionClass9and10
+
+content:
+  - name: ইউটিউব প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PLeqnvPK4PpyXHyRzADqWac6CK_vXoP9Cm
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
