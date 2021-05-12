@@ -1,0 +1,23 @@
+id: 3-C-All-You-Need-to-Know-Stack-Learner
+name: সি প্রোগ্রামিং - যা যা দরকারি
+description: >-
+  সি প্রোগ্রামিং এর যা যা জানা দরকার সবটুকুই কভার করা হয়েছে।
+
+image_source: /assets/img/C.png
+category_id: c-cplusplus-programming
+number_of_videos: 63
+
+topics:
+  - সি প্রোগ্রামিং
+
+complexity: >-
+  তেমন কোন ধারনা না থাকলেও হবে।
+
+instructors:
+  - name: Stack Learner
+    link: https://www.youtube.com/c/StackLearner
+
+content:
+  - name: ইউটিউব প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

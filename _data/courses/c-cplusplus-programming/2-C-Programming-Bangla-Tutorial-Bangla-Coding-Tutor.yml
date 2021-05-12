@@ -1,0 +1,23 @@
+id: 2-C-Programming-Bangla-Tutorial-Bangla-Coding-Tutor
+name: সি প্রোগ্রামিং এর বেসিক
+description: >-
+  সি প্রোগ্রামিং এর বেসিক কভার করা হয়েছে।
+
+image_source: /assets/img/C.png
+category_id: c-cplusplus-programming
+number_of_videos: 33
+
+topics:
+  - সি প্রোগ্রামিং
+
+complexity: >-
+  তেমন কোন ধারনা না থাকলেও হবে।
+
+instructors:
+  - name: Bangla Coding Tutor
+    link: https://www.youtube.com/c/BanglaCodingTutor
+
+content:
+  - name: ইউটিউব প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PLdl6zXgLsy3zwNjSMiYlOZOr20sykTfgo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

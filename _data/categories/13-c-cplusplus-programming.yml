@@ -1,6 +1,7 @@
 id: c-cplusplus-programming
-name: C/C++
+name: সি/সি++ প্রোগ্রামিং
 description: >-
+  কম্পিউটার কিভাবে কাজ করে তা বুঝবার জন্য ও সিস্টেম লেভেল কাজ করার সি/সি++ আদর্শ ল্যাঙ্গুয়েজ।
 
 image_source: /assets/img/C.png
 number_of_courses: dynamic

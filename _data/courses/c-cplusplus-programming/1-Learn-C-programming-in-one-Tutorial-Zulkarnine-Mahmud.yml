@@ -1,0 +1,23 @@
+id: 1-Learn-C-programming-in-one-Tutorial-Zulkarnine-Mahmud
+name: ২.৫ ঘণ্টায় সি প্রোগ্রামিং শিখুন
+description: >-
+  সি প্রোগ্রামিং এর বেসিক সবটুকুই কভার করা হয়েছে by Googler Zulkarnine Mahmud
+
+image_source: /assets/img/C.png
+category_id: c-cplusplus-programming
+number_of_videos: 1
+
+topics:
+  - সি প্রোগ্রামিং
+
+complexity: >-
+  বেসিক প্রোগ্রামিং এর ধারনা থাকতে হবে।
+
+instructors:
+  - name: Zulkarnine Mahmud
+    link: https://www.youtube.com/c/ZulkarnineMahmud
+
+content:
+  - name: একটি ভিডিওতে সবটুকু
+    video_link: https://www.youtube.com/watch?v=Bacf3wTY2EQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
