@@ -1,6 +1,7 @@
 id: go-programming
-name: Go
+name: গো প্রোগ্রামিং
 description: >-
+  বিভিন্ন কাজের জন্য গো ল্যাঙ্গুয়েজ ব্যাবহার হচ্ছে। ওয়েব বেইসড মাইক্রোসার্ভিস তার মধ্যে সবচেয়ে জনপ্রিয়।
 
 image_source: /assets/img/golang.png
 number_of_courses: dynamic

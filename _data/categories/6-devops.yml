@@ -1,8 +1,11 @@
 id: devops
 name: ডেভঅপস
+description: >-
+  CI/CD পাইপলাইন থেকে ডেপ্লয়মেন্ট সবকিছু এখানে।
+
 image_source: /assets/img/devops.png
 number_of_courses: dynamic
 number_of_videos: dynamic
 number_of_topics: dynamic
 popular_topics:
-  - React Native
+  -  জেনকিন্স
