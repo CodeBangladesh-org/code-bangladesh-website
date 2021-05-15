@@ -1,0 +1,24 @@
+id: Object-Oriented-Programming-codinglaugh
+name: অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং পাইথন
+description: >-
+  অবজেক্ট ওরিয়েন্টেড পাইথন শেখানো হয়েছে।
+
+image_source: /assets/img/python.png
+category_id: python-programming
+number_of_videos: 22
+
+topics:
+  - পাইথন
+  - অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং
+
+complexity: >-
+  পাইথন প্রোগ্রামিং বেসিক অভিজ্ঞতা থাকতে হবে।
+
+instructors:
+  - name: codinglaugh
+    link: https://www.youtube.com/c/codinglaugh
+
+content:
+  - name: ইউটিউব প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PLTgx8WgkaUw5HXBnOMIPUqLyDOwXKvHVF
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

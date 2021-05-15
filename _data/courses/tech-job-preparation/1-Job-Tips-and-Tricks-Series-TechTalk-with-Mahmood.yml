@@ -1,0 +1,23 @@
+id: Job-Tips-and-Tricks-Series-TechTalk-with-Mahmood
+name: সফটওয়্যার ইঞ্জিনিয়ার জব প্রিপারেশন টিপস
+description: >-
+  সফটওয়্যার ইঞ্জিনিয়ার হতে কিভাবে প্রিপারেশন নিবেন তা আলোচনা করা হয়েছে।
+
+image_source: /assets/img/programmer.png
+category_id: tech-job-preparation
+number_of_videos: 7
+
+topics:
+  - জব টিপস এন্ড ট্রিক্স
+
+complexity: >-
+  কোন ধারনা না থাকলেও হবে।
+
+instructors:
+  - name: TechTalk with Mahmood
+    link: https://www.youtube.com/c/TechtalkwithMahmood
+
+content:
+  - name: ইউটিউব প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PLZ1tJSgII-L8vfO4IobKYOXfOxywQt81-
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
