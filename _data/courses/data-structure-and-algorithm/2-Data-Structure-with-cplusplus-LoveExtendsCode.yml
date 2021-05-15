@@ -1,0 +1,24 @@
+id: 2-Data-Structure-with-cplusplus-LoveExtendsCode
+name: সি++ দিয়ে ড্যাটা স্ট্রাকচার
+description: >-
+  সি++ দিয়ে ড্যাটা স্ট্রাকচার ভিডিও।
+
+image_source: /assets/img/algorithm.png
+category_id: data-structure-and-algorithm
+number_of_videos: 28
+
+topics:
+  - ড্যাটা স্ট্রাকচার
+  - সি++ প্রোগ্রামিং
+
+complexity: >-
+  সি++ প্রোগ্রামিং এর অভিজ্ঞতা থাকতে হবে।
+
+instructors:
+  - name: LoveExtendsCode
+    link: https://www.youtube.com/c/LoveExtendsCode
+
+content:
+  - name: ইউটিউব প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PLgLCjVh3O6Sim5bsg0FJ3qGbvM6qtdxQe
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
