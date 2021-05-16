@@ -1,0 +1,23 @@
+id: PHP-Basic-to-Advanced-JS-Bangladesh
+name: পিএইচপি - বেসিক থেকে অ্যাডভ্যান্সড
+description: >-
+  পিএইচপি শেখার প্লেলিস্ট যেখানে একদম PHP Beginning লেভেল থেকে PHP Advanced Topic পর্যন্ত Core PHP Language Feature বাংলা ভাষায় আলোচনা করা হবে।
+
+image_source: /assets/img/php.png
+category_id: php-programming
+number_of_videos: 41
+
+topics:
+  - পিএইচপি
+
+complexity: >-
+  বেসিক প্রোগ্রামিং এর ধারনা থাকতে হবে।
+
+instructors:
+  - name: JS Bangladesh
+    link: https://www.youtube.com/channel/UCC-aIlmCJvIERahr2spCEDg
+
+content:
+  - name: ইউটিউব প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PL4iFnndHldui-0507zycrQBo_HFU8-mi9
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

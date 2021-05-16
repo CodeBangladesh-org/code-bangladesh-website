@@ -1,0 +1,24 @@
+id: Graph-Theory-Algorithms-Sayef-Reyadh-Programming-Made-Simple
+name: গ্রাফ থিওরি ও সি++ ইনপ্লিমেন্টেশন
+description: >-
+  গ্রাফ থিওরি ও সি++ দিয়ে ইনপ্লিমেন্টেশন।
+
+image_source: /assets/img/algorithm.png
+category_id: data-structure-and-algorithm
+number_of_videos: 11
+
+topics:
+  - সি++
+  - গ্রাফ থিওরি
+
+complexity: >-
+  সি++ প্রোগ্রামিং এর অভিজ্ঞতা থাকতে হবে।
+
+instructors:
+  - name: Sayef Reyadh - Programming Made Simple
+    link: https://www.youtube.com/c/SayefReyadh
+
+content:
+  - name: ইউটিউব প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PLKiZXxQe7OiAipuezfE6udFFAhd1gNUhL
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

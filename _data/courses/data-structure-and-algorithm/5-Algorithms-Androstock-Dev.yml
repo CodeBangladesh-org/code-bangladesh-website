@@ -1,0 +1,24 @@
+id: Algorithms-Androstock-Dev
+name: অ্যালগোরিদম টিউটোরিয়াল
+description: >-
+  হোয়াইটবোর্ড স্টাইলে অ্যালগোরিদম ক্লাস। Insertion Sort, Merge Sort, LCS, Dijkstra's, Quicksort, Binary Search, Floyd–Warshall
+  অ্যালগোরিদম কভার করা হয়েছে।
+
+image_source: /assets/img/algorithm.png
+category_id: data-structure-and-algorithm
+number_of_videos: 7
+
+topics:
+  - অ্যালগোরিদম
+
+complexity: >-
+  কোন অভিজ্ঞতা না থাকলেও হবে।
+
+instructors:
+  - name: Androstock Dev
+    link: https://www.youtube.com/c/AndrostockDev
+
+content:
+  - name: ইউটিউব প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PLe_j4JFfs_7Upuvla_mEfMMnuFoo8Z5Zd
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

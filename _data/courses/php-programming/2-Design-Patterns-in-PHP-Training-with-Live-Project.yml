@@ -1,0 +1,24 @@
+id: Design-Patterns-in-PHP-Training-with-Live-Project
+name: পিএইচপি দিয়ে ডিজাইন পাটার্ন
+description: >-
+  Decorator, Observer, Iterator, Singleton Abstract, Abstract Factory, Strategy ও Facade ডিজাইন পাটার্ন আলোচনা করা হবে।
+
+image_source: /assets/img/php.png
+category_id: php-programming
+number_of_videos: 9
+
+topics:
+  - পিএইচপি
+  - ডিজাইন পাটার্ন
+
+complexity: >-
+  পিএইচপি প্রোগ্রামিং এর ধারনা থাকতে হবে।
+
+instructors:
+  - name: Training with Live Project
+    link: https://www.youtube.com/c/Trainingtcl
+
+content:
+  - name: ইউটিউব প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PLTydW-y9HsbQmKhjd9ahy1EqqkomKu5Rf
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

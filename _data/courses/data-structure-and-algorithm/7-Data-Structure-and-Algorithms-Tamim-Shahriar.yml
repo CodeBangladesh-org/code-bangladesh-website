@@ -1,0 +1,24 @@
+id: Data-Structure-and-Algorithms-Tamim-Shahriar
+name: ড্যাটা স্ট্রাকচার ও অ্যালগোরিদম
+description: >-
+  ডেটা স্ট্রাকচার ও বেসিক অ্যালগরিদম নিয়ে বাংলায় ভিডিও লেকচার সিরিজ। যাদের ডেটা স্ট্রাকচার কোর্স আছে, তাদের জন্য উপযোগি।
+
+image_source: /assets/img/algorithm.png
+category_id: data-structure-and-algorithm
+number_of_videos: 41
+
+topics:
+  - ড্যাটা স্ট্রাকচার
+  - অ্যালগোরিদম
+
+complexity: >-
+  কোন অভিজ্ঞতা না থাকলেও হবে।
+
+instructors:
+  - name: Tamim Shahriar
+    link: https://www.youtube.com/c/TamimShahriar
+
+content:
+  - name: ইউটিউব প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PLym69wpbTIIEOesltWGUsVnY9HDWbJit_
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

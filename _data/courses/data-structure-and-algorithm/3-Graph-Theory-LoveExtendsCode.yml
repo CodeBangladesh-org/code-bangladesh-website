@@ -1,0 +1,24 @@
+id: Graph-Theory-LoveExtendsCode
+name: গ্রাফ থিওরি ও ইনপ্লিমেন্টেশন
+description: >-
+  গ্রাফ থিওরি ও সি দিয়ে ইনপ্লিমেন্টেশন।
+
+image_source: /assets/img/algorithm.png
+category_id: data-structure-and-algorithm
+number_of_videos: 18
+
+topics:
+  - সি
+  - গ্রাফ থিওরি
+
+complexity: >-
+  সি প্রোগ্রামিং এর অভিজ্ঞতা থাকতে হবে।
+
+instructors:
+  - name: LoveExtendsCode
+    link: https://www.youtube.com/c/LoveExtendsCode
+
+content:
+  - name: ইউটিউব প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PLgLCjVh3O6Sh88ebyMzRtREnncdX10WZD
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

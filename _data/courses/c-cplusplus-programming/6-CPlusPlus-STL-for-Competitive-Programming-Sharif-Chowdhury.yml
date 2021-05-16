@@ -1,0 +1,25 @@
+id: CPlusPlus-STL-for-Competitive-Programming-Sharif-Chowdhury
+name: কম্পিটিটিভ প্রোগ্রামিং এ সি++ STL
+description: >-
+  STL ভালোভাবে শেখার থেকে, STL কিভাবে কম্পিটিটিভ প্রোগ্রামিং এ ভালো করে ব্যবহার করা যায় সেটাকে প্রাধান্য দেওয়া হয়েছে।
+
+image_source: /assets/img/C.png
+category_id: c-cplusplus-programming
+number_of_videos: 5
+
+topics:
+  - সি++
+  - STL
+  - কম্পিটিটিভ প্রোগ্রামিং
+
+complexity: >-
+  সি++ প্রোগ্রামিং এর অভিজ্ঞতা থাকতে হবে।
+
+instructors:
+  - name: Sharif Chowdhury
+    link: https://www.youtube.com/c/shariftech
+
+content:
+  - name: ইউটিউব প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PLPkEK3TrAJ1OmahjzWnO58Klm39QJRJRd
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

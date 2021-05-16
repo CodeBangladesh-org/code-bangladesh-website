@@ -1,0 +1,24 @@
+id: STL-in-CPlusPlus-LoveExtendsCode
+name: সি++ STL টিউটোরিয়াল
+description: >-
+  সি++ STL টিউটোরিয়াল ভিডিও।
+
+image_source: /assets/img/C.png
+category_id: c-cplusplus-programming
+number_of_videos: 21
+
+topics:
+  - সি++
+  - STL
+
+complexity: >-
+  সি++ প্রোগ্রামিং এর অভিজ্ঞতা থাকতে হবে।
+
+instructors:
+  - name: LoveExtendsCode
+    link: https://www.youtube.com/c/LoveExtendsCode
+
+content:
+  - name: ইউটিউব প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PLgLCjVh3O6Sgux985GYG22xkFt9z9Sq0_
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

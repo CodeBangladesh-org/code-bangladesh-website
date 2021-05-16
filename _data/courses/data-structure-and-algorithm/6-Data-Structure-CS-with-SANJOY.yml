@@ -1,0 +1,23 @@
+id: Data-Structure-CS-with-SANJOY
+name: ড্যাটা স্ট্রাকচার টিউটোরিয়াল
+description: >-
+  হোয়াইটবোর্ড স্টাইলে ড্যাটা স্ট্রাকচার ক্লাস।
+
+image_source: /assets/img/algorithm.png
+category_id: data-structure-and-algorithm
+number_of_videos: 20
+
+topics:
+  - ড্যাটা স্ট্রাকচার
+
+complexity: >-
+  কোন অভিজ্ঞতা না থাকলেও হবে।
+
+instructors:
+  - name: CS with SANJOY
+    link: https://www.youtube.com/c/CSwithSANJOY
+
+content:
+  - name: ইউটিউব প্লেলিস্ট
+    video_link: https://www.youtube.com/playlist?list=PLfwg3As08FY__UnGYGfCS8htyJZYBs9hb
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
