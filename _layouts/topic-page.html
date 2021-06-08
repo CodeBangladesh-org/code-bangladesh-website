@@ -2,8 +2,6 @@
 layout: codebangladesh-default
 ---
 
-<div class="row"><br></div>
-
 <header class="header-section">
     <div class="intro-header no-img">
         <div class="container-md">
@@ -42,6 +40,14 @@ layout: codebangladesh-default
                 {% for topic in course.topics %}
                 {{ topic }}{% if forloop.last %}{% else %},{% endif %}
                 {% endfor %}
+            </span><br>
+        </small>
+        <small class="text-muted">
+            <img class="img-fluid" height="20" src="/assets/img/instructor.png" width="20">
+            <span>
+            {% for instructor in course.instructors %}
+            {{ instructor.name }}{% if forloop.last %}{% else %}, {% endif %}
+            {% endfor %}
             </span><br>
         </small>
         <small class="text-muted">
