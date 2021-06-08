@@ -19,6 +19,167 @@ instructors:
     link: https://www.youtube.com/c/TamimShahriar
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PLym69wpbTIIEOesltWGUsVnY9HDWbJit_
+
+  - name: ডেটা স্ট্রাকচার ও অ্যালগরিদম
+    video_link: https://www.youtube.com/watch?v=Mz9BlmST31w
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: টাইম কমপ্লেক্সিটি - ১ (time complexity - 1)
+    video_link: https://www.youtube.com/watch?v=bfB4YN_4Vyo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: টাইম কমপ্লেক্সিটি - ২ (time complexity - 2)
+    video_link: https://www.youtube.com/watch?v=aNpBA0SgL0c
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: স্পেস কমপ্লেক্সিটি (space complexity)
+    video_link: https://www.youtube.com/watch?v=DC-1dIY2fBE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: লিনিয়ার সার্চ - linear search
+    video_link: https://www.youtube.com/watch?v=IbV2eELjP2k
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বাইনারি সার্চ - binary search
+    video_link: https://www.youtube.com/watch?v=NMC6ltspWys
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সিলেকশন সর্ট - Selection Sort
+    video_link: https://www.youtube.com/watch?v=qHmByz1YvQs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বাবল সর্ট - Bubble Sort
+    video_link: https://www.youtube.com/watch?v=ZUI0VQ9JvDw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: ইনসার্শন সর্ট - Insertion Sort
+    video_link: https://www.youtube.com/watch?v=aBi8ptRBWY8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: স্ট্যাক - Stack
+    video_link: https://www.youtube.com/watch?v=-8JxL-dXg6w
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: কিউ - Queue
+    video_link: https://www.youtube.com/watch?v=IFWHj7_OW2k
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: লিঙ্কড লিস্ট - ১ (Linked List - 1) - প্রাথমিক ধারণা
+    video_link: https://www.youtube.com/watch?v=k3wD1KtP8EE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: লিঙ্কড লিস্ট - ২ (Linked List - 2) - নোড বাদ দেওয়া
+    video_link: https://www.youtube.com/watch?v=rBc-CApEe3s
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: লিঙ্কড লিস্ট - ৩ (Linked List - 3) - নোড যোগ করা
+    video_link: https://www.youtube.com/watch?v=VLd6EnfUuWU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: লিঙ্কড লিস্ট - ৪ (Linked List - 4) - ট্রাভার্স করা
+    video_link: https://www.youtube.com/watch?v=XLBBmEUILi4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: লিঙ্কড লিস্ট - ৫ (Linked List - 5) - ডবলি লিঙ্কড লিস্ট
+    video_link: https://www.youtube.com/watch?v=kyuPR9SqvDY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: লিঙ্কড লিস্ট - ৬ (Linked List - 6) - অ্যারে ও লিঙ্কড লিস্ট-এর পার্থক্য
+    video_link: https://www.youtube.com/watch?v=DKpe5gsySag
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: ট্রি - ১ (Tree - 1) - ট্রি-এর প্রাথমিক ধারণা
+    video_link: https://www.youtube.com/watch?v=0I1JVXbHpec
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: ট্রি - ২ (Tree - 2) - কোনটি ট্রি কোনটি নয়?
+    video_link: https://www.youtube.com/watch?v=Rz93CQd7jXc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বাইনারি ট্রি (Binary Tree) ১ - বাইনারি ট্রি-এর বৈশিষ্ট্য
+    video_link: https://www.youtube.com/watch?v=cCnYkrZbsAg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বাইনারি ট্রি প্রিঅর্ডার ট্রাভার্সাল - Binary Tree Preorder Traversal
+    video_link: https://www.youtube.com/watch?v=p0ltqTz93Nk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বাইনারি ট্রি পোস্টঅর্ডার ট্রাভার্সাল - Binary Tree Postorder Traversal
+    video_link: https://www.youtube.com/watch?v=zd5ayCGPQXA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বাইনারি ট্রি ইনঅর্ডার ট্রাভার্সাল - Binary Tree Inorder Traversal
+    video_link: https://www.youtube.com/watch?v=D9cvhd-jPGs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: মার্জ সর্ট - ১ (Merge Sort - 1) - অ্যালগরিদম
+    video_link: https://www.youtube.com/watch?v=mWuk56Aa6xw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: মার্জ সর্ট - ২ (Merge Sort - 2) - সি দিয়ে ইমপ্লিমেন্টেশন
+    video_link: https://www.youtube.com/watch?v=-UzllqjFHW8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: মার্জ সর্ট - ৩ (Merge Sort - 3) - স্পেস ও টাইম কমপ্লেক্সিটি
+    video_link: https://www.youtube.com/watch?v=g63rwGXC720
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: কুইক সর্ট ১ - অ্যালগরিদম (Quick Sort Algorithm)
+    video_link: https://www.youtube.com/watch?v=PmlfVdY_XjI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: কুইক সর্ট ২ - পার্টিশন (Quick Sort Partition)
+    video_link: https://www.youtube.com/watch?v=kwG0C2Lv-fQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: কুইক সর্ট ৩ - কমপ্লেক্সিটি (Quick Sort Complexity)
+    video_link: https://www.youtube.com/watch?v=MbO_N_7xSD0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: হিপ - ১ (Heap - 1) - হিপ ডেটা স্ট্রাকচার
+    video_link: https://www.youtube.com/watch?v=m7x0GETKPaU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: হিপ - ২ (Heap - 2) - হিপ তৈরি করা
+    video_link: https://www.youtube.com/watch?v=8Kwh0WgO_TU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: হিপ - ৩ (Heap 3) - হিপসর্ট
+    video_link: https://www.youtube.com/watch?v=FibnepuyOLY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: প্রায়োরিটি কিউ - (Priority Queue)
+    video_link: https://www.youtube.com/watch?v=v0tzjgW0i8E
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বাইনারি সার্চ ট্রি - ১ (Binary Search Tree - 1) - প্রাথমিক ধারণা
+    video_link: https://www.youtube.com/watch?v=FpekDm8ztVA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বাইনারি সার্চ ট্রি - ২ (Binary Search Tree - 2) - সার্চ করা
+    video_link: https://www.youtube.com/watch?v=PrHoIGnU3c0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বাইনারি সার্চ ট্রি - ৩ (Binary Search Tree - 3) - ইনসার্ট করা
+    video_link: https://www.youtube.com/watch?v=IAHqCl5b4fE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বাইনারি সার্চ ট্রি - ৪ (Binary Search Tree - 4) - ডিলিট করা
+    video_link: https://www.youtube.com/watch?v=F2uwPe3GaVU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: হ্যাশ টেবিল - ১ (Hash Table) - উদাহরণ
+    video_link: https://www.youtube.com/watch?v=MP6Ep0aCYHs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: হ্যাশ টেবিল - ২ (Hash Table) - হ্যাশ ফাংশন
+    video_link: https://www.youtube.com/watch?v=RSR3BofKK3Q
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: হ্যাশ টেবিল - ৩ (Hash Table) - কলিশন
+    video_link: https://www.youtube.com/watch?v=ZkT9H8R4WaM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: হ্যাশ টেবিল - ৪ (Hash Table) - হ্যাশ টেবিলের অ্যানিমেশন
+    video_link: https://www.youtube.com/watch?v=VMS8xd_xLGg
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

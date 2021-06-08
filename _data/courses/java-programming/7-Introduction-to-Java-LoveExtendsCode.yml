@@ -19,6 +19,363 @@ instructors:
     link: https://www.youtube.com/c/LoveExtendsCode
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PLgLCjVh3O6ShdxHZKRVyAP3oTH9sMMqRf
+
+  - name: Class and Objects 1 - Create Class
+    video_link: https://www.youtube.com/watch?v=17UOVwXFzls
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Class and Objects - 2 Create Object
+    video_link: https://www.youtube.com/watch?v=2QHCdGYPpsU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Class and Objects 3 - Use variables and methods through Object Reference Variable
+    video_link: https://www.youtube.com/watch?v=Mb6MiU2YJpM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Class and Objects 4 - Constructor
+    video_link: https://www.youtube.com/watch?v=X9LuctCpr9w
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Class and Objects 5 - Multiple Constructors & Constructor overloading
+    video_link: https://www.youtube.com/watch?v=HtoL83GAaxk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Class and Objects 6 - Constructor Overloading
+    video_link: https://www.youtube.com/watch?v=M8canZeGapo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Method overloading
+    video_link: https://www.youtube.com/watch?v=OhpaNt9nOu8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Class and Objects 7 - Data Types, Primitive and Reference data types
+    video_link: https://www.youtube.com/watch?v=xrsiSxAzFNg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: this keyword
+    video_link: https://www.youtube.com/watch?v=u0OVSlq-Nms
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: more on this keyword
+    video_link: https://www.youtube.com/watch?v=2fmAXUumBJY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: return Object from methods - 1
+    video_link: https://www.youtube.com/watch?v=zf_NPGoAKeA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Return Object 2 - Visualization
+    video_link: https://www.youtube.com/watch?v=xTNV70QV-lw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: return Object 3 - return modified objects
+    video_link: https://www.youtube.com/watch?v=TTagy9L7UB8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Passing Object as Parameter
+    video_link: https://www.youtube.com/watch?v=OlmFsLiYi9Y
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Anonymous Object
+    video_link: https://www.youtube.com/watch?v=S7yiVWi6DFI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Packages 1
+    video_link: https://www.youtube.com/watch?v=w8Otlpqhsws
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: How '==' equal operator works 
+    video_link: https://www.youtube.com/watch?v=VUncS3Y_hss
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: String Immutability, String Pool, concat() 
+    video_link: https://www.youtube.com/watch?v=m6t1noj6lYE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Packages 2 - problem with classes with the same name
+    video_link: https://www.youtube.com/watch?v=V0h9kITl4mg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Class and Objects (Example + Visualization) 
+    video_link: https://www.youtube.com/watch?v=DjPie9jiwEs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Array 1 
+    video_link: https://www.youtube.com/watch?v=nczpCzCaL5Q
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Array 2 Array of Objects (Concept) 
+    video_link: https://www.youtube.com/watch?v=6pG0SGKXJmc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Array 3 Array of Objects 
+    video_link: https://www.youtube.com/watch?v=dtB3LKwIv5c
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Static Keyword 1
+    video_link: https://www.youtube.com/watch?v=7ntv9P8DkbU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Static Keyword 2
+    video_link: https://www.youtube.com/watch?v=KUvUT0HVR5Q
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Static Keyword 3 - Static Block
+    video_link: https://www.youtube.com/watch?v=slCI8AjPU6Q
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Type Conversion 1 - Type·cast  
+    video_link: https://www.youtube.com/watch?v=F41aW1BnHzI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Enhanced For Loop - Example with 1D Array  
+    video_link: https://www.youtube.com/watch?v=nafkxLLqxN8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Bitwise Operator 1 - Right Shift, Left Shift Operator with positive number  
+    video_link: https://www.youtube.com/watch?v=hB8GlBcNHe8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Bitwise Operator 1 - Right Shift, Left Shift Operator easy approach positive numbers
+    video_link: https://www.youtube.com/watch?v=Uux8HJuat6I
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Private video
+    video_link: https://www.youtube.com/watch?v=kXSYJ5pOilA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Bitwise Operator 3 - Left Shift with Negative Number  
+    video_link: https://www.youtube.com/watch?v=b86O3EuEm78
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: encapsulation 1 setter() in bangla
+    video_link: https://www.youtube.com/watch?v=9sj95Py4Fs4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: encapsulation 2 getter () method in bangla
+    video_link: https://www.youtube.com/watch?v=JU245db1qBw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: encapsulation 3 problem with getter() method
+    video_link: https://www.youtube.com/watch?v=KGqo2LfiIQ8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Inner Class 1 - Member Inner Class or Non Static Inner Class  
+    video_link: https://www.youtube.com/watch?v=9EQEacwk_9A
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Inner Class 2 - Static Inner Class and Scope of Inner Class  
+    video_link: https://www.youtube.com/watch?v=kkfGS0pR7so
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Final Keyword 1
+    video_link: https://www.youtube.com/watch?v=S9-oBWT7GYQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Final Keyword 2 - Initialize Blank Final Variable 
+    video_link: https://www.youtube.com/watch?v=zsev7HdCP6c
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Inheritance 1
+    video_link: https://www.youtube.com/watch?v=83XzTMXoZQk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Inheritance 2
+    video_link: https://www.youtube.com/watch?v=a2xXxrgTe4Y
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Inheritance 3
+    video_link: https://www.youtube.com/watch?v=rMOMxD1lS68
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Inheritance 4 - Method Overriding 
+    video_link: https://www.youtube.com/watch?v=RLKuQ1wj9O4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Inheritance 5
+    video_link: https://www.youtube.com/watch?v=Mp_ujyWeuLw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Inheritance 6
+    video_link: https://www.youtube.com/watch?v=sodiiiLg2eM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Inheritance 7
+    video_link: https://www.youtube.com/watch?v=g1fUm76VFiU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Inheritance 8
+    video_link: https://www.youtube.com/watch?v=kvVYzJbELLI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Inheritance - Problem with Multiple Inheritance
+    video_link: https://www.youtube.com/watch?v=t2PBgBFwdfs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Inheritance 9 super keyword
+    video_link: https://www.youtube.com/watch?v=W46hwtsDMK8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: finalize() method and bit more on Garbage Collection gc()  
+    video_link: https://www.youtube.com/watch?v=hClt6lx6OMs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Super Keyword 2
+    video_link: https://www.youtube.com/watch?v=JTJJ5AR2jbI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Super Keyword 3
+    video_link: https://www.youtube.com/watch?v=owCxVb-EmXQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Super Keyword 4
+    video_link: https://www.youtube.com/watch?v=IjgCrG-2LzA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Super Keyword 5
+    video_link: https://www.youtube.com/watch?v=THNms4W4ytg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Inheritance Problem - 2
+    video_link: https://www.youtube.com/watch?v=6K-DUMpdywU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Abstract Class 1
+    video_link: https://www.youtube.com/watch?v=4HMahLcg9RM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Abstract Class 2
+    video_link: https://www.youtube.com/watch?v=0LKujyd_vFc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Abstract Class 3
+    video_link: https://www.youtube.com/watch?v=oKmB-q-AHQE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Abstract Class 4
+    video_link: https://www.youtube.com/watch?v=NO-zY4Su5fg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Abstract Class 6
+    video_link: https://www.youtube.com/watch?v=oc-BzwDZHsc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Abstract Class 7
+    video_link: https://www.youtube.com/watch?v=M2Fbu8PezFw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Abstract Class 8
+    video_link: https://www.youtube.com/watch?v=cJ_Qb6-FxUE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Dynamic Method Dispatch
+    video_link: https://www.youtube.com/watch?v=-sXqTM09LRQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Interface 1
+    video_link: https://www.youtube.com/watch?v=mIOaqTCuwgE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Interface 2
+    video_link: https://www.youtube.com/watch?v=i2UT7B6WmHE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Interface 3 - Interface extends Interface, Problem with Access Modifier
+    video_link: https://www.youtube.com/watch?v=ImsIcH8nLCI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Interface 4 - Tricky Problem with Interface Variable
+    video_link: https://www.youtube.com/watch?v=oGS3KUOLosY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Anonymous Class 1 
+    video_link: https://www.youtube.com/watch?v=2gScoqrIjYc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Anonymous Class 2 Use with Interface and Abstract Class 
+    video_link: https://www.youtube.com/watch?v=5x6Tm1pfhJY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Variable Arguments (varargs)  
+    video_link: https://www.youtube.com/watch?v=Uj9MCffla6g
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: More on Variable Arguments - Overloading, Ambiguity  
+    video_link: https://www.youtube.com/watch?v=ybbJDvxt86A
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Exception Handling 1 - try() catch() block 
+    video_link: https://www.youtube.com/watch?v=fCVvek797VU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Exception Handling 2
+    video_link: https://www.youtube.com/watch?v=g0LzEgvWyis
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Exception Handling 3
+    video_link: https://www.youtube.com/watch?v=W_T0xwJN4Bw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Exception handling 4 - Checked and Unchecked Exception
+    video_link: https://www.youtube.com/watch?v=6QfA7kZz-qY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Exception Handling 5
+    video_link: https://www.youtube.com/watch?v=FvQhE0Lf_9s
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Exception Handling 6 - throws keyword
+    video_link: https://www.youtube.com/watch?v=0nds2kjdf9k
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Exception Handling 7 - make your own Exception
+    video_link: https://www.youtube.com/watch?v=GbpwX0v9HYU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Exception Handling 8 - Exception with Message 
+    video_link: https://www.youtube.com/watch?v=lr0rLhIxlVI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Exception Handling 9 - More on throws Keyword 
+    video_link: https://www.youtube.com/watch?v=gM-gCmmVr2M
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Stack - Theory Part 
+    video_link: https://www.youtube.com/watch?v=_Nc0L73pHOE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Stack Implementation using Java (Array Based Implementation) 
+    video_link: https://www.youtube.com/watch?v=0CBhQKti6lk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Make UML Diagram from Class
+    video_link: https://www.youtube.com/watch?v=LHQXh0PGbHo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: MultiThreading 1 - Theory
+    video_link: https://www.youtube.com/watch?v=vAzgaX83m-M
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Multithreading 2 - Make a thread, how thread works 
+    video_link: https://www.youtube.com/watch?v=uPcozc2ocfY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Multithreading 3 - Make a thread using Runnable Interface 
+    video_link: https://www.youtube.com/watch?v=Wg06mdYgMH0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Multithreading 4 - currentThread(), getName(), Different Outputs 
+    video_link: https://www.youtube.com/watch?v=pcplwZzXB9s
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Multithreading 5 - join() 
+    video_link: https://www.youtube.com/watch?v=RzwtK2M1NRg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Multithreading 6 - isAlive() method, Daemon and User Thread 
+    video_link: https://www.youtube.com/watch?v=_AIimXDTm-s
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: MultiThreading 7 - Make a thread using Anonymous Class )
+    video_link: https://www.youtube.com/watch?v=OZ1qQR7PSxU
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

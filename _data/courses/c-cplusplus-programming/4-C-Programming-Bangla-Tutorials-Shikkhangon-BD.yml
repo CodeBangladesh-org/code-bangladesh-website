@@ -18,6 +18,267 @@ instructors:
     link: https://www.youtube.com/c/MathSolutionClass9and10
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PLeqnvPK4PpyXHyRzADqWac6CK_vXoP9Cm
+
+  - name: ০২ - ইন্ট্রোডাকশন পার্টে যে টপিকগুলো কভার করা হবে 
+    video_link: https://www.youtube.com/watch?v=QSdUIibiRnQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: ০৩ - কীভাবে সি প্রোগ্রামীং শুরু করা উচিত || How to start C  Programming 
+    video_link: https://www.youtube.com/watch?v=RGD_svwNqvA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: ০৪ - Translator program - Assembler, Compiler, Interpreter 
+    video_link: https://www.youtube.com/watch?v=4L0N1_1oPrI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: ০৫ - Assembler (অ্যাসেম্বলার) - Translator program 
+    video_link: https://www.youtube.com/watch?v=8g4ScOOWpA8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: ০৬ - Compiler (কম্পাইলার) & Interpreter (ইন্টারপ্রেটার) - Translator program 
+    video_link: https://www.youtube.com/watch?v=eU-7sNmUuqI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: ০৭ - অ্যালগরিদম (Algorithm) 
+    video_link: https://www.youtube.com/watch?v=A1mjr1KKHjY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: ০৮ - ফ্লোচার্ট ও সুডোকোড (Flow-Chart and Pseudo Code) 
+    video_link: https://www.youtube.com/watch?v=s-ud8HUrPo0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: কোড লিখার জন্য ল্যাপটপ, কম্পিউটার না হলেও হয় || Online GDB
+    video_link: https://www.youtube.com/watch?v=wkysACtr9GE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Arithmetic Operators (গাণিতিক অপারেটর) in C Programming
+    video_link: https://www.youtube.com/watch?v=vZr7eDoJA18
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 01 - Arithmetic Operators practice problem-01
+    video_link: https://www.youtube.com/watch?v=6Dmi8EkkynY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 02 - দুইটি সংখ্যার যোগফল নির্ণয় (Sum of two Numbers) || Arithmetic Operators Problem - 02
+    video_link: https://www.youtube.com/watch?v=GgN6WvyywMw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 03 - তিনটি সংখ্যার গড় নির্ণয় (Find average of Three numbers) || Arithmetic Operators Problem - 03
+    video_link: https://www.youtube.com/watch?v=JDeRS7OkV04
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 04 - আয়তক্ষেত্রের পরিধি নির্ণয় (Perimeter of a rectangle) || Arithmetic Operators Problem - 04
+    video_link: https://www.youtube.com/watch?v=QPKNqchuJuw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 05 - আয়তক্ষেত্র ও ত্রিভুজের ক্ষেত্রফলের সমষ্টি || Arithmetic Operator Problem - 05
+    video_link: https://www.youtube.com/watch?v=BBGGlUAjP1I
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 06 - Find Tax from Annual Salary || Arithmetic Operator - 06
+    video_link: https://www.youtube.com/watch?v=DS0eP0yhvcg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 07 -বৃত্তের ব্যাস (Diameter) , পরিধি (circumference) ও ক্ষেত্রফল (area) নির্ণয় Arithmetic Problem-07
+    video_link: https://www.youtube.com/watch?v=47Ek5rp-8po
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: if-else syntax or Code Structure  
+    video_link: https://www.youtube.com/watch?v=l-9j0SOSUiE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: if-else with Example
+    video_link: https://www.youtube.com/watch?v=SEvEXOjn29o
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Find maximum between two numbers in C program || if/else Problem-01 
+    video_link: https://www.youtube.com/watch?v=l6ch1NcjdCE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Find Positive or Negative number in C Program || if/else Problem-02 
+    video_link: https://www.youtube.com/watch?v=TB4QfwvRupw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: A number is divisible by 5 and 11 or not in C Program || if/else Problem-03 
+    video_link: https://www.youtube.com/watch?v=9nm4SBW1nJc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Find Even or Odd number in C Program || if/else Problem-04 
+    video_link: https://www.youtube.com/watch?v=Rfk3vrcLZFI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Check a Triangle is Valid or Not in C Program || if/else Problem-05 
+    video_link: https://www.youtube.com/watch?v=wsnGzQr33-k
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Find Leap Year in C Program || if/else Problem-06 
+    video_link: https://www.youtube.com/watch?v=NKwoMUgfSAk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Check a character is Alphabet or not in C Program || if/else Problem-07 
+    video_link: https://www.youtube.com/watch?v=rGalRcgfNOg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Find Vowel or Consonant in C Program || if/else Problem-08 
+    video_link: https://www.youtube.com/watch?v=e03EmNyf2cU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Check a character is it alphabet, digit or special character in C Program || if/else Problem-09
+    video_link: https://www.youtube.com/watch?v=0GF3V1gMNlo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Uppercase or Lowercase letter if/else Problem-10  || HSC ICT
+    video_link: https://www.youtube.com/watch?v=ioIHXvVLAUg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Check are you eligible to make NID Card or NOT || if/else Problem-11 
+    video_link: https://www.youtube.com/watch?v=F2rsRbA0FtM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Check two integers whether they are equal or not || if else Problem-12 
+    video_link: https://www.youtube.com/watch?v=mt_sLnKneU8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: if else Problem-13 
+    video_link: https://www.youtube.com/watch?v=m3dK_2msP2o
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: if else Problem-14
+    video_link: https://www.youtube.com/watch?v=JRPpJAATtdg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Ternary Operator in C programming
+    video_link: https://www.youtube.com/watch?v=9hu61N-2UTY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Assignment Operator in C Programming 
+    video_link: https://www.youtube.com/watch?v=w-NAgG2vfBw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Loop Basic in C Programming Bangla || সি প্রোগ্রামিং লুপ
+    video_link: https://www.youtube.com/watch?v=rC0A4I9qHNs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: for loop in C Programming Bangla || সি প্রোগ্রামিং বাংলা
+    video_link: https://www.youtube.com/watch?v=cNbXPxhCayA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 01 - Print your name 20 times using one printf  || for loop
+    video_link: https://www.youtube.com/watch?v=VQwMdCX7HMM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: while loop in C Programming Bangla || সি প্রোগ্রামিং বাংলা
+    video_link: https://www.youtube.com/watch?v=eqqMYT_MGaE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: do while loop syntax
+    video_link: https://www.youtube.com/watch?v=bL98uA8P3_Q
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Difference between do while and while loop
+    video_link: https://www.youtube.com/watch?v=PbTNTrx9PW8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 02 - Calculate Sum of Natural Numbers  || For Loop
+    video_link: https://www.youtube.com/watch?v=4lXyARJo31o
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 03 - Calculate Sum of 1 to 10 numbers  || for Loop
+    video_link: https://www.youtube.com/watch?v=5TDYyRNzitc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 04 - Find Factorial || 10! 15!  || for Loop
+    video_link: https://www.youtube.com/watch?v=XHt3Hbm0gK0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 05 - নামতা মূখস্ত করার দিন শেষ!! জাস্ট এই কোড টি করে নাও  || For Loop
+    video_link: https://www.youtube.com/watch?v=pjyRse7m42o
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 06 - Infinite loop by while and for loop
+    video_link: https://www.youtube.com/watch?v=7pr1EYNFwpg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 08 - Print even numbers upto N using for loop 
+    video_link: https://www.youtube.com/watch?v=nBcgzpclDxI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 09 - Print Odd numbers upto N using for loop 
+    video_link: https://www.youtube.com/watch?v=wnwSBCS_PbU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 10 - Print all natural numbers in reverse from n to 1 || Loop prb 10
+    video_link: https://www.youtube.com/watch?v=pe8Ztw2LAv8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 11 - Print all Alphabets from a to z || Loop prb 11
+    video_link: https://www.youtube.com/watch?v=rkEdX6B3Et4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 12 - Find last digit of a number in C Programming || Loop Problem 12
+    video_link: https://www.youtube.com/watch?v=8Hwr9V03EMI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 13 - Find first digit of a number || C Program || Loop problem - 13
+    video_link: https://www.youtube.com/watch?v=7S3LhHY8PlU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 14 - Find first and last digit of a number || C Program || Loop problem - 14
+    video_link: https://www.youtube.com/watch?v=mboa0zYnkyY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 15 - Find sum of first and last digit of a number C Program || Loop problem - 15
+    video_link: https://www.youtube.com/watch?v=H9UBzX7JMvs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 16 - Count number of digits in a number C Program || Loop problem - 16
+    video_link: https://www.youtube.com/watch?v=TWrUAVR2NT0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: goto statement practice problem 
+    video_link: https://www.youtube.com/watch?v=ckwPD4l62uo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: goto statement syntax 
+    video_link: https://www.youtube.com/watch?v=uZsEAVNH9FQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Array Details or Array Syntax
+    video_link: https://www.youtube.com/watch?v=hSNG4mTPsxk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 01 - Sum of five numbers using array 
+    video_link: https://www.youtube.com/watch?v=rkZ4HXxiKmU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 02 - Sum of five numbers using array and take input from keyboard 
+    video_link: https://www.youtube.com/watch?v=baFnDLlsWk4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 03 - Calculate Sum and average upto N numbers using array 
+    video_link: https://www.youtube.com/watch?v=-R3FHucuDug
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 04 - Find largest and smallest number using array 
+    video_link: https://www.youtube.com/watch?v=QKxPJ7ahUZo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 05 - Find positive and negative number using array 
+    video_link: https://www.youtube.com/watch?v=0TTY8ww_XJA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 06 - Copy an array and store it another array 
+    video_link: https://www.youtube.com/watch?v=hq4u_chqH7A
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Introduction of 2 Dimensional Array in C Programming 
+    video_link: https://www.youtube.com/watch?v=uastuI0ogmU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: How to print 2D Array using for loop
+    video_link: https://www.youtube.com/watch?v=yO1X-oV5qDU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 01, 02 - Getting input from user and print in 2D Array 
+    video_link: https://www.youtube.com/watch?v=R0eJJc5P8RQ
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

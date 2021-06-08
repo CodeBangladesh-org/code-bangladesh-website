@@ -19,6 +19,87 @@ instructors:
     link: https://www.youtube.com/c/FakiBuzz
 
 content:
-  - name: বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল (ইউটিউব প্লেলিস্ট)
-    video_link: https://www.youtube.com/playlist?list=PLlBKlxyCgmsAKeLIH0prMe1o9s1M4nAyr
+
+  - name: JavaScript ES6 Introduction Bangla । বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল ভূমিকা
+    video_link: https://www.youtube.com/watch?v=P0aLUU-aSwA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Hello World - JavaScript ES6 Bangla Tutorial - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল
+    video_link: https://www.youtube.com/watch?v=W-8Gawun9gc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Variables - Bangla JavaScript ES6 - ভেরিয়েবল বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল
+    video_link: https://www.youtube.com/watch?v=g3HV5FEHq6k
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Concatination - Bangla JavaScript ES6 - কনক্যাটিনেশন বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল
+    video_link: https://www.youtube.com/watch?v=L8IYe4cADJw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: JavaScript ES6 if else Statements Bangla - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল
+    video_link: https://www.youtube.com/watch?v=yYl-68l8lcI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: JavaScript ES6 Conditions and Operators Bangla | বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল রিলেশনাল অপারেটর
+    video_link: https://www.youtube.com/watch?v=T7A232cod2w
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: JavaScript ES6 Array Bangla | বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল - এরে
+    video_link: https://www.youtube.com/watch?v=frmChI-WF5I
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Nested Array Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল
+    video_link: https://www.youtube.com/watch?v=HbJaMIkOQyM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Object Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল
+    video_link: https://www.youtube.com/watch?v=N7t2GMOohT0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Install Node JS and VS Code - Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল
+    video_link: https://www.youtube.com/watch?v=fAtiPVV-xTk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: JSON Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল, জেসন
+    video_link: https://www.youtube.com/watch?v=Ik3A0jR5DcU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: For Loop Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল
+    video_link: https://www.youtube.com/watch?v=YtRCijxibO8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: While Loop Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল
+    video_link: https://www.youtube.com/watch?v=XtSShLXBJHc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: break, continue - Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল
+    video_link: https://www.youtube.com/watch?v=IZFV_T_FlG8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Function - Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল | ফাংশন
+    video_link: https://www.youtube.com/watch?v=vbuEnkoAwSM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Function Parameters/Arguments Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল
+    video_link: https://www.youtube.com/watch?v=8HRGmatYuLk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Function's Return Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল
+    video_link: https://www.youtube.com/watch?v=Q6BObmzz4B4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Arrow Function Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল
+    video_link: https://www.youtube.com/watch?v=rlfFgumI5_4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Async JavaScript - Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল
+    video_link: https://www.youtube.com/watch?v=eA6Wxw4WKRg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Callback JavaScript - Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল
+    video_link: https://www.youtube.com/watch?v=z7QQz4oE6VA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Promise JavaScript - Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল
+    video_link: https://www.youtube.com/watch?v=XwlBSiXX0kY
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

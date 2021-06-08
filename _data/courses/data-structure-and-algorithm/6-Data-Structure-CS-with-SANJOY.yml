@@ -18,6 +18,83 @@ instructors:
     link: https://www.youtube.com/c/CSwithSANJOY
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PLfwg3As08FY__UnGYGfCS8htyJZYBs9hb
+
+  - name: Hashing
+    video_link: https://www.youtube.com/watch?v=S5ILZbIACgg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Array Operations ( Insertion , Deletion & Searching)
+    video_link: https://www.youtube.com/watch?v=PSU2zqkjbPI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: What is Array ? Introduction‼
+    video_link: https://www.youtube.com/watch?v=DnCFyhheygw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Introduction to DATA STRUCTURE
+    video_link: https://www.youtube.com/watch?v=1Sqcp5eswxc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Hash Functions
+    video_link: https://www.youtube.com/watch?v=R1H2I8h2GRw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Linear Probing
+    video_link: https://www.youtube.com/watch?v=4G3_lVBL0vE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Open Addressing & Chaining ( how to overcome hash collision )
+    video_link: https://www.youtube.com/watch?v=2UCLMartK1Q
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: STACK in every program
+    video_link: https://www.youtube.com/watch?v=cxlDWTAa4LI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Postfix evaluation
+    video_link: https://www.youtube.com/watch?v=G9f7fP2WgqY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Infix to postfix conversion
+    video_link: https://www.youtube.com/watch?v=IJ5jWFe2sd0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Recursion and Tail Recursion
+    video_link: https://www.youtube.com/watch?v=esvXZAv4ei4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Recursion and Tail Recursion
+    video_link: https://www.youtube.com/watch?v=esvXZAv4ei4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Recursion and Tail Recursion
+    video_link: https://www.youtube.com/watch?v=esvXZAv4ei4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Introduction to Linked list
+    video_link: https://www.youtube.com/watch?v=YtvXccO_p2o
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Insertion into LINKED LIST
+    video_link: https://www.youtube.com/watch?v=okg_asDGUIQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Linked List Traversal
+    video_link: https://www.youtube.com/watch?v=cSQNyHodZfE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Deletion of a node in Linked List
+    video_link: https://www.youtube.com/watch?v=yyV4mWrlDR8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Delete a Node From Begining of a Linked list
+    video_link: https://www.youtube.com/watch?v=pTstwthlX7E
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Delete a Node from end
+    video_link: https://www.youtube.com/watch?v=R4IbGw1H6-U
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Queue in Data Structure | Algorithm for queue insertion and deletion
+    video_link: https://www.youtube.com/watch?v=fcyROVWYeZQ
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

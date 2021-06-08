@@ -18,6 +18,63 @@ instructors:
     link: https://www.youtube.com/channel/UCC-aIlmCJvIERahr2spCEDg
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PL4iFnndHldugVWLTCHxJPhvKxJPDeYIGa
+
+  - name: Introduction to CSS | CSS3 For Beginners
+    video_link: https://www.youtube.com/watch?v=gDZYIjNPjI8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Mastering CSS Fonts | CSS For Beginners
+    video_link: https://www.youtube.com/watch?v=NInrXvDE8B8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: CSS Text Styling | CSS For Beginners
+    video_link: https://www.youtube.com/watch?v=u4E9dJQTNCE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Five Important CSS Selectors | CSS3 For Beginners
+    video_link: https://www.youtube.com/watch?v=cjDQOB831qE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Understanding CSS Combinator | CSS3 For Beginners
+    video_link: https://www.youtube.com/watch?v=n2XMicgZYq4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: CSS Specificity Explained in Bangla | CSS3 For Beginners
+    video_link: https://www.youtube.com/watch?v=Q-nHDnncBjo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Understanding CSS Inheritance | CSS3 For Beginners
+    video_link: https://www.youtube.com/watch?v=R1yU02fpFcQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: CSS Box Model Explained in Bangla | CSS3 For Beginners
+    video_link: https://www.youtube.com/watch?v=hkDQlV6ROYU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: CSS Positioning Explained in 15 Minutes | CSS3 For Beginners
+    video_link: https://www.youtube.com/watch?v=ROvf_S2klJs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: CSS Links | CSS3 For Beginners
+    video_link: https://www.youtube.com/watch?v=UTfLMwoYR0w
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: CSS Float and Overflow | CSS3 For Beginners
+    video_link: https://www.youtube.com/watch?v=XSsoTFKJtaQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: CSS Units Explained in Bangla | CSS3 For Beginners
+    video_link: https://www.youtube.com/watch?v=nAXQIqiRTKY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: CSS Lists and Dropdown Menu | CSS3 For Beginners
+    video_link: https://www.youtube.com/watch?v=OuDLOnq6YeY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: CSS Background Explained | CSS3 For Beginners
+    video_link: https://www.youtube.com/watch?v=d1v7OsTPHfY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: CSS Table | CSS3 For Beginners
+    video_link: https://www.youtube.com/watch?v=Z43MoXoYJIA
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

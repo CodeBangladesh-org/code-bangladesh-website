@@ -18,6 +18,163 @@ instructors:
     link: https://www.youtube.com/c/LearnwithHasinHayder
 
 content:
-  - name: বিগিনিং জাভাস্ক্রিপ্ট (ইউটিউব প্লেলিস্ট)
-    video_link: https://www.youtube.com/playlist?list=PLoR56CteKZnAdVtfTbAbUqT2thG4S-Anv
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট - ইন্ট্রোডাকশন
+    video_link: https://www.youtube.com/watch?v=y0uT4izH8F0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: পর্ব - 0, শুরু করার আগের কথা
+    video_link: https://www.youtube.com/watch?v=PHlv2LkWeQs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট পর্ব ১ - জাভাস্ক্রিপ্টে ভ্যারিয়েবল এবং ডেটা
+    video_link: https://www.youtube.com/watch?v=OqjBElIGIaI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট - পর্ব ২, বিভিন্ন রকমের ডেটা
+    video_link: https://www.youtube.com/watch?v=JikGu1dwLGk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৩ - কম্পিউটারে অংক কষা (এরিথমেটিক অপারেটরস)
+    video_link: https://www.youtube.com/watch?v=JWpn3uYUKZI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৩.৫ - অপারেটর নিয়ে আরও কিছু জানার আছে (ঐচ্ছিক পর্ব)
+    video_link: https://www.youtube.com/watch?v=eLCyr5z3eDw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৪ - তুলনা করা এবং সিদ্ধান্ত নেয়া
+    video_link: https://www.youtube.com/watch?v=DVwDcjEZLGo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৪.৫ - নেস্টিং এবং তুলনা করা নিয়ে আরও কিছু কথা
+    video_link: https://www.youtube.com/watch?v=i7S764QIwsk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৪.৯ - ইফ এলস দিয়ে বেশ কয়েকটা মজার প্রোগ্রাম লেখা
+    video_link: https://www.youtube.com/watch?v=bHcllmVnVx4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৪.১০ - টার্নারি  অপারেটর ( ঐচ্ছিক )
+    video_link: https://www.youtube.com/watch?v=QXp6OWsDxW4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৫ - লুপের সাথে পরিচয়
+    video_link: https://www.youtube.com/watch?v=X3HMn0WPrlI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৫.১ - হোয়াইল লুপ, কন্ডিশন এবং ব্রেক
+    video_link: https://www.youtube.com/watch?v=7Jyv-q_ombI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৫.২ - লুপের কন্ডিশনে i++ এবং ++i এর মাঝে পার্থক্য ( ঐচ্ছিক )
+    video_link: https://www.youtube.com/watch?v=3mtAAMy9uL0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৫.৩ - ডু হোয়াইল লুপ এবং ব্রেক
+    video_link: https://www.youtube.com/watch?v=DzmPCChTT-0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৫.৪ - ফর লুপ, কন্ডিশন, স্টেপিং এবং ব্রেক
+    video_link: https://www.youtube.com/watch?v=mRJWzCdZFus
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৫.৫ - ফর লুপে মাল্টিপল স্টেটমেন্ট এবং স্টেপিং
+    video_link: https://www.youtube.com/watch?v=84Mp5qMJh10
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৫.৬ - ফর লুপ দিয়ে কোন সংখ্যার ফ্যাক্টোরিয়াল বের করা
+    video_link: https://www.youtube.com/watch?v=W9fk6Q9_be4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৫.৭ - ফর লুপ দিয়ে নাম্বার সিরিজ প্রিন্ট করা
+    video_link: https://www.youtube.com/watch?v=90dfTdjijWc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৫.৮ - ফর লুপ দিয়ে নামতা/ধারাপাত/মাল্টিপ্লিকেশন টেবিল প্রিন্ট করা
+    video_link: https://www.youtube.com/watch?v=Ocdb1pXCeE0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৫.৯ - একটা সংখ্যার গুননীয়ক গুলো বের করা
+    video_link: https://www.youtube.com/watch?v=bhRXWtBf7Xw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৫.১০ - যেকোন মাসের ক্যালেন্ডার প্রিন্ট করা
+    video_link: https://www.youtube.com/watch?v=uYowKeuDycA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৬ - অ্যারে পরিচিতি
+    video_link: https://www.youtube.com/watch?v=cyunkMGY2pY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৬.১ - কিভাবে অ্যারে তৈরী করতে হয় এবং কোন এলিমেন্ট অ্যাকসেস করতে হয়
+    video_link: https://www.youtube.com/watch?v=0JtjkSvdrtg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৬.২ - একটু অ্যাডভান্সড অ্যারে ম্যানিপুলেশন
+    video_link: https://www.youtube.com/watch?v=hPl1-T0N7UM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৬.৩ - অ্যারের কোন একটা এলিমেন্ট ডিলেট করা
+    video_link: https://www.youtube.com/watch?v=Qg3Gpx8H1zQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৬.৪ - অ্যারে স্লাইস - অ্যারে থেকে একটা টুকরো অ্যাকসেস করা
+    video_link: https://www.youtube.com/watch?v=LHEC4jpeITU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৬.৫ - অ্যারে স্প্লাইস - অ্যারের কিছু অংশ কেটে বের করে আনা
+    video_link: https://www.youtube.com/watch?v=ikgPv47YIaU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৬.৬ - অ্যারে কপি করা
+    video_link: https://www.youtube.com/watch?v=_ZLE0URsgxo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৬.৭ - একটা অ্যারের সাথে আরেকটা অ্যারে যোগ করা (মার্জ)
+    video_link: https://www.youtube.com/watch?v=sq3WqEPs8V0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগনিং জাভাস্ক্রিপ্ট, পর্ব ৬.৮ - অ্যারে ট্রেভার্সিং (লুপ চালিয়ে অ্যারের এলিমেন্টগুলো অ্যাক্সেস করা)
+    video_link: https://www.youtube.com/watch?v=FPLDvzi40Sg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৬.৯ - অ্যারে থেকে এম্পটি এলিমেন্ট গুলো বাদ দেয়া
+    video_link: https://www.youtube.com/watch?v=U6VyXdds5Uk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৬.১০ - সর্টিং, অ্যারের ভেতরের সবকিছুকে ক্রমানুসারে সাজানো
+    video_link: https://www.youtube.com/watch?v=sBXWpkeAzgY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৬.১১ - স্ট্রিং থেকে অ্যারে এবং অ্যারে থেকে স্ট্রিং
+    video_link: https://www.youtube.com/watch?v=PWDsB_iikCE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৬.১২ - স্ট্রিং এবং অ্যারে নিয়ে আরও একটু
+    video_link: https://www.youtube.com/watch?v=I1MLwua8ELw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৭.০ - ফাংশনের সাথে পরিচয়  কি এবং কেন
+    video_link: https://www.youtube.com/watch?v=hCqKDpUH1do
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট, পর্ব ৭.১ - ফাংশনে কোন প্যারামিটারের ডিফল্ট ভ্যালু
+    video_link: https://www.youtube.com/watch?v=2Pul7vFkQLs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট পর্ব ৭.২ - রিইউজেবল ফাংশন - স্ট্রিং রিভার্স
+    video_link: https://www.youtube.com/watch?v=eQgmCESHles
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট পর্ব ৭.৩ - ফাংশনে আনলিমিটেড আর্গুমেন্ট নেয়া - স্প্রেড অপারেটর
+    video_link: https://www.youtube.com/watch?v=lYjqIHsTTzg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট পর্ব ৭.৪ -ফাংশনের আর্গুমেন্ট ভার্সেস প্যারামিটার - কোনটা কি?
+    video_link: https://www.youtube.com/watch?v=2bN91s7VN7c
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিগিনিং জাভাস্ক্রিপ্ট পর্ব ৭.৫ - জাভাস্ক্রিপ্ট ফাংশনে ভ্যারিয়েবল স্কোপ
+    video_link: https://www.youtube.com/watch?v=yzJ2CheHZ4A
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

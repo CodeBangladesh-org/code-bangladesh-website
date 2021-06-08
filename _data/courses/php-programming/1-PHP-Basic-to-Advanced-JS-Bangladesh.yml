@@ -18,6 +18,167 @@ instructors:
     link: https://www.youtube.com/channel/UCC-aIlmCJvIERahr2spCEDg
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PL4iFnndHldui-0507zycrQBo_HFU8-mi9
+
+  - name: 1.1 Introduction to PHP
+    video_link: https://www.youtube.com/watch?v=Fre99th2ao4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 1.2 History of PHP
+    video_link: https://www.youtube.com/watch?v=bnkBGZXa7RU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 1.3 PHP Present and Future
+    video_link: https://www.youtube.com/watch?v=8vzM5BTSZRo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 1.4 PHP Opportunities
+    video_link: https://www.youtube.com/watch?v=K_lH8lBuvB0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 1.5 Drawbacks of PHP
+    video_link: https://www.youtube.com/watch?v=Lv4nCIfrSkw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 2.1 Install PHP on Local Machine
+    video_link: https://www.youtube.com/watch?v=09Z_fJXEgmg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 2.2 Choosing Code Editor for PHP
+    video_link: https://www.youtube.com/watch?v=p5iWZDk-jrg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 2.3 Customize Working Environment
+    video_link: https://www.youtube.com/watch?v=73JXaw0toaQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 3.1 Hello World in PHP
+    video_link: https://www.youtube.com/watch?v=dtUJ5tW8Eck
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 3.2 Basic Calculation
+    video_link: https://www.youtube.com/watch?v=W8GrcMZ1Xbk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 3.3 Print vs Echo
+    video_link: https://www.youtube.com/watch?v=NxHKuD5GMug
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 3.4 PHP Comments
+    video_link: https://www.youtube.com/watch?v=cH4pQz-PYoo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 4.1 What is Variable in General
+    video_link: https://www.youtube.com/watch?v=D-zMcIQNolc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 4.2 Variables in PHP
+    video_link: https://www.youtube.com/watch?v=pGlZwcZ1aNI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 4.3 Constants in PHP
+    video_link: https://www.youtube.com/watch?v=JT2Bu3pg5GY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 4.4 Understanding Data Types
+    video_link: https://www.youtube.com/watch?v=g7W_kWjZLHM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 4.5 Data Types in PHP
+    video_link: https://www.youtube.com/watch?v=O7nKB-by7eM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 4.6 Common Primitive Data Types
+    video_link: https://www.youtube.com/watch?v=qgrTnBYZKq4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 4.7 Magic Constants in PHP
+    video_link: https://www.youtube.com/watch?v=XIBXkGcsOOQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 5.1 What is Operator
+    video_link: https://www.youtube.com/watch?v=75mG1lqS3xo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 5.2 Type of Operators in PHP
+    video_link: https://www.youtube.com/watch?v=5bKc_CxrwTo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 5.3 Arithmetic & Assignment Operator
+    video_link: https://www.youtube.com/watch?v=Hza9bSVI33Y
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 5.4 Relational or Comparison Operator
+    video_link: https://www.youtube.com/watch?v=7uZAZKMkaQw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 5.5 Logical Operators
+    video_link: https://www.youtube.com/watch?v=EzmMK0iIf1w
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 5.6 Increment Decrement Operators
+    video_link: https://www.youtube.com/watch?v=gL7VqHnmW2I
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 5.7 Get Type
+    video_link: https://www.youtube.com/watch?v=ZLCHnQSlDMU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 5.8 Execution Operator
+    video_link: https://www.youtube.com/watch?v=TDI-6JzIcZk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 6.1 Understanding Control Structures
+    video_link: https://www.youtube.com/watch?v=hsvCBQjQWd0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 6.2 If Statements
+    video_link: https://www.youtube.com/watch?v=fQn_EBw5g40
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 6.3 Else Statements
+    video_link: https://www.youtube.com/watch?v=s1hZ1KlfRWg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 6.4 Elseif Statements
+    video_link: https://www.youtube.com/watch?v=cYlJpAhGedE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 6.5 Nested Conditions
+    video_link: https://www.youtube.com/watch?v=_5yyDv8tmXU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 6.6 Alternative Syntax for Conditions
+    video_link: https://www.youtube.com/watch?v=e2m7ex5B2Ls
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 6.7 Understanding Loop
+    video_link: https://www.youtube.com/watch?v=Qzilrd58vKQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 6.8 While Loop
+    video_link: https://www.youtube.com/watch?v=_KgAL6Ied44
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 6.9 Do While Loop
+    video_link: https://www.youtube.com/watch?v=iiIhs0nIxqk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 6.10 For Loop
+    video_link: https://www.youtube.com/watch?v=1tzK1_VEm7w
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 6.11 For Each Loop
+    video_link: https://www.youtube.com/watch?v=OJltxgpNy7I
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 6.12 Nested Loops
+    video_link: https://www.youtube.com/watch?v=R-oZLPvAFUU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 6.13 Break and Continue in PHP
+    video_link: https://www.youtube.com/watch?v=DQxDOz3gHqs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 6.14 Switch Statements
+    video_link: https://www.youtube.com/watch?v=aLO5KdurfiU
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

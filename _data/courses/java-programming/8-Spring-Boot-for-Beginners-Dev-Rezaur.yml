@@ -1,140 +1,137 @@
-id: HTML5-Bangla-Tutorial-Moshiur
-name: HTML5 বাংলা টিউটোরিয়াল
+id: Spring-Boot-for-Beginners-Dev-Rezaur.yml
+name: Spring Boot for Beginners
 description: >-
-  প্রফেশনার ওয়েব ডিজাইনারের জন্য প্রথমে যা জানতে হবে তা হলো HTML5। এই কোর্সটি বিস্তারিত আলোচনা করা হয়েছে।
+  Spring Boot এর বেসিক শেখানো হয়েছে।
 
-image_source: /assets/img/web-design.png
-category_id: web-design
-number_of_videos: 30
+image_source: /assets/img/java.png
+category_id: java-programming
+number_of_videos: 29
 
 topics:
-  - HTML5
+  - জাভা
+  - স্প্রিং বুট
 
 complexity: >-
-  কোন অভিজ্ঞতা থাকার প্রয়োজন নাই।
+  জাভা জানা থাকতে হবে।
 
 instructors:
-  - name: Moshiur
-    link: https://www.youtube.com/c/Moshiur
+  - name: Dev Rezaur
+    link: https://www.youtube.com/c/DevRezaur
 
 content:
 
-  - name: Introduction
-    video_link: https://www.youtube.com/watch?v=n_HhXXTJHFg
+  - name: 01. Introduction
+    video_link: https://www.youtube.com/watch?v=Kij3fZ47rMY
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Editors
-    video_link: https://www.youtube.com/watch?v=n3QgYksdIRQ
+  - name: 02. Environment Setup
+    video_link: https://www.youtube.com/watch?v=9GTWysOH8gc
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Editors
-    video_link: https://www.youtube.com/watch?v=mohO2yNwPww
+  - name: 03. Maven
+    video_link: https://www.youtube.com/watch?v=xYzejiVX5C8
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Basic
-    video_link: https://www.youtube.com/watch?v=335QE6AkRfg
+  - name: 04. Dependency Injection & IoC Concept
+    video_link: https://www.youtube.com/watch?v=ZoLcer3NWgQ
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Emmet
-    video_link: https://www.youtube.com/watch?v=oZGnzlz3EyE
+  - name: 05. XML based setter injection
+    video_link: https://www.youtube.com/watch?v=fXI1nsqjFUU
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Headings , Paragraphs
-    video_link: https://www.youtube.com/watch?v=eajWFGX6jz0
+  - name: 06. XML based constructor injection
+    video_link: https://www.youtube.com/watch?v=A4HperxOe88
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Styles
-    video_link: https://www.youtube.com/watch?v=TC0Rcflvslg
+  - name: 07. Java Config Based Setter Injection
+    video_link: https://www.youtube.com/watch?v=WGsKvGCo7zs
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Formatting
-    video_link: https://www.youtube.com/watch?v=_MagOZ776ns
+  - name: 08. Java Config Based Constructor Injection
+    video_link: https://www.youtube.com/watch?v=nhaNrFwzaCo
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Quotation And Citation
-    video_link: https://www.youtube.com/watch?v=rrd7Y6fAT1E
+  - name: 09. @Autowired Annotation
+    video_link: https://www.youtube.com/watch?v=5izngN_inGc
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Links And Comments
-    video_link: https://www.youtube.com/watch?v=vmPvwZC5CB4
+  - name: 10. Singleton vs Prototype
+    video_link: https://www.youtube.com/watch?v=cHea4McoFKg
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Colors
-    video_link: https://www.youtube.com/watch?v=S5z7tUcS07k
+  - name: 11. Spring MVC Introduction
+    video_link: https://www.youtube.com/watch?v=hsdwoGstJBU
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Images
-    video_link: https://www.youtube.com/watch?v=eCBC6YkC7l0
+  - name: 12. Model & ModelMap
+    video_link: https://www.youtube.com/watch?v=PxAeoJhLUsk
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Tables
-    video_link: https://www.youtube.com/watch?v=Y7aa9tD3brI
+  - name: 13. ModelAndView
+    video_link: https://www.youtube.com/watch?v=ZLX58UGemtg
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Lists
-    video_link: https://www.youtube.com/watch?v=waaiBMCGIg0
+  - name: 14. @ModelAttribute
+    video_link: https://www.youtube.com/watch?v=8DCYkrxpL-M
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Blocks
-    video_link: https://www.youtube.com/watch?v=8P2snLAGkOw
+  - name: 15. Method Level @ModelAttribute
+    video_link: https://www.youtube.com/watch?v=SkbiOT4xUro
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Iframes
-    video_link: https://www.youtube.com/watch?v=5LS78rt7N6w
+  - name: 16. @PostMapping
+    video_link: https://www.youtube.com/watch?v=tIFIJPX16A4
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Video
-    video_link: https://www.youtube.com/watch?v=ditynW_vnYE
+  - name: 17. @GetMapping
+    video_link: https://www.youtube.com/watch?v=HA1nNLFwgQo
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Audio
-    video_link: https://www.youtube.com/watch?v=m8ypYSKLJLA
+  - name: 18. Spring ORM Theory
+    video_link: https://www.youtube.com/watch?v=gIHymrVAoiA
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Layout
-    video_link: https://www.youtube.com/watch?v=aZv9DiXCc_M
+  - name: 19. Spring Data JPA Config
+    video_link: https://www.youtube.com/watch?v=pJPJkXX0JKA
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Forms
-    video_link: https://www.youtube.com/watch?v=JIIyWmWE26w
+  - name: 20. Basic CRUD Operation
+    video_link: https://www.youtube.com/watch?v=Mpx0cBnubJA
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Form Elements
-    video_link: https://www.youtube.com/watch?v=9GKc87HcQRM
+  - name: 21. Query DSL
+    video_link: https://www.youtube.com/watch?v=CMTYf_Js0BU
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Form Elements
-    video_link: https://www.youtube.com/watch?v=Sybah-x00J8
+  - name: 22. @Query Annotation
+    video_link: https://www.youtube.com/watch?v=zos2s5aLFLg
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Input Types
-    video_link: https://www.youtube.com/watch?v=Q0IoqGtb8mU
+  - name: Spring Boot Quiz App
+    video_link: https://www.youtube.com/watch?v=BqLl7mckWv8
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Classes
-    video_link: https://www.youtube.com/watch?v=ny-ETA1YuMY
+  - name: 23. Spring REST Introduction
+    video_link: https://www.youtube.com/watch?v=tL8UdcpCwvM
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: ID
-    video_link: https://www.youtube.com/watch?v=4j__LwZ7G_s
+  - name: 24. Spring REST @GetMapping
+    video_link: https://www.youtube.com/watch?v=timIfdMfXdI
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: SVG Circle
-    video_link: https://www.youtube.com/watch?v=rajR2ZHha-A
+  - name: 25. @PathVariable
+    video_link: https://www.youtube.com/watch?v=SBVOOVqaWMI
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: SVG Rectangle
-    video_link: https://www.youtube.com/watch?v=3eRbdP_dGiA
+  - name: 26. @RequestBody
+    video_link: https://www.youtube.com/watch?v=_gvDe7AgxmQ
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Entity
-    video_link: https://www.youtube.com/watch?v=fOGm-aeXC5Q
+  - name: 27. Update & Delete
+    video_link: https://www.youtube.com/watch?v=Y2d44ixymHc
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Symbols
-    video_link: https://www.youtube.com/watch?v=BgOkNCThWak
-    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
-
-  - name: Final Speech
-    video_link: https://www.youtube.com/watch?v=R5SKaMNXdxk
+  - name: 28. Spring AOP with AspectJ
+    video_link: https://www.youtube.com/watch?v=SKw3tY4wLic
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

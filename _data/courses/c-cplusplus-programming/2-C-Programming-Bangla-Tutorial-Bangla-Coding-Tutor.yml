@@ -18,6 +18,135 @@ instructors:
     link: https://www.youtube.com/c/BanglaCodingTutor
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PLdl6zXgLsy3zwNjSMiYlOZOr20sykTfgo
+
+  - name: সি প্রোগ্রামিং শিখি অ্যামাজন ইঞ্জিনিয়ার এর সাথে- ইউনিভার্সিটির ফুল কোর্স।
+    video_link: https://www.youtube.com/watch?v=O3vzpGGZpIE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ০১ঃ  Play with Printf()- কিভাবে শুরু করব সি প্রোগামিং
+    video_link: https://www.youtube.com/watch?v=Kwye58pHhxE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ০২ঃ Data Type & Variables
+    video_link: https://www.youtube.com/watch?v=yrhf85_bqP0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ০৩ঃ Integer & Long Integer
+    video_link: https://www.youtube.com/watch?v=WJznertdKXg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ০৪ঃ Float & Double
+    video_link: https://www.youtube.com/watch?v=vHCCmlAwEO4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ০৫ঃ Character & ASCII Code
+    video_link: https://www.youtube.com/watch?v=A0BBp-sKTeg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ০৬ঃ User Input scanf()
+    video_link: https://www.youtube.com/watch?v=bz2fhsxH6dw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ০৭ঃ Condition- If Else
+    video_link: https://www.youtube.com/watch?v=131sbMRQVxc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ০৮ঃ Condition- if.. else if
+    video_link: https://www.youtube.com/watch?v=YiSSRggLTg0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ০৯ঃ Switch Case
+    video_link: https://www.youtube.com/watch?v=v7I6-qm2ZYU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ১০ঃ Operator, Precedence, Associativity
+    video_link: https://www.youtube.com/watch?v=AR2HKNPntME
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং -১১ঃ for Loop
+    video_link: https://www.youtube.com/watch?v=6-9xhJsp1Vo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ১২ঃ while Loop
+    video_link: https://www.youtube.com/watch?v=hTU2AA-lpSU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ১৩ঃ do while Loop
+    video_link: https://www.youtube.com/watch?v=U6SfSl3Nf-g
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ১৪ঃ Nested Loop
+    video_link: https://www.youtube.com/watch?v=AY7GOmY9a8Y
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ১৫ঃ Break and Continue
+    video_link: https://www.youtube.com/watch?v=UQVM-empou4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ১৬ঃ Loop Practice Problems
+    video_link: https://www.youtube.com/watch?v=QGkMWkOQro0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ১৭ঃ Array Introduction
+    video_link: https://www.youtube.com/watch?v=iGenyxwahTw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ১৮ঃ Array Operations
+    video_link: https://www.youtube.com/watch?v=cLl2BRl0oeI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ১৯ঃ 2D Array
+    video_link: https://www.youtube.com/watch?v=SxijtYOqQ00
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ২০ঃ Function Introduction
+    video_link: https://www.youtube.com/watch?v=Uu9I_mCIR58
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ২১ঃ Function Exercise in C
+    video_link: https://www.youtube.com/watch?v=-6V1KO3tjKw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ২২ঃ String in C
+    video_link: https://www.youtube.com/watch?v=ASyLQYGgPks
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ২৩ঃ String Functions in C
+    video_link: https://www.youtube.com/watch?v=lY5KalJGc48
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ২৪ঃ Structure in C
+    video_link: https://www.youtube.com/watch?v=2EiIYRFBBus
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং -২৫ঃ Pointer in C
+    video_link: https://www.youtube.com/watch?v=ZDwB72yiqeE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং -২৬ঃ Pointer- Dynamic memory allocation, malloc(), calloc(), free(), realloc()
+    video_link: https://www.youtube.com/watch?v=M9D677MoXZg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং -২৭ঃ Pointer- relation with Array and Function
+    video_link: https://www.youtube.com/watch?v=91ucuAeAGd8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ২৮ঃ File in C Programming Bangla Tutorial. Read, Write, fscanf, fgets, fputs
+    video_link: https://www.youtube.com/watch?v=aaqXmefOLKU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ২৯ঃ File in C Programming (Advanced & Complete) Bangla Tutorial. File Project in C.
+    video_link: https://www.youtube.com/watch?v=JW0ltVKS2po
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সি প্রোগ্রামিং - ৩০ঃ C Header Files
+    video_link: https://www.youtube.com/watch?v=FW19KIqRJZc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Digital Stop Watch- C Programming Full Project
+    video_link: https://www.youtube.com/watch?v=ovfyxbijcc0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Calendar App- C Programming Full Project
+    video_link: https://www.youtube.com/watch?v=hafg8uCSb1w
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

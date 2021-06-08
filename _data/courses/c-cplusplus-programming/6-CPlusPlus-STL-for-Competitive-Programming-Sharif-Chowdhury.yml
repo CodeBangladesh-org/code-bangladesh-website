@@ -20,6 +20,23 @@ instructors:
     link: https://www.youtube.com/c/shariftech
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PLPkEK3TrAJ1OmahjzWnO58Klm39QJRJRd
+
+  - name: The Standard Template Library tutorial - STL Algorithm
+    video_link: https://www.youtube.com/watch?v=6FVL-8tMYpA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Vector - all you need to know - Cheat Sheet
+    video_link: https://www.youtube.com/watch?v=AIZ3r5i_pzg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Vector - Problem Solving - Hackerrank - Arrays DS
+    video_link: https://www.youtube.com/watch?v=FhaN0Pd9fnI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Vector - Vector 2D - Vector of Vector
+    video_link: https://www.youtube.com/watch?v=sog-o5F-vLg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Vector - Vector 2D - hackerrank - 2D Array - DS
+    video_link: https://www.youtube.com/watch?v=bbbeqbfpAcc
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

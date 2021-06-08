@@ -5,7 +5,7 @@ description: >-
 
 image_source: /assets/img/web-design.png
 category_id: web-design
-number_of_videos: 17
+number_of_videos: 16
 
 topics:
   - UI/UX
@@ -18,6 +18,67 @@ instructors:
     link: https://www.youtube.com/c/GraphicSchool
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PLfTy62yEipggY1mlttseAOlLAw5-1m1UR
+
+  - name: What is UI/UX Design? Career Guideline for UI/UX
+    video_link: https://www.youtube.com/watch?v=SOlxUWywKUs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: ক্যারিয়ার হিসাবে Ui/Ux ডিজাইনারদের ভবিষ্যৎ | নতুনদের জন্য সম্পূর্ন গাইডলাইন
+    video_link: https://www.youtube.com/watch?v=Oevt7ZZ9DG0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: UI Design Principles || Bangla Tutorial 2019 || User Interface Design principles
+    video_link: https://www.youtube.com/watch?v=BG2M8xrq8EY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: What is a Wireframe? | Bangla Tutorial
+    video_link: https://www.youtube.com/watch?v=4KByfmexHHQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: How to Design PSD Website Template in Photoshop | Part - 01
+    video_link: https://www.youtube.com/watch?v=2lPKL7JglEY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: How to Design PSD Website Template in Photoshop | Part - 02
+    video_link: https://www.youtube.com/watch?v=O3RYQExKiPc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: ডিজাইনে সঠিক কালার নিবার্চন করবেন কিভাবে? Website & Apps I Color Combination
+    video_link: https://www.youtube.com/watch?v=S_90e0zDrGk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: How to design Website Wireframe using Photoshop | Ui/Ux Tutorial | Bangla Tutorial
+    video_link: https://www.youtube.com/watch?v=wFB0QLC1WvU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Wireframe | How to design high fidelity Website Wireframe | Ui/Ux Tutorial | Bangla Tutorial
+    video_link: https://www.youtube.com/watch?v=J4_wzMDA_7M
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Best UI Design Inspiration Sites in 2019 | Design Inspiration | Design Ideas
+    video_link: https://www.youtube.com/watch?v=GDthpfXzpXc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Free Illustration Resources for your Next Ui Design Project | Free Unlimited Illustration Download
+    video_link: https://www.youtube.com/watch?v=0F6nabdzZlk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Dashboard Design Bangla Tutorial | dashboard design guidelines | Ui/Ux Tutorial
+    video_link: https://www.youtube.com/watch?v=YXE21bca6-E
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Deleted video
+    video_link: https://www.youtube.com/watch?v=Li8xYAOpYvw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Adobe XD Bangla Tutorial || Introducing Adobe XD || Part - 01
+    video_link: https://www.youtube.com/watch?v=N8ma9bPN4nk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Adobe XD 8 Toolbar || Bangla Tutorial || Part - 02
+    video_link: https://www.youtube.com/watch?v=NhUeo_jKIdM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Layer & Assets Panel || Adobe XD Bangla Tutorial || Part - 03
+    video_link: https://www.youtube.com/watch?v=BF9jknZOqQ8
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

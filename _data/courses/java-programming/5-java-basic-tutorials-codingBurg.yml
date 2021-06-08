@@ -19,13 +19,23 @@ instructors:
     link: https://www.youtube.com/channel/UC7sS1rBaAMypmr6nBCixIAQ
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PLD0kkgmDMAp1NB6HVo7m2s1lWkKEzQzlC
+
+  - name: Java Beginning
+    video_link: https://www.youtube.com/watch?v=g5XQ-kLegIs
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
+  - name: Java Object Oriented Programming
+    video_link: https://www.youtube.com/watch?v=3JEAdQtpAjs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
+  - name: Multithreading
+    video_link: https://www.youtube.com/watch?v=7FNS_ByQc54
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
+  - name: Java Inner Classes
+    video_link: https://www.youtube.com/watch?v=hHJigf_2oPU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-
-
-
+  - name: Inheritance
+    video_link: https://www.youtube.com/watch?v=obcV5Lzb08E
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

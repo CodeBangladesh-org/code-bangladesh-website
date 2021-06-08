@@ -19,6 +19,31 @@ instructors:
     link: https://www.youtube.com/c/AndrostockDev
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PLe_j4JFfs_7Upuvla_mEfMMnuFoo8Z5Zd
+
+  - name: Insertion Sort
+    video_link: https://www.youtube.com/watch?v=RcCjJAMyfnQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Merge Sort
+    video_link: https://www.youtube.com/watch?v=doCn6FBfvbo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: LCS - Longest Common Subsequence
+    video_link: https://www.youtube.com/watch?v=o2p2dT5rKQw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Dijkstra's Algorithm for Single-Source Shortest Path
+    video_link: https://www.youtube.com/watch?v=ptwbsBpnlYY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Quicksort
+    video_link: https://www.youtube.com/watch?v=BX5i-Z5WK_4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Binary Search
+    video_link: https://www.youtube.com/watch?v=aXrxLD2oYqI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Floyd–Warshall Algorithm
+    video_link: https://www.youtube.com/watch?v=q0OcT9F54Zw
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

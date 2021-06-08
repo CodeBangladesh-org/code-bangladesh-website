@@ -19,6 +19,87 @@ instructors:
     link: https://www.youtube.com/c/LoveExtendsCode
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PLgLCjVh3O6Sgux985GYG22xkFt9z9Sq0_
+
+  - name: introduction to STL
+    video_link: https://www.youtube.com/watch?v=awY7oJ7wFhs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: vector
+    video_link: https://www.youtube.com/watch?v=thC4qSvywPg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: printing vector
+    video_link: https://www.youtube.com/watch?v=WEwZpte_XB8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: more on iterator
+    video_link: https://www.youtube.com/watch?v=zfF4W7pK-_0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: sort
+    video_link: https://www.youtube.com/watch?v=8Ga-vtsMM6o
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: sort() 
+    video_link: https://www.youtube.com/watch?v=13N1gcLVNSQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: list
+    video_link: https://www.youtube.com/watch?v=1TGXjIg4vzM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: more on list
+    video_link: https://www.youtube.com/watch?v=vNlYk9t-InI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: list find() insert()
+    video_link: https://www.youtube.com/watch?v=WIIHRBn9gOg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: list find
+    video_link: https://www.youtube.com/watch?v=AO-bubqjpYU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: overview vector list
+    video_link: https://www.youtube.com/watch?v=Nrjc8x53fr4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: list pop_front() pop_back() empty()
+    video_link: https://www.youtube.com/watch?v=NcaV1awy5X8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Map
+    video_link: https://www.youtube.com/watch?v=fGCJIOWANIg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Pair
+    video_link: https://www.youtube.com/watch?v=9dCd_5bYhRg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Set
+    video_link: https://www.youtube.com/watch?v=lK4JRmpXjPo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Stack
+    video_link: https://www.youtube.com/watch?v=LosrkzZK90g
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Priority Queue
+    video_link: https://www.youtube.com/watch?v=M390yEnX7TU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: MultiSet
+    video_link: https://www.youtube.com/watch?v=-eSomeDScBk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: binary_search, upper_bound, lower_bound
+    video_link: https://www.youtube.com/watch?v=XjxQWjVxC9Y
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Bitset, using Bitset in Sieve's algorithm
+    video_link: https://www.youtube.com/watch?v=ytxsaKqAPng
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Custom Comparator
+    video_link: https://www.youtube.com/watch?v=j85JfgBJtJ8
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

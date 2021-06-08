@@ -19,6 +19,75 @@ instructors:
     link: https://www.youtube.com/c/LoveExtendsCode
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PLgLCjVh3O6Sh88ebyMzRtREnncdX10WZD
+
+  - name: "Graph Theory 1 - Adjacency Matrix: Take graph as input in the program"
+    video_link: https://www.youtube.com/watch?v=OswJO4BXfYU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: "Graph Theory 2 - Prerequisite: Take input from file"
+    video_link: https://www.youtube.com/watch?v=imP_JgnOnLk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: "Graph Theory 3 - Prerequisite: Find neighbors/adjacent nodes of a Node"
+    video_link: https://www.youtube.com/watch?v=kZI7_wsy4jY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: "Graph Theory 4 - DFS: Theory"
+    video_link: https://www.youtube.com/watch?v=CVe4NypqwSE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: "Graph Theory 5 - DFS: Implementation"
+    video_link: https://www.youtube.com/watch?v=-1HUUMnCRjs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: "Graph Theory 5 Extra: Discovery and Finishing time using DFS"
+    video_link: https://www.youtube.com/watch?v=HC5EpkPpwAE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: "Graph Theory 6 - BFS: Theory"
+    video_link: https://www.youtube.com/watch?v=MNfkgLkBtdk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: "Graph Theory 7 - Prerequisite: Queue using STL, print Queue"
+    video_link: https://www.youtube.com/watch?v=d4Kg-bpdZnI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Graph Theory 8 - BFS Implementation
+    video_link: https://www.youtube.com/watch?v=iWTEjkGqL6M
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Recursion Explained - How recursion works
+    video_link: https://www.youtube.com/watch?v=lxQSirehGP8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: "Graph Theory 12 - BST (Binary Search Tree) : Theory"
+    video_link: https://www.youtube.com/watch?v=Pq0Ot5ceZFE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: "Graph Theory 13 - BST (Binary Search Tree) : Non-recursive Implementation"
+    video_link: https://www.youtube.com/watch?v=cpeZo5T5-Kk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: "Graph Theory 14 - BST (Binary Search Tree) Preorder Traversal : Theory"
+    video_link: https://www.youtube.com/watch?v=602BXxG6Q6w
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: "Graph Theory 15 - BST (Binary Search Tree) Preorder : Recursive Implementation"
+    video_link: https://www.youtube.com/watch?v=s9fNasyFowk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: "Graph Theory 16 - BST : Inorder Postorder recursive traversal Implementation"
+    video_link: https://www.youtube.com/watch?v=xfgkY45bQZ4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Graph Theory - Topological Sort - Full
+    video_link: https://www.youtube.com/watch?v=JV9jYvWuxeI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Heap Sort - Theory
+    video_link: https://www.youtube.com/watch?v=c3ZBgMBgrHo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Graph Theory - Kahn's Algorithm | Topological Sorting
+    video_link: https://www.youtube.com/watch?v=G1HuCjgvJb0
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

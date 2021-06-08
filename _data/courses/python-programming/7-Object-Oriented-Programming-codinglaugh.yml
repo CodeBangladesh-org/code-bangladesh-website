@@ -19,6 +19,91 @@ instructors:
     link: https://www.youtube.com/c/codinglaugh
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PLTgx8WgkaUw5HXBnOMIPUqLyDOwXKvHVF
+
+  - name: Introduction || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=NaHMoZxVlbI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Object || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=jsDmqziuMO8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Class || Method || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=YB5v4F5f-0M
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Constructor || Properties || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=YufTeSFabuw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Class Variable vs Instance Variable || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=w8pXbT3eGF4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Inheritance || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=A_JcDLCMl44
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Multiple Inheritance || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=UzNQyE72nQk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Exercise - 01 solve || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=hxoV2NCCLP0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Inheritance - Method Overrides || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=njqaEheapgI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Inheritance - Indirect || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=ELeP54lZwYA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Inheritance - Super || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=bHyLfJOdzg4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Class Method vs Instance Method || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=jE29qlG1EUc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Class Method - Example  || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=mZ-cv964P2g
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Static Method || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=djhzQdIti7c
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Static Method - Example || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=tz__IiGrS2s
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Abstraction || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=FEELGK-V4E8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Encapsulation || Public - Protected - Private || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=HkPuAZeOMPY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Polymorphism - Class  and Method || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=lQLLHl4iIag
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Polymorfism - Example || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=iFFQ7cMLv9M
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Magic Method / Dunder Method - Arithmetic Operators || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=pmXQuiqwMuk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Magic Method / Dunder Method -  Comparison || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=qJQkHHC0Qbg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: __repr__ and __str__ (Magic/Dunder) Method || OOP in Python - 
+    video_link: https://www.youtube.com/watch?v=wM89KnMjWHY
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

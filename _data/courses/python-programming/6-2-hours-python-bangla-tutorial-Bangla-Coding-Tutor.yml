@@ -19,6 +19,47 @@ instructors:
     link: https://www.youtube.com/c/BanglaCodingTutor
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PLdl6zXgLsy3wZIv1VidGb0eBymRMXoKu0
+
+  - name: 2 Hours Python - 01 Prerequisite | Python Bangla Tutorial
+    video_link: https://www.youtube.com/watch?v=H9tOKBcUduo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 2 Hours Python - 02 Python Install | Python Bangla Tutorial
+    video_link: https://www.youtube.com/watch?v=OVUFTi454tE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 2 Hours Python - 03 Command Line vs IDE| Bangla Coding Tutor | Python Bangla Tutorial
+    video_link: https://www.youtube.com/watch?v=aOes29or9wg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 2 Hours Python - 04 Python2 vs Python3 | Python Bangla Tutorial
+    video_link: https://www.youtube.com/watch?v=71OFUdfhFY8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 2 Hours Python - 05 Print and Comment| Bangla Coding Tutor | Python Bangla Tutorial
+    video_link: https://www.youtube.com/watch?v=y3hFN5_Y9yk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 2 Hours Python - 06 DataType and Variables | Python Bangla Tutorial
+    video_link: https://www.youtube.com/watch?v=QCCYDOudom4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 2 Hours Python - 07 Condition If Else | Python Bangla Tutorial
+    video_link: https://www.youtube.com/watch?v=IuUuJR1njAU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 2 Hours Python - 08 for Loop| Bangla Coding Tutor | Python Bangla Tutorial
+    video_link: https://www.youtube.com/watch?v=fCZgIE_u4NU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 2 Hours Python - 09 for and while Loop | Python Bangla Tutorial
+    video_link: https://www.youtube.com/watch?v=Zt1Jseh4uJg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 2 Hours Python - 10 else in Loop | Python Bangla Tutorial
+    video_link: https://www.youtube.com/watch?v=c0BHJdvH8gQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 2 Hours Python - 11 list in Python | Python Bangla Tutorial
+    video_link: https://www.youtube.com/watch?v=cpw65nbCNcw
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

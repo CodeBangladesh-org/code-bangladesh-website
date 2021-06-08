@@ -18,6 +18,191 @@ instructors:
     link: https://www.youtube.com/channel/UCnpi74yEm-4qn2HKYXsj5dA
 
 content:
-  - name: টিউটোরিয়াল ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PLVEPUT4tO1szqp71AacT0RsKl6qlE7-xi
+
+  - name: Why We should learn python ?পাইথন দিয়ে  কীভাবে freelancing/outsourcing   করা যায়?
+    video_link: https://www.youtube.com/watch?v=4zEpREKbT5w
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: How to download & Install python ?
+    video_link: https://www.youtube.com/watch?v=rCLSn2HdQRs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: How to install Pycharm & How to use Visual studio Code for python
+    video_link: https://www.youtube.com/watch?v=lVOaD7K-tak
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python arithmetic operation
+    video_link: https://www.youtube.com/watch?v=h6dAV7m11ms
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python function
+    video_link: https://www.youtube.com/watch?v=IngCnCGv6Po
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python Arithmetic function (Part-1)
+    video_link: https://www.youtube.com/watch?v=LVcrSeUHqb0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python arithmetic function (Part-2)
+    video_link: https://www.youtube.com/watch?v=s4eBZhQUM78
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python character and  string (part-1) || python bangla tutorial
+    video_link: https://www.youtube.com/watch?v=30zMFglxsJE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python string  and escape sequence (part-2) || python for beginners
+    video_link: https://www.youtube.com/watch?v=mu_lb3mRBQw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python number,string,concatenation and repetition operations || python tutorial  for beginners
+    video_link: https://www.youtube.com/watch?v=EIaiP_mHh28
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python multi-line string and comments || python for beginners
+    video_link: https://www.youtube.com/watch?v=yoJcBHjXiw0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python variable || python for beginners
+    video_link: https://www.youtube.com/watch?v=DcCP22rN6c0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python string and number with variable || python for beginners
+    video_link: https://www.youtube.com/watch?v=N-lopY80zxg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python string operation (part-1) || python programming for beginners
+    video_link: https://www.youtube.com/watch?v=f1M-W386YF0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python string operation (part-2) || python programming for beginners
+    video_link: https://www.youtube.com/watch?v=hwxQNmrTcf8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: how to take input from user || python  tutorial for absolute beginners
+    video_link: https://www.youtube.com/watch?v=kWvMLn5WqEs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python type casting / data type conversion || python programming for beginners
+    video_link: https://www.youtube.com/watch?v=JVEVZh4WMCg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Python string formatting || Python for beginners
+    video_link: https://www.youtube.com/watch?v=g_CfeKO81Ec
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Area of different rectangular shape theory ||  Python for beginners
+    video_link: https://www.youtube.com/watch?v=PZBQnJRXVk4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: area of different shapes || python for beginners
+    video_link: https://www.youtube.com/watch?v=UyUg27xBn9k
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python area and circumference of a circle || python for beginners
+    video_link: https://www.youtube.com/watch?v=i7lkyemjsYU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Python Relational / Comparison Operators || Python for beginners
+    video_link: https://www.youtube.com/watch?v=sO1Rx6XFHvo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Python logical operators || vowel/consonant  largest number || python programming bangla
+    video_link: https://www.youtube.com/watch?v=7mQyhQPWsUQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python membership operators || in /not in || python for beginners bangla tutorial
+    video_link: https://www.youtube.com/watch?v=ErT8dUghBlU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python identity operators || পাইথন ভিডিও বাংলা || python programming for beginners
+    video_link: https://www.youtube.com/watch?v=lFttjv8LwhA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Number Conversion using python Programming || পাইথন প্রোগ্রামিং ||  সংখ্যা পদ্ধতির পরিবর্তন
+    video_link: https://www.youtube.com/watch?v=s-vfaHXkovI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Python Bitwise Operators(Part-01)  || পাইথন বিটওয়াইজ অপারেটর || Python Programming for beginners
+    video_link: https://www.youtube.com/watch?v=38zUWYDkreU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Python Bitwise Operators(Part-02) || পাইথন বিটওয়াইজ অপারেটর || complement  left -shift  right-shift
+    video_link: https://www.youtube.com/watch?v=GRJZ6FxX5sE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Python swapping between two variables | পাইথন  প্রোগ্রামিং  || with temporary variables and without
+    video_link: https://www.youtube.com/watch?v=ucMvhaaNgKo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python  if  else  (Even/Odd , large/small number , Pass/Fail) || python for beginners
+    video_link: https://www.youtube.com/watch?v=qlbk7ui8s4A
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python if  elif  else || Student's  grading marks  || Python programming for beginners
+    video_link: https://www.youtube.com/watch?v=mdR7AcbzlAw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python inner if / nested if || python for beginners
+    video_link: https://www.youtube.com/watch?v=6d1pf-co_EI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: largest among three numbers || python programming for beginners
+    video_link: https://www.youtube.com/watch?v=NuM_5WjMtiE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: smallest among three numbers || python programming for beginners
+    video_link: https://www.youtube.com/watch?v=PXK3QqiFxB4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: largest among three numbers by nested / inner if elif else ||  python programming for beginners
+    video_link: https://www.youtube.com/watch?v=voHsq_bpyvI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python inner if / nested if  || the smallest among three numbers || python programming for beginners
+    video_link: https://www.youtube.com/watch?v=wl31fobGwBM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python ternary operators || python programming for beginners || পাইথন প্রোগ্রামিং টিউটোরিয়াল বাংলা
+    video_link: https://www.youtube.com/watch?v=NyfFzzIuKOY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Python while loop || python programming for beginners  ||  পাইথন ভিডিও টিউটোরিয়াল বাংলা
+    video_link: https://www.youtube.com/watch?v=20P7wwg6HSQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python while loop series addition & multiplication ||  বিভিন্ন ধারা ও ধারার যোগফল এবং গুণফল
+    video_link: https://www.youtube.com/watch?v=Jg48kHS6Jgg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python nested while loop || python bangla tutorial
+    video_link: https://www.youtube.com/watch?v=W0LmqsKg_-A
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python for loop part-01 || পাইথন প্রোগ্রামিং  || range function || || even and odd number series
+    video_link: https://www.youtube.com/watch?v=9uFdYp04tdY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python for loops part-02 || পাইথন প্রোগ্রামিং || addition of series|| || even and odd  series add
+    video_link: https://www.youtube.com/watch?v=HPV4grkircc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python for loops part-03 || পাইথন প্রোগ্রামিং || multiplication of series || square   cube of series
+    video_link: https://www.youtube.com/watch?v=KDhNO1KfLac
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python  nested for loop || পাইথন নেস্টেড ফর লুপ || python programming  for beginners
+    video_link: https://www.youtube.com/watch?v=4XHhZHf0Glw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python pattern with nested loop || পাইথন নেস্টেড ফর লুপ || python for beginners
+    video_link: https://www.youtube.com/watch?v=lux8dwGrz88
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python number pattern || পাইথন নাম্বার প্যাটার্ণ  || python programming for beginners || nested loop
+    video_link: https://www.youtube.com/watch?v=6R9oWn4jd8g
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: python random number ||পাইথন রেন্ডম নাম্বার ||python programming for beginners
+    video_link: https://www.youtube.com/watch?v=S9NkO6JeyKk
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

@@ -19,6 +19,47 @@ instructors:
     link: https://www.youtube.com/c/SayefReyadh
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PLKiZXxQe7OiAipuezfE6udFFAhd1gNUhL
+
+  - name: Graph Theory 1 - Introduction & Representation Theory
+    video_link: https://www.youtube.com/watch?v=sqzquGjvFCM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Graph Theory 2 - Graph Representation - Adjacency List
+    video_link: https://www.youtube.com/watch?v=eWinCnILK3I
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Graph Theory 3 - BFS Algorithm Simulation Code
+    video_link: https://www.youtube.com/watch?v=-gjhCFAfSZ8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Graph Theory 4 - DFS Algorithm Simulation
+    video_link: https://www.youtube.com/watch?v=Or4CDF0Q2Gs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Graph Theory 5 - Topological Sort Algorithm Simulation
+    video_link: https://www.youtube.com/watch?v=x8SHS4hWhEQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Graph Theory 6 - Strongly Connected Components Algorithm Simulation
+    video_link: https://www.youtube.com/watch?v=jv6mYmIP25k
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Graph Theory 7 - Disjoint Set Union Rank & Path Compression Algorithm Simulation
+    video_link: https://www.youtube.com/watch?v=5InBCasJFi8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Graph Theory 8 - Minimum Spanning Tree Introduction and Applications
+    video_link: https://www.youtube.com/watch?v=mxxKKfBt8is
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Graph Theory 9 - Kruskal's Algorithm Simulation
+    video_link: https://www.youtube.com/watch?v=w8HuKe3ZtzQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Graph Theory 10 - Prims Algorithm Simulation
+    video_link: https://www.youtube.com/watch?v=CnlDArFnGFE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Graph Theory 11 - Dijkstra Algorithm (Graph & Table) Simulation
+    video_link: https://www.youtube.com/watch?v=uRgCXl5bmhI
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

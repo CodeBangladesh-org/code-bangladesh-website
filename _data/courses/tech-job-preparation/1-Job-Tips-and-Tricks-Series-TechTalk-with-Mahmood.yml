@@ -18,6 +18,31 @@ instructors:
     link: https://www.youtube.com/c/TechtalkwithMahmood
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PLZ1tJSgII-L8vfO4IobKYOXfOxywQt81-
+
+  - name: ইন্টারভিউ কল পাই না, কিভাবে ভাল সিভি বানানো যায়? (ফ্রেশ গ্রাজুয়েটদের জন্য)
+    video_link: https://www.youtube.com/watch?v=EdtdO1RFyRI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: আইটি ক্যারিয়ারের জন্য কোন ল্যাঙ্গুয়েজ শেখা ভাল? জাভা না ডট নেট? পাইথন বা পিএইচপি ই বা কেমন হয়?
+    video_link: https://www.youtube.com/watch?v=B-DzsnKbn8E
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: প্রোগ্রামিং কন্টেস্ট করবো নাকি সফটওয়্যার ডেভেলপমেন্ট শিখবো? জব এর জন্য কোনটা লাগে?
+    video_link: https://www.youtube.com/watch?v=oWOmJ6kGinw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: জব কোডিং অ্যাসাইনমেন্ট কিভাবে করা উচিত? + কোডিং টিপস!
+    video_link: https://www.youtube.com/watch?v=pBmho6YC-xg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: ইউনিভার্সিটির কোন কোন কোর্সগুলো সফটওয়্যার ডেভেলপার হিসেবে বেশি কাজে লাগে?
+    video_link: https://www.youtube.com/watch?v=Jyo1M1-cv30
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: জাভা ডেভেলপার হতে হলে কি কি জানতে হয় / ডেভেলপার রোডম্যাপ ?
+    video_link: https://www.youtube.com/watch?v=DnGP4DoniXU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সব সফটওয়্যার ডেভেলপার এর দরকার একটি পোর্টফলিও
+    video_link: https://www.youtube.com/watch?v=Nzecqwpzq-Y
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

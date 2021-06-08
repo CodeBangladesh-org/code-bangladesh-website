@@ -18,6 +18,71 @@ instructors:
     link: https://www.youtube.com/c/AceHasan
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PL0MUmUF2AVhBbRvechHoYTZvLjNCg_CKc
+
+  - name: ইন্ট্রোডাকশন | Introduction
+    video_link: https://www.youtube.com/watch?v=GdVqEsdtRJc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: ইনপুট গ্রহন | Taking input from user.
+    video_link: https://www.youtube.com/watch?v=k66M1U7HA_s
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: বিল্ট ইন টাইপস্ | Built In Types
+    video_link: https://www.youtube.com/watch?v=-vmnAt4zArQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: ‍স্ট্রিং ডাটা টাইপ | String Data Type
+    video_link: https://www.youtube.com/watch?v=jpKeXPArON0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: কমন অপারেটরস্ | Common Operators
+    video_link: https://www.youtube.com/watch?v=tnmGTHt26iQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: নালেবল টাইপস্ | Nullable Types
+    video_link: https://www.youtube.com/watch?v=6YPHddaTMiU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: ডাটা টাইপ কনভার্শন | Datatype Conversion
+    video_link: https://www.youtube.com/watch?v=nA8KGn873cs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: অ্যারে | Array in C#
+    video_link: https://www.youtube.com/watch?v=Vrd-2py4MPk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: কমেন্টস্ | Comments
+    video_link: https://www.youtube.com/watch?v=sWhHcCyOwuY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: If স্টেটমেন্ট | If Statement
+    video_link: https://www.youtube.com/watch?v=a9q8Z17hTnk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সুইচ স্টেটমেন্ট | Switch Statement
+    video_link: https://www.youtube.com/watch?v=M9YntVW_ggs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: সুইচ স্টেটমেন্ট পার্ট ২ | Switch
+    video_link: https://www.youtube.com/watch?v=L5S0nGyBK6I
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: WHILE লুপ | While Loop
+    video_link: https://www.youtube.com/watch?v=5kQ7SRUP8Yc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: DO WHILE লুপ | Do while Loop
+    video_link: https://www.youtube.com/watch?v=qMINtDDCllg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: For and Foreach লুপ
+    video_link: https://www.youtube.com/watch?v=_aBOllVwgRw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: মেথড
+    video_link: https://www.youtube.com/watch?v=Q-I3YK6-jQI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: জ্যাগড অ্যারে Jagged Array
+    video_link: https://www.youtube.com/watch?v=uRTTtAUbOVY
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

@@ -18,6 +18,255 @@ instructors:
     link: https://www.youtube.com/c/StackLearner
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy
+
+  - name: 001. C Course Introduction
+    video_link: https://www.youtube.com/watch?v=982nK2Vdk_o
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 002.Setup Working Environment
+    video_link: https://www.youtube.com/watch?v=E9WDkJ7i7mI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 003. Hands on Code in C
+    video_link: https://www.youtube.com/watch?v=37ihwOpP4PE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 004. Basic Calculation in C
+    video_link: https://www.youtube.com/watch?v=NWhvLbIHIqI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 005. Variables in C Programming
+    video_link: https://www.youtube.com/watch?v=76UTxRliHQE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 006. Variables Definitions Vs Declaration
+    video_link: https://www.youtube.com/watch?v=4jOE5TL1h3U
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 007. Basic Data Types in C
+    video_link: https://www.youtube.com/watch?v=gfgwJ8xo1K4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 008. Reserved Keywords in C
+    video_link: https://www.youtube.com/watch?v=MAH1pzkpoas
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 009. User Input in C
+    video_link: https://www.youtube.com/watch?v=58GlFVqPpkM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 010. Simple Calculator Project in C
+    video_link: https://www.youtube.com/watch?v=xY8ReEvXS38
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 011. Data Types and it's Importance in C
+    video_link: https://www.youtube.com/watch?v=rEarpiMDqnE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 012. Data Type in C
+    video_link: https://www.youtube.com/watch?v=t_mVEzHxaqo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 013. Different Data Types with Sizes in C
+    video_link: https://www.youtube.com/watch?v=epA1odKWpNI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 014. Integer Types Data in C
+    video_link: https://www.youtube.com/watch?v=G3dGqYkf9rQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 015. Float Types Data in C
+    video_link: https://www.youtube.com/watch?v=X-eQEictwbo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 016. Character Types Data in C
+    video_link: https://www.youtube.com/watch?v=80bBBMeK3bk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 017. String Works in C
+    video_link: https://www.youtube.com/watch?v=6UpVCpmcbns
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 018. Boolean Works in C
+    video_link: https://www.youtube.com/watch?v=mVHlLp9Lbxs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 019. Type Conversion in C
+    video_link: https://www.youtube.com/watch?v=5cF_wgY4bk8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 020. Operators in C
+    video_link: https://www.youtube.com/watch?v=mOhHQEOCXwo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 021. C Operators
+    video_link: https://www.youtube.com/watch?v=orhuwwJryEU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 022. Arithmetic Operators in C
+    video_link: https://www.youtube.com/watch?v=yWZvUW-gUYI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 023. Relational Operators in C
+    video_link: https://www.youtube.com/watch?v=9D73PsHmBGI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 024. Logical Operators in C
+    video_link: https://www.youtube.com/watch?v=cgwzfuUH5q0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 025. Assignment Operators in C
+    video_link: https://www.youtube.com/watch?v=tzLD2DxwrU4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 026. Bitwise Operators in C
+    video_link: https://www.youtube.com/watch?v=K55NS1BlD7E
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 027. Unary Operators in C
+    video_link: https://www.youtube.com/watch?v=NP5YMKaRV_A
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 028. Conditional Operators in C
+    video_link: https://www.youtube.com/watch?v=oXc4KYczRSs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 029. Sizeof Operators in C Programming
+    video_link: https://www.youtube.com/watch?v=uzRBAQxAc1s
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 030. What is Condition in C
+    video_link: https://www.youtube.com/watch?v=CwatI9feifY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 031. If Condition in C
+    video_link: https://www.youtube.com/watch?v=ntIuuL_529Q
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 032. If Else Condition
+    video_link: https://www.youtube.com/watch?v=NDcsxa6PLWc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 033. Else If Condition
+    video_link: https://www.youtube.com/watch?v=b0WS-30arMc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 034. Switch Statement in C
+    video_link: https://www.youtube.com/watch?v=PON0UrYtxoM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 035. Nested Condition
+    video_link: https://www.youtube.com/watch?v=Q-8Dt31AWXw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 036. Even and Odd
+    video_link: https://www.youtube.com/watch?v=lcuW4XXMPcU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 037. Uppercase to Lowercase
+    video_link: https://www.youtube.com/watch?v=sozqYxS9rPQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 038. Find Leap Year in C
+    video_link: https://www.youtube.com/watch?v=KIsy7KrGLSw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 039. Pick A Lucky Number
+    video_link: https://www.youtube.com/watch?v=ul4iH44-M9k
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 040. Loops in C
+    video_link: https://www.youtube.com/watch?v=ce7kbKVKS98
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 041. For Loop in C
+    video_link: https://www.youtube.com/watch?v=EW7kdyhbHMI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 042. Draw A Box Using For Loop
+    video_link: https://www.youtube.com/watch?v=0lNGN9BKoF8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 043. VSCode and Compiler Setup on Windows 10
+    video_link: https://www.youtube.com/watch?v=4iAIQj2kA_4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 044. While Loop
+    video_link: https://www.youtube.com/watch?v=fT9_SSL2n-w
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 045. Use of While Loop
+    video_link: https://www.youtube.com/watch?v=XXOlt9CCC-E
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 046. Guessing Game using While Loop
+    video_link: https://www.youtube.com/watch?v=ckiC1UQdz-c
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 047. Guessing Game Limited Chance using While Loop
+    video_link: https://www.youtube.com/watch?v=vX4Ptpyr6uI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 048. Do While Loop
+    video_link: https://www.youtube.com/watch?v=IEBS8gRbqVs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 049. Use of While Loop
+    video_link: https://www.youtube.com/watch?v=qfVzmC6bXQY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 050. Uppercase to Lowercase using Loop
+    video_link: https://www.youtube.com/watch?v=BRmtM4SEHH4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 051. Draw Star Pyramid with Loop
+    video_link: https://www.youtube.com/watch?v=OBIL9kImJ-I
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 052. Draw Star Diamond using Loop
+    video_link: https://www.youtube.com/watch?v=rnMjFk8hoJY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 053. Continue and Break Statement in C
+    video_link: https://www.youtube.com/watch?v=HhMXjCeZwgI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 054. Array in C
+    video_link: https://www.youtube.com/watch?v=_xCALeiorAg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 055. Declare an Array
+    video_link: https://www.youtube.com/watch?v=bJzK5l_sHr0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 056. Traverse Array Elements
+    video_link: https://www.youtube.com/watch?v=K-AlgW5WAEA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 057. Array Sum Average and Max Number
+    video_link: https://www.youtube.com/watch?v=CucfZJDFfYo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 058. How does Array Store Elements in Memory
+    video_link: https://www.youtube.com/watch?v=Ks7PefK8p6A
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 059. Sizeof Operator used in Array
+    video_link: https://www.youtube.com/watch?v=c-Ok-wSC3Js
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 060. Input Array Elements
+    video_link: https://www.youtube.com/watch?v=YKxv22Fl5dc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 061. Variable Length Array
+    video_link: https://www.youtube.com/watch?v=45pngCeemN0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 062. Search Array Elements
+    video_link: https://www.youtube.com/watch?v=mFjvGVNMi2M
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 063. Simple Sort Algorithm
+    video_link: https://www.youtube.com/watch?v=QtSn-Q4FrHc
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

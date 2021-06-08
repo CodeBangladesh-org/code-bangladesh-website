@@ -20,6 +20,23 @@ instructors:
     link: https://www.youtube.com/channel/UCC-aIlmCJvIERahr2spCEDg
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PL4iFnndHldui_Vl1K_ZmyTwZEzFNdGLRY
+
+  - name: Introduction to HTML5 | 5 Days of HTML5 | Day 01
+    video_link: https://www.youtube.com/watch?v=KkqS2bCbxZw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Meta Tags and Visible Part | 5 Days of HTML5 | Day 02
+    video_link: https://www.youtube.com/watch?v=bDH9tojmrtY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: List, Image, Links & Formatting | 5 Days of HTML5 | Day 03
+    video_link: https://www.youtube.com/watch?v=RrDNKNJos_c
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: HTML Table and Form | 5 Days of HTML5 | Day 04
+    video_link: https://www.youtube.com/watch?v=YVIownOq0s8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Layout and Semantic Tags | 5 Days of HTML5 | Day 05
+    video_link: https://www.youtube.com/watch?v=QjzV-ebktok
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

@@ -18,7 +18,87 @@ instructors:
     link: https://www.youtube.com/c/BanglaCodingTutor
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PLdl6zXgLsy3xCae1uL6rJ8Ay9sIiyBy5I
+
+  - name: Java Basic Syntax
+    video_link: https://www.youtube.com/watch?v=gFglD5KzEaM
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
+  - name: IDE, Project, Package, Class, JDK, JRE
+    video_link: https://www.youtube.com/watch?v=JH-Yyb50ZvM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Print
+    video_link: https://www.youtube.com/watch?v=YWzORWMnriI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Data Type and Variables
+    video_link: https://www.youtube.com/watch?v=rnRIOUsNiLY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: int, long, float, double, boolean, char
+    video_link: https://www.youtube.com/watch?v=kXS8Htl95wc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Condition If Else
+    video_link: https://www.youtube.com/watch?v=OV3a22GIe6U
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Condition- If.. Else if statement
+    video_link: https://www.youtube.com/watch?v=NvPWLjCafas
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Condition Switch Case
+    video_link: https://www.youtube.com/watch?v=NKByHEyUmmU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Operator, Precedence, Associativity
+    video_link: https://www.youtube.com/watch?v=uqWXhr1uZMA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: for Loop
+    video_link: https://www.youtube.com/watch?v=DvOK1oozHMI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: while Loop
+    video_link: https://www.youtube.com/watch?v=pxXQ7T9HZRo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: do while Loop
+    video_link: https://www.youtube.com/watch?v=eAXMTfOcQzE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Nested Loop
+    video_link: https://www.youtube.com/watch?v=tuAFKgVmxJ8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Array
+    video_link: https://www.youtube.com/watch?v=zdbJjeaQWkM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 2D Array
+    video_link: https://www.youtube.com/watch?v=x-gE6ExNb4Y
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: String
+    video_link: https://www.youtube.com/watch?v=ypn3AZ4hYbE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: String Split
+    video_link: https://www.youtube.com/watch?v=TKEQ9rACvX4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Scanner & User Input
+    video_link: https://www.youtube.com/watch?v=yn7zk8xyRj8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Method or Function
+    video_link: https://www.youtube.com/watch?v=A1YgxFSSXWU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Method/ Function Exercise
+    video_link: https://www.youtube.com/watch?v=omZmdpbE280
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: What we learned in this
+    video_link: https://www.youtube.com/watch?v=GUwCE3Wr6SI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

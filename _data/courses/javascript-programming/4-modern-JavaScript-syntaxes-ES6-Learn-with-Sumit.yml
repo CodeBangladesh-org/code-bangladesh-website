@@ -18,6 +18,103 @@ instructors:
     link: https://www.youtube.com/c/LearnwithSumit
 
 content:
-  - name: Modern JavaScript Syntaxes - ES6 (ইউটিউব প্লেলিস্ট)
-    video_link: https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG
+
+  - name: 1 - Introduction - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=PWXkYBmlbB4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 2 - JavaScript Fat Arrow Functions Bangla Tutorial - Modern JavaScript Syntaxes in Bangla - ES6
+    video_link: https://www.youtube.com/watch?v=UwrmEUCaAIY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 3 - Truthy / Falsy values - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=VPs3yHtN7Ss
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 4 - Ternary Operator - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=akkfVWWZEio
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 5 - Array find() method - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=UeMhY-8k1E4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 6 - Array findIndex() method - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=x1xire6i9EY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 7 - Array filter() method - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=bLYEPdTSRDs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 8 - Array slice() method - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=h6rTtCydrw0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 9 - Array splice() method - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=jleFHKtgllE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 10 - Array concat() method - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=aUqpld_h1j8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 11 - Array push() method - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=DymrMEkja24
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 12 - Array map() method - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=ZfrqGZTJuVQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 13 - Array reduce() method - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=zThtzWgMtjM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 14 - for loop, for in & for of - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=ABJ9-ldZQkM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 15 - Important object tricks - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=eey1BnpTbKw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 16 - Function default parameter - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=8Ysp6tP93zo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 17 - Spread Operator - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=w8gXwrD-Kg4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 18 - Rest Operator - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=Owc1mLiZjDI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 19 - Destructuring - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=UXxg2ncX4gU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 20 - Module Imports / Exports - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=pcN3PFnw2Q0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 21 - Template Literals - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=sPa_P1aaho8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 22 - Tagged Template Literals - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=ws_XgqikD6o
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 23 - Set & WeakSet - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=ACmxamCZrWg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 24 - copyWithin() Array method - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla
+    video_link: https://www.youtube.com/watch?v=lIbjL50kl90
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 25 - ES2020 / ES11 এর অসাধারণ কিছু features যেগুলো আমাদের জানা উচিৎ - JavaScript Tutorial in Bangla
+    video_link: https://www.youtube.com/watch?v=EBURWwIkCwU
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

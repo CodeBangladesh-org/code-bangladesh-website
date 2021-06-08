@@ -19,6 +19,531 @@ instructors:
     link: https://www.youtube.com/channel/UCH6wiF1uC7PhuV_UIR_28AA
 
 content:
-  - name: টিউটোরিয়াল ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PLKdU0fuY4OFcot0zyVbM1-zKf_eCUK4zQ
+
+  - name: Learn Python & Data Science Full Course (Bengali) || (Python, ML, DL, NLP, Django, R Full Guideline)
+    video_link: https://www.youtube.com/watch?v=A3FKSsYy0Zg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Data Science & Machine Learning for All with Python | ডাটা সায়েন্স এবং মেশিন লার্নিং | Paid Course
+    video_link: https://www.youtube.com/watch?v=jKXpLYXKpHM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 2. How to Install Python (latest version) and IDE (Jupyter Notebook, Spyder, Pycharm) | Python Setup
+    video_link: https://www.youtube.com/watch?v=Y2_9v_b0Zmc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 3. Introduction to Python Variables || Python Bangla Tutorial for Beginners || Variable Explained
+    video_link: https://www.youtube.com/watch?v=VR72eGYw5hw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 3.1 Memory Management for Python Variables || Python Bangla Tutorial for Beginners || Study Mart
+    video_link: https://www.youtube.com/watch?v=07jP3gwqIRk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 4. Escape Sequence  & Comments in Python | Python Bangla Tutorial for Beginners
+    video_link: https://www.youtube.com/watch?v=9xBJLV0J3_k
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 5. Data Types in Python | Python Bangla Tutorial for Beginners | Data Science Course
+    video_link: https://www.youtube.com/watch?v=J4H5TM0aC0c
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 6. User input in Python | Python Bangla Tutorial for Beginners | Data Science Course
+    video_link: https://www.youtube.com/watch?v=1FxmbMDOkCc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 7. Operators in Python | Python Bangla Tutorial for Beginners | Data Science Course
+    video_link: https://www.youtube.com/watch?v=YIfgsgs-Ics
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 8. Strings in Python | Python Bangla Tutorial for Beginners | Data Science Course
+    video_link: https://www.youtube.com/watch?v=XN_voIlgG4c
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 9. Arrays in Python | Python Bangla Tutorial for Beginners | Data Science Course
+    video_link: https://www.youtube.com/watch?v=KOAM8-oTlDY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 10. Python Bangla Tutorial for Beginners || Lists in Python || Python Collections || Study Mart
+    video_link: https://www.youtube.com/watch?v=XwEZtkfgF2k
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 11. Python Bangla Tutorial for Beginners || Tuple in Python || Python Collections || Study Mart
+    video_link: https://www.youtube.com/watch?v=oF13XEE6ZVA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 12. Python Bangla Tutorial for Beginners || Sets in Python || Python Collections
+    video_link: https://www.youtube.com/watch?v=kaIkMSVArE8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 13. Python Bangla Tutorial for Beginners || Sets in Python || Intersection Operation in Python
+    video_link: https://www.youtube.com/watch?v=Oz-Hb3D0VvA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 14. Python Bangla Tutorial for Beginners || Sets in Python || Union Operation in Python
+    video_link: https://www.youtube.com/watch?v=FhFnB-28Kes
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 15. Python Bangla Tutorial  for Beginners || Python Dictionaries || Dictionary in Python
+    video_link: https://www.youtube.com/watch?v=3qEW2p-PuRk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 16. Python Bangla Tutorial for Beginners || Python Dictionaries || Dictionary in Python | Study Mart
+    video_link: https://www.youtube.com/watch?v=xsXi286sle4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 17. Python Bangla Tutorial for Beginners || Python Nested Dictionary || Study Mart
+    video_link: https://www.youtube.com/watch?v=UEdrfPMFYdw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 18. Python Bangla Tutorial for Beginners || if & else Statement in Python || Study Mart
+    video_link: https://www.youtube.com/watch?v=Fp9xsceVzPg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 19. Python Bangla Tutorial for Beginners || If, elif and else Statements in Python || Study Mart
+    video_link: https://www.youtube.com/watch?v=4j7CO8a27Bw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 20. Python Bangla Tutorial for Beginners || Find Odd & Even Number in Python || Python by Study Mart
+    video_link: https://www.youtube.com/watch?v=c9kOJAKBP7M
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 21. Python Bangla Tutorial for Beginners || Find Negative & Positive Number in Python || Python
+    video_link: https://www.youtube.com/watch?v=eXInWRXd-Ho
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Private video
+    video_link: https://www.youtube.com/watch?v=mZfwdGJqAsg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 23. Python Bangla Tutorial for Beginners || Nested if statement in Python || Study Mart
+    video_link: https://www.youtube.com/watch?v=ggQiI-rWjG4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 24. Find Max Number out of three Numbers using Python || Python Bangla Tutorial for Beginners
+    video_link: https://www.youtube.com/watch?v=qP7-_O1YiOI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 25. Python Bangla Tutorial || Ternary Operator in Python || Python by Study Mart
+    video_link: https://www.youtube.com/watch?v=YtqJMCM9JCU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 26. Swap two Numbers in Python || Python Bangla Tutorial for Beginners || Python by Study Mart
+    video_link: https://www.youtube.com/watch?v=Hz7ac60ChdA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 27. Exceptions Handling in Python | Python Bangla Tutorial | Exceptions in Python | Study Mart
+    video_link: https://www.youtube.com/watch?v=SQq35mdrq4w
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 27.1 Python Bangla Tutorial | Assertions in Python | Python Assert Statement | Python Assert Keyword
+    video_link: https://www.youtube.com/watch?v=RIOBxmHQPRY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 28. Python Bangla Tutorial for Beginners || How to Use Mathematical Functions in Python
+    video_link: https://www.youtube.com/watch?v=UXvNrsFRSsQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 29. Introduction to For Loop & Range Function in Python || Python Bangla Tutorial for Beginners
+    video_link: https://www.youtube.com/watch?v=dolWE3kjmOs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 30. Find Prime Numbers in Python | Python Bangla Tutorial | Study Mart
+    video_link: https://www.youtube.com/watch?v=QBoRdGkLvss
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 32. Python Bangla Tutorial for Beginners | Break Statement in Python
+    video_link: https://www.youtube.com/watch?v=NFvw7OBsp5w
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 35. Python Bangla Tutorials for Beginners | Fibonacci Sequence in Python
+    video_link: https://www.youtube.com/watch?v=U5F9w94ulTk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 36. Factorial Number using Python || Bangla Python Tutorial for Beginners
+    video_link: https://www.youtube.com/watch?v=XpoLHoxZ8nQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 34.1 Python Bangla Tutorial for Beginners | *args in Python | Python Non-Keyword Arguments (*args)
+    video_link: https://www.youtube.com/watch?v=WD-sCKpqyOQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 34.2 Python Bangla Tutorial for Beginner | **kwargs in Python | Keyword Argument | *Args vs **KwArgs
+    video_link: https://www.youtube.com/watch?v=hDfT-Fdqqjk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: What is Numpy? Python List vs  Numpy Array || Installing Numpy in PyCharm || Study Mart
+    video_link: https://www.youtube.com/watch?v=my9pjtA5VuY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 38. Python Bangla Tutorial for Beginners || Multidimensional Arrays in Python || 2D & 3D Arrays
+    video_link: https://www.youtube.com/watch?v=0ir4kudRyjQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 39. Matrix in Python || Matrix Multiplication in Python || Python Bangla Tutorial for Beginners
+    video_link: https://www.youtube.com/watch?v=87VPVriD7uA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 40. Python Bangla Tutorial for Beginners || Zip Function in Python || Unzip || Zipping Two Lists
+    video_link: https://www.youtube.com/watch?v=_0CcR1FpIes
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 41. Lambda Function in Python || Python Lambda (Anonymous Functions) || Python Bangla Tutorial
+    video_link: https://www.youtube.com/watch?v=zrqQbsuhjVI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 42. Map Function in Python  || Map() in Python || Python Bangla Tutorial for Beginners
+    video_link: https://www.youtube.com/watch?v=ZMZh2N1cK3g
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 43. Filter Function in Python || Python filter ( ) || Python Bangla Tutorial for Beginners
+    video_link: https://www.youtube.com/watch?v=pPS534Rs6rU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 44. Reduce Function in Python || Python reduce ( ) || Python Bangla Tutorial for Beginners
+    video_link: https://www.youtube.com/watch?v=XPO4bMvz4yQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 45. Local Variable vs Global Variable in Python || Python Bangla Tutorial for Beginner || Study Mart
+    video_link: https://www.youtube.com/watch?v=4z1uPM0yFXE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 46. Default Arguments in Python || Python Default Arguments || Python Bangla Tutorial for Beginners
+    video_link: https://www.youtube.com/watch?v=rxYSq_sPbhM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 47. Python Bangla Tutorial for Beginners | Recursion in Python | Recursion Explained | Study Mart
+    video_link: https://www.youtube.com/watch?v=BDQXkMXw8SY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 48. Python Bangla Tutorial for Beginners | Factorial Using Recursion | Recursion Explained
+    video_link: https://www.youtube.com/watch?v=My9SDrbN-38
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 51. Python Object-Oriented Programming | Programming Paradigms | Python Bangla Tutorial for Beginner
+    video_link: https://www.youtube.com/watch?v=CXVK1FZJyfs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 1. Python Small Project | Text to Audio Converter | Text to Speech | Python Mini Project with Codes
+    video_link: https://www.youtube.com/watch?v=NryHoTAaqkY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 2. Python small project | Stopwatch with source code | Python mini project | Stopwatch using Python
+    video_link: https://www.youtube.com/watch?v=ngH1eGyenSE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 3. Python small project | Text Editor using Python |  Text Editor using Python with source code
+    video_link: https://www.youtube.com/watch?v=Foh3cEwUnvM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 4. Python Small Project | Tic Tac Toe Using Python | Python Tic Tac Toe Game With Source Codes
+    video_link: https://www.youtube.com/watch?v=0K59V7s4PNg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning || Install Anaconda (Python/R) | Installing Anaconda on Windows || Jupyter Notebook
+    video_link: https://www.youtube.com/watch?v=fMje4y2Ex4g
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 2. Data Science (Bangla) || Mean & Median using Python || Statistics and Probability using Python
+    video_link: https://www.youtube.com/watch?v=SESHiM90dgs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 3. Data Science (Bangla) || Mode using Python || Statistics and Probability using Python
+    video_link: https://www.youtube.com/watch?v=Hz5cL4L-YFU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 4. Data Science (Bangla) || Range (Statistics) || Measures of Spread using Python
+    video_link: https://www.youtube.com/watch?v=fLpYx_ILEeg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 5. Data Science (Bangla) || Quartile & the Interquartile Range || Measures of Spread using Python
+    video_link: https://www.youtube.com/watch?v=U9N-ELpCpc8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 6. Data Science (Bangla) || Variance in Statistics  || Measures of Spread using Python ||  Variance
+    video_link: https://www.youtube.com/watch?v=zHJLXpdUsKU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 7. Data Science (Bangla) || Standard Deviation in Statistics || Measures of Spread using Python
+    video_link: https://www.youtube.com/watch?v=FDSq9aRI6MM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning vs Deep Learning vs Neural Network vs AI vs Data Science
+    video_link: https://www.youtube.com/watch?v=XQqUs8mgvDM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Why Data Science So Popular? How To Learn Data Science Smartly? (Bengali)
+    video_link: https://www.youtube.com/watch?v=iQEV5VM-vYI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 1. Machine Learning Tutorial Full Course (Bangla) | Introduction to Machine Learning (মেশিন লার্নিং)
+    video_link: https://www.youtube.com/watch?v=xYMHT4uMOiE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Install Anaconda (R & Python) | Downloading and Installing Anaconda for Python & R | Data Science
+    video_link: https://www.youtube.com/watch?v=bps37iuSiDM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 3. Machine Learning Tutorial (Bangla) | Linear Regression in Machine Learning | ML Bangla Tutorial
+    video_link: https://www.youtube.com/watch?v=cG_8S9D2V2o
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Linear Regression in ML - Everything You Need to Know! ML Class - 04 (Paid)
+    video_link: https://www.youtube.com/watch?v=1dPHhXDnsrc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 4. Machine Learning Tutorial (Bengali) | Simple Linear Regression Explained with Python Sklearn
+    video_link: https://www.youtube.com/watch?v=RdPUSYy78Sc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning Tutorial (Bangla) | Assignment on Linear Regression | Kaggle Dataset
+    video_link: https://www.youtube.com/watch?v=yTAWoOkuBrM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 7. Machine Learning Tutorial (Bangla) || Python Linear Regression with Multiple Variables
+    video_link: https://www.youtube.com/watch?v=tLkAQWYauNs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 8. Machine Learning Tutorial (Bangla) || How to Calculate R-Squared Value in Regression Analysis
+    video_link: https://www.youtube.com/watch?v=NnXNTpopFMg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 9. Machine Learning Bangla || Supervised Learning vs Unsupervised Learning Explained
+    video_link: https://www.youtube.com/watch?v=FMEANo2txMM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning Tutorial (Bangla) | Merge Dataframes in Python using Pandas | Pandas Tutorial
+    video_link: https://www.youtube.com/watch?v=nSiPL8uJu4c
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Label Encoder vs OneHot Encoder in Machine Learning | Dummy Variables in Machine Learning Bangla
+    video_link: https://www.youtube.com/watch?v=pF2yyNAIumM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning Tutorial (Bengali) | One-Hot Encoding in Python with Pandas
+    video_link: https://www.youtube.com/watch?v=19GsHwaH9WY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning Tutorial (Bangla) | What is CountVectorizer in Python & How CountVectorizer Work
+    video_link: https://www.youtube.com/watch?v=rVGINMWo7ds
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning Tutorial (Bengali) | TF-IDF Vectorizer | Feature Extraction Techniques | NLP
+    video_link: https://www.youtube.com/watch?v=F2wLoV9eaUc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Kaggle - Machine Learning and Data Science Community | How to Learn Data Science Smartly
+    video_link: https://www.youtube.com/watch?v=ZgFB2UiQIm0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Introduction to Google Colaboratory (গুগল কোলাব ) | Google Colab for Machine Learning & Data Science
+    video_link: https://www.youtube.com/watch?v=0j-TEeuocy4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning Tutorial (Bengali) | Importing Data set in Google Colaboratory
+    video_link: https://www.youtube.com/watch?v=p5gnRGaw2aA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning Project on Profit Prediction using Multiple Linear Regression (Bengali)
+    video_link: https://www.youtube.com/watch?v=ExEM19F72cc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 10. id3 Algorithm in Machine Learning Bangla || Decision Tree Classification in Machine Learning
+    video_link: https://www.youtube.com/watch?v=r7P3zmIcyw0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: id3 Algorithm in Machine Learning || ID3 Algorithm in Decision Tree Classification || ML Tutorial
+    video_link: https://www.youtube.com/watch?v=ivA04FnJrwY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 11. Machine Learning Tutorial (Bangla) | Decision Tree Classification || ML Bangla Tutorial
+    video_link: https://www.youtube.com/watch?v=2cyHLn_WLqM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 12. Machine Learning Tutorial (Bangla) || Decision Tree Classification in Machine Learning
+    video_link: https://www.youtube.com/watch?v=xV1SCO3fCrw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 13. Machine Learning Tutorial (Bangla) || Confusion Matrix (কনফিউশন ম্যাট্রিক্স) in Machine Learning
+    video_link: https://www.youtube.com/watch?v=7B5wz-s4pBE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning (Bangla) | Build Confusion Matrix | Accuracy, Precision, Recall & F1 Score
+    video_link: https://www.youtube.com/watch?v=Ihq-w9MW6Nc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning Bangla | Data Preprocessing | Ordinal Encoder with Python | Data Science
+    video_link: https://www.youtube.com/watch?v=y7A87-VSy40
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning Tutorial (Bangla) | Logistic Regression Classification Explained with Example
+    video_link: https://www.youtube.com/watch?v=GTKBkaEsLCg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning Tutorial (Bangla) | Logistic Regression in Machine Learning (Part-2)
+    video_link: https://www.youtube.com/watch?v=wQtvS9UlkgM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 18. Machine Learning Tutorial (Bangla) | SVM in Machine Learning | Support Vector Machine in ML
+    video_link: https://www.youtube.com/watch?v=11hs9ilCO24
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 19. Machine Learning Tutorial (Bengali) | Why Ensemble Learning to Improve Machine Learning Results?
+    video_link: https://www.youtube.com/watch?v=YfTaCmJLLdk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning Tutorial (Bengali) | How Actually Random Forest Classifier & Regressor Work?
+    video_link: https://www.youtube.com/watch?v=ZeZhhZWVe88
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning Tutorial (Bengali) | Random Forest vs Decision Tree | Ensemble Techniques in ML
+    video_link: https://www.youtube.com/watch?v=msQSmT3Sf1I
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 20. Machine Learning Project | Predicting Heart Disease using Random Forest | Cardiovascular Disease
+    video_link: https://www.youtube.com/watch?v=lrXhh7Ffmbo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning Tutorial (Bangla) | Feature Selection Techniques in Machine Learning with Python
+    video_link: https://www.youtube.com/watch?v=Y1O_3TuVs_8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning Tutorial (Bengali) | Feature Importance | Feature Selection Techniques in ML
+    video_link: https://www.youtube.com/watch?v=VXv0-Hv9cT4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 21. Machine Learning Tutorial (Bangla) - KNN | K-Nearest Neighbors Algorithm in ML | KNN Explained
+    video_link: https://www.youtube.com/watch?v=L5RUA2_eCIg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 22. Machine Learning Tutorial (Bangla) | K-Nearest Neighbors (K-NN) Explained using Python Sklearn
+    video_link: https://www.youtube.com/watch?v=NXt1fazDGU0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 23. Machine Learning Bangla | Naive Bayes Classifier in Machine Learning | Naïve Bayes in ML Bengali
+    video_link: https://www.youtube.com/watch?v=nQ2YHQagK3g
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 24. Machine Learning Bangla || Naive Bayes Algorithm explained with codes (Python sklearn library)
+    video_link: https://www.youtube.com/watch?v=kTf6a4DiAEY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: aiQuest ML Project - Spam eMail Detection with Naive Bayes Classifiers (Bengali)
+    video_link: https://www.youtube.com/watch?v=FP7bWZlH1EQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 27. Machine Learning Tutorial (Bangla) | K-Means Clustering in Machine Learning | KMeans Cluster
+    video_link: https://www.youtube.com/watch?v=iIaClHApAjQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 28. Machine Learning Tutorial (Bangla) | K-Means Clustering for Single Variable | Cluster Analysis
+    video_link: https://www.youtube.com/watch?v=I_ZLD4rcdFc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 29. Machine Learning Tutorial (Bangla) | Clustering in Machine Learning | K-Means Clustering in ML
+    video_link: https://www.youtube.com/watch?v=AaUMof6f5o8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 30. Machine Learning Tutorial (Bangla) | Elbow Method in K-Means Clustering | K-Means Cluster
+    video_link: https://www.youtube.com/watch?v=neoJFF_ZmYE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 31. Machine Learning (Bangla) | Apriori Algorithm in Data Mining | Apriori Algorithm Example Solved
+    video_link: https://www.youtube.com/watch?v=ZvGz9FLy1-4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning (Bengali) | Feature Scaling Techniques in Machine & Deep Learning (PART-1)
+    video_link: https://www.youtube.com/watch?v=LHzVKKpvQjs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning Tutorial (Bengali) | Feature Scaling Techniques in Machine Learning (PART-2)
+    video_link: https://www.youtube.com/watch?v=P_kQxGKt03c
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning Tutorial (Bengali) |  Scaling | Standard Scaler vs MinMaxScaler (PART-3)
+    video_link: https://www.youtube.com/watch?v=amB5e5bcqs4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 35. Machine Learning Tutorial (Bengali) | Customer Churn Prediction Using Python Machine Learning
+    video_link: https://www.youtube.com/watch?v=vitGe2FqOsY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 37. Machine Learning Tutorial with Python (Bangla) | Cross-Validation in Machine Learning
+    video_link: https://www.youtube.com/watch?v=H4Nhlub9u74
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 38. Machine Learning Tutorial (Bangla) | Leave One Out Cross Validation in Machine Learning
+    video_link: https://www.youtube.com/watch?v=PYtWMSCXwGc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 39. Machine Learning Tutorial (Bangla) | k-Fold Cross-Validation in Machine Learning
+    video_link: https://www.youtube.com/watch?v=CLYGVnL0BpA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning Tutorial (Bangla) | k-Fold Cross Validation in Python Machine Learning (Part 2)
+    video_link: https://www.youtube.com/watch?v=-0o8RMPjsRw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Machine Learning-Based Complete & Simple Demo Thesis | Machine Learning & Data Science | Study Mart
+    video_link: https://www.youtube.com/watch?v=zNuTEGnX6lk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: RIP Pandas - Time to Introduce the Vaex | Data Science with PYTHON | Vaex Lazy Out-of-Core Dataframe
+    video_link: https://www.youtube.com/watch?v=pf91VRHjLJo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 1. Deep Learning Tutorial (Bengali) | What is Neuron and How Perceptron Work? DL & ANN Bangla Series
+    video_link: https://www.youtube.com/watch?v=E8HDUjkGplY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 2. Deep Learning Tutorial (Bengali) | How does Neural Network Work? Feed Forward & Back Propagation
+    video_link: https://www.youtube.com/watch?v=pt3-nSiZ-Jg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 3. Deep Learning Tutorial (Bangla) | How Does Back-Propagation Work in Artificial Neural Networks?
+    video_link: https://www.youtube.com/watch?v=MRZVIuos3Pk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 4. Deep Learning Tutorial Bengali | ক্যালকুলাস | Chain Rule for Finding Derivatives | Data Science
+    video_link: https://www.youtube.com/watch?v=sojzwym-L4k
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 5. Deep Learning Tutorial (Bangla) | Backpropagation - The Chain Rule and the Gradient | Data Science
+    video_link: https://www.youtube.com/watch?v=GrHNtvjqoy0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 7. Deep Learning Tutorial (Bengali) | Keras vs TensorFlow | Installing Libraries on Google Colab
+    video_link: https://www.youtube.com/watch?v=LkF3uehrKJc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 8. Deep Learning Tutorial (Bangla) | Handwritten Digit Classification with Artificial Neural Network
+    video_link: https://www.youtube.com/watch?v=3c1SCd7fdE4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Deep Learning Tutorial (Bangla) | Handwritten Digit Classification with ANN (Part-2)
+    video_link: https://www.youtube.com/watch?v=AeEQaCwtSDs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Impact-Learning - A Robust Machine Learning Algorithm | Python | Data Science
+    video_link: https://www.youtube.com/watch?v=ha0Qie2HvMU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 10. How does Convolutional Neural Network (CNN / ConvNet) Work? CNN in Deep Learning & Data Science
+    video_link: https://www.youtube.com/watch?v=IDTv0y316E8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 11. Deep Learning Tutorial (Bangla) | Data Augmentation in CNN & Deep Learning | Data Science Course
+    video_link: https://www.youtube.com/watch?v=pqy1v1qW_zY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 12. Deep Learning Tutorial (Bangla) | Data Augmentation using Keras | Python | Data Science Course
+    video_link: https://www.youtube.com/watch?v=p8e7dGY-Oko
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 13. Deep Learning Tutorial (Bengali) | Padding in CNN | Convolutional Neural Network | Data Science
+    video_link: https://www.youtube.com/watch?v=egUGtNYQ6mo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: ডেটা সায়েন্স (Data Science) এর ভবিষ্যৎ কি? Python নাকি R কি দিয়ে শুরু করবো? Data Science Roadmap '21
+    video_link: https://www.youtube.com/watch?v=r_B_YzeNc5I
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

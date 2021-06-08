@@ -19,6 +19,39 @@ instructors:
     link: https://www.youtube.com/c/Trainingtcl
 
 content:
-  - name: ইউটিউব প্লেলিস্ট
-    video_link: https://www.youtube.com/playlist?list=PLTydW-y9HsbQmKhjd9ahy1EqqkomKu5Rf
+
+  - name: Bangla Object Oriented PHP Part-29 (Strategy Design Pattern)
+    video_link: https://www.youtube.com/watch?v=nlsumFhnovk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Bangla Object Oriented PHP Part-35 (Decorator Design Pattern)
+    video_link: https://www.youtube.com/watch?v=siSnv40B-Ls
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Bangla Object Oriented PHP Part-36 (Facade Design Pattern)
+    video_link: https://www.youtube.com/watch?v=maikbfa6_f0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Bangla Object Oriented PHP Part-30 (Factory Design Pattern)
+    video_link: https://www.youtube.com/watch?v=bevHfzxeU0U
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Bangla Object Oriented PHP Part-31 (Abstract Factory Design Pattern)
+    video_link: https://www.youtube.com/watch?v=FHLqQvI732M
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Bangla Object Oriented PHP Part-32 (Singleton Design Pattern)
+    video_link: https://www.youtube.com/watch?v=MPevBpi8Zw8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Bangla Object Oriented PHP Part-33 (Iterator Design Pattern)
+    video_link: https://www.youtube.com/watch?v=ZAsg7Km0cwQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Bangla Object Oriented PHP Part-34 (Observer Design Pattern)
+    video_link: https://www.youtube.com/watch?v=xCZaNNw05IQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Bangla Object Oriented PHP Part-55 (Model View Controller (MVC) Design Pattern)
+    video_link: https://www.youtube.com/watch?v=vMdy4K8kkIs
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

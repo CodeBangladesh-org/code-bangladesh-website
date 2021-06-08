@@ -18,6 +18,31 @@ instructors:
     link: https://www.youtube.com/c/LearnwithSumit
 
 content:
-  - name: Play with DOM (ইউটিউব প্লেলিস্ট)
-    video_link: https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_
+
+  - name: Lesson 1 - What is DOM - Play with DOM - Explained in Bangla
+    video_link: https://www.youtube.com/watch?v=XY96d0vEdFk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Lesson 2 - Analyze the DOM - Play with DOM - Explained in Bangla
+    video_link: https://www.youtube.com/watch?v=DZIzsE1_VHY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Lesson 3 - Traversing DOM Elements - Play with DOM - Explained in Bangla
+    video_link: https://www.youtube.com/watch?v=HSi3WYjt12Q
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Lesson 4 - Traversing DOM Hierarchy - Play with DOM - Explained in Bangla
+    video_link: https://www.youtube.com/watch?v=dkLziW3c9lg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Lesson 5 - Manipulate the DOM - Play with DOM - Explained in Bangla
+    video_link: https://www.youtube.com/watch?v=NmInTfiUcw0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Lesson 6 - Listening to DOM Events - Play with DOM - Explained in Bangla
+    video_link: https://www.youtube.com/watch?v=TMV0ak63uUY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Lesson 7 - DOM Project - To Do App using DOM - Play with DOM - Explained in Bangla
+    video_link: https://www.youtube.com/watch?v=z6NC2Xyg5M0
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
