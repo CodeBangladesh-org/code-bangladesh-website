@@ -28,3 +28,7 @@ plugins:
 
 minima:
   timezone: Europe/Amsterdam
+
+collections:
+  articles:
+    output: true
