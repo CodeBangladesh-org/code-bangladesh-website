@@ -113,6 +113,12 @@ module Common
     site.static_files << DynamicStaticFile.new(site, site.source, "/generated/", path + ".json", "/assets/")
   end
 
+  def self.append_to_file(path, obj)
+    txt_file = File.open(path, 'a')
+    txt_file.write(obj)
+    txt_file.close
+  end
+
   class DynamicStaticFile < Jekyll::StaticFile
     def initialize(site, base, dir, name, dest)
       super(site, base, dir, name)
