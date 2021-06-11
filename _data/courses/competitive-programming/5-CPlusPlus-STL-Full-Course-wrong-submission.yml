@@ -1,0 +1,110 @@
+id: CPlusPlus-STL-Full-Course-wrong-submission
+name: কম্পিটিটিভ প্রোগ্রামিং এ সি++ STL
+description: >-
+  STL ফাংশন by ফাংশন শেখানো হয়েছে।
+
+image_source: /assets/img/competitive-programming.png
+category_id: competitive-programming
+number_of_videos: 22
+
+topics:
+  - সি++
+  - STL
+  - কম্পিটিটিভ প্রোগ্রামিং
+
+complexity: >-
+  সি++ প্রোগ্রামিং এর অভিজ্ঞতা থাকতে হবে।
+
+instructors:
+  - name: wrong submission
+    link: https://www.youtube.com/channel/UC3Jjc7x00HFheNogxCTghow
+
+content:
+
+  - name: Course Overview
+    video_link: https://www.youtube.com/watch?v=i2GHXA29NKw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Vector - 1
+    video_link: https://www.youtube.com/watch?v=96ObBC6TuoA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Vector - 2
+    video_link: https://www.youtube.com/watch?v=DZbY6rNU7Wg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: List - 1
+    video_link: https://www.youtube.com/watch?v=gH1KUfQgUCQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: List - 2
+    video_link: https://www.youtube.com/watch?v=iuCDnCKxfY0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Deque
+    video_link: https://www.youtube.com/watch?v=MRR6fducsHg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Queue
+    video_link: https://www.youtube.com/watch?v=vIJdkaszmNM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Priority_Queue
+    video_link: https://www.youtube.com/watch?v=9Q-IyR9mX7Q
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Stack
+    video_link: https://www.youtube.com/watch?v=WsUfR4s8GB0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Set - 1
+    video_link: https://www.youtube.com/watch?v=qPSjRezjVlE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Set - 2
+    video_link: https://www.youtube.com/watch?v=dr9Ik5Fdgvs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: MultiSet
+    video_link: https://www.youtube.com/watch?v=9fcdikkuBJY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Map - 1
+    video_link: https://www.youtube.com/watch?v=c-mdVPmbOT0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Map - 2
+    video_link: https://www.youtube.com/watch?v=so7pgUhvkk8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Single Number II | Letcode solution | Map | STL
+    video_link: https://www.youtube.com/watch?v=Vf-Xkre15qk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Multimap
+    video_link: https://www.youtube.com/watch?v=M4LZ3HgTOKI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Pair
+    video_link: https://www.youtube.com/watch?v=gqsjDODdk_c
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Ordered_Set
+    video_link: https://www.youtube.com/watch?v=9qj-vEo0xRQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Unordered_Set
+    video_link: https://www.youtube.com/watch?v=hb3M7WS1dqo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Unordered_Multiset
+    video_link: https://www.youtube.com/watch?v=aUYYR6_1lO0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Unordered_Map
+    video_link: https://www.youtube.com/watch?v=7CrVGtPEoXQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Unordered_Multimap
+    video_link: https://www.youtube.com/watch?v=E04Cjs50RNM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

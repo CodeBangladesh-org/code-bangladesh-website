@@ -1,0 +1,47 @@
+id: Competitive-Programming-Number-Theory-LoveExtendsCode
+name: কম্পিটিটিভ প্রোগ্রামিং নাম্বার থিওরি
+description: >-
+  Sieve of Eratosthenes, Segmented Sieve, Prime Factorization, Finding Divisors, Number of Divisors,
+  Summation of Divisors ও GCD LCM নিয়ে আলোচনা করা হয়েছে।
+
+image_source: /assets/img/competitive-programming.png
+category_id: competitive-programming
+number_of_videos: 6
+
+topics:
+  - কম্পিটিটিভ প্রোগ্রামিং
+  - নাম্বার থিওরি
+  - সি++
+
+complexity: >-
+  সি++ প্রোগ্রামিং এর অভিজ্ঞতা থাকতে হবে।
+
+instructors:
+  - name: LoveExtendsCode
+    link: https://www.youtube.com/c/LoveExtendsCode
+
+content:
+
+  - name: Sieve of Eratosthenes | Prime Generator
+    video_link: https://www.youtube.com/watch?v=0T1-IjBM9jA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Segmented Sieve | SPOJ PRIME1 - Prime Generator
+    video_link: https://www.youtube.com/watch?v=ykZvMA-8S6s
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Prime Factorization
+    video_link: https://www.youtube.com/watch?v=C9nNJWANqB0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Finding Divisors, Number of Divisors and Summation of Divisors
+    video_link: https://www.youtube.com/watch?v=x9KMLQa6G5w
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: GCD & LCM | Greatest Common Divisor & Least Common Multiple
+    video_link: https://www.youtube.com/watch?v=Npw-A8BbFTY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Number Theory Review by Solving SPOJ, UVA Problems
+    video_link: https://www.youtube.com/watch?v=PjpY5oGcuUM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

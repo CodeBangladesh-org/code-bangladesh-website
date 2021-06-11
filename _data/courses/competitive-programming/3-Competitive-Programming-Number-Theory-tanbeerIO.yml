@@ -1,0 +1,47 @@
+id: Competitive-Programming-Number-Theory-tanbeerIO
+name: কম্পিটিটিভ প্রোগ্রামিং নাম্বার থিওরি
+description: >-
+  Primality Check, Sieve of Eratosthenes, Number of Divisors, Modular Arithmetic, Binary/Fast Exponentiation ও
+  Modular multiplicative Inverse আলোচনা করা হয়েছে।
+
+image_source: /assets/img/competitive-programming.png
+category_id: competitive-programming
+number_of_videos: 6
+
+topics:
+  - কম্পিটিটিভ প্রোগ্রামিং
+  - নাম্বার থিওরি
+  - সি++
+
+complexity: >-
+  সি++ প্রোগ্রামিং এর অভিজ্ঞতা থাকতে হবে।
+
+instructors:
+  - name: tanbeerIO
+    link: https://www.youtube.com/channel/UCE6cgfES4gVBssz0iAF6Phg
+
+content:
+
+  - name: Primality Check
+    video_link: https://www.youtube.com/watch?v=92knZ4lH5eo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Sieve of Eratosthenes
+    video_link: https://www.youtube.com/watch?v=v79Px-Pa5xg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Number Theory - Number of Divisors
+    video_link: https://www.youtube.com/watch?v=0NWKiXWBo8g
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Number Theory - Modular Arithmetic
+    video_link: https://www.youtube.com/watch?v=7vcAcKVestE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Binary/Fast Exponentiation
+    video_link: https://www.youtube.com/watch?v=JOLGPuDbCI0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Modular multiplicative Inverse
+    video_link: https://www.youtube.com/watch?v=svKA_d5CLxk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

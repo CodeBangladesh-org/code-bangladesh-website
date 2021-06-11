@@ -3,8 +3,8 @@ name: কম্পিটিটিভ প্রোগ্রামিং এ স�
 description: >-
   STL ভালোভাবে শেখার থেকে, STL কিভাবে কম্পিটিটিভ প্রোগ্রামিং এ ভালো করে ব্যবহার করা যায় সেটাকে প্রাধান্য দেওয়া হয়েছে।
 
-image_source: /assets/img/C.png
-category_id: c-cplusplus-programming
+image_source: /assets/img/competitive-programming.png
+category_id: competitive-programming
 number_of_videos: 5
 
 topics:

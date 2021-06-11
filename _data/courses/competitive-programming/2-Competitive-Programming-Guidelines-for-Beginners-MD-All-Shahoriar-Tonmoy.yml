@@ -1,0 +1,68 @@
+id: Competitive-Programming-Guidelines-for-Beginners-MD-All-Shahoriar-Tonmoy
+name: বিগিনারদের জন্য কম্পিটিটিভ প্রোগ্রামিং গাইডলাইন
+description: >-
+  কম্পিটিটিভ প্রোগ্রামিং করতে হলে কি কি জানা লাগে বা কিভাবে শিখতে হবে তা বলা হয়েছে।
+
+image_source: /assets/img/competitive-programming.png
+category_id: competitive-programming
+number_of_videos: 11
+
+topics:
+  - কম্পিটিটিভ প্রোগ্রামিং
+
+complexity: >-
+  কোন অভিজ্ঞতা না থাকলেও হবে।
+
+instructors:
+  - name: MD. All Shahoriar Tonmoy
+    link: https://www.youtube.com/channel/UCYttUWHHfYT3lT3snj4P4_g
+
+content:
+
+  - name: Competitive Programming Guidelines for Beginners in Bangla.
+    video_link: https://www.youtube.com/watch?v=O3filWb5pKQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Which Programming Language should be learnt first for CP?
+    video_link: https://www.youtube.com/watch?v=IsOvaaH8mII
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Which topic should be learnt first with resources for CP?
+    video_link: https://www.youtube.com/watch?v=xpogvzicab8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Which OJ should be chosen first to solve problems?
+    video_link: https://www.youtube.com/watch?v=ghoORrQTo7k
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: How to solve a problem on online judge?
+    video_link: https://www.youtube.com/watch?v=X-1G4OyB6j4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: What should be the problem solving strategy?
+    video_link: https://www.youtube.com/watch?v=UWsWuf_F1BM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: How to develop logical thinking for CP?
+    video_link: https://www.youtube.com/watch?v=SgXk-6e-b54
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: What is online contest & when should you compete?
+    video_link: https://www.youtube.com/watch?v=YW1bRJaIT7I
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: How can you focus on contest?
+    video_link: https://www.youtube.com/watch?v=P88VZChJsyQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: How can you be specialist as soon as possible?
+    video_link: https://www.youtube.com/watch?v=4SM4QcxH1jU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Which algorithms you should learn first and when?
+    video_link: https://www.youtube.com/watch?v=fGKXWDU7scU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: The ending of the series.
+    video_link: https://www.youtube.com/watch?v=xpvwEA7vR7s
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
