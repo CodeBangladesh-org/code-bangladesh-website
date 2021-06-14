@@ -1,0 +1,85 @@
+id: Spring-Web-MVC-Java-Knowledge
+name: Spring Web MVC টিউটোরিয়ালস
+description: >-
+  Spring ফ্রেমওয়ার্ক ব্যাবহার করে ওয়েব আপ্লিকেশন বানানো শেখানো হয়েছে।
+
+image_source: /assets/img/java.png
+category_id: java-programming
+number_of_videos: 16
+
+topics:
+  - জাভা
+  - স্প্রিং ফ্রেমওয়ার্ক
+
+complexity: >-
+  জাভা জানা থাকতে হবে।
+
+instructors:
+  - name: Java Knowledge
+    link: https://www.youtube.com/c/JavaKnowledgeBD
+
+content:
+
+  - name: Spring Web MVC (First Application in Netbeans) -01
+    video_link: https://www.youtube.com/watch?v=EbOFdvDQrQI
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Spring Web MVC (Multi Action Controller and Path Variable) -02
+    video_link: https://www.youtube.com/watch?v=1oTCrUv-sUU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Spring Web MVC (Handle Form Data) -03
+    video_link: https://www.youtube.com/watch?v=MP0Y7re8GKw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Spring Web MVC (Use of ModelAttribute Annotation) -04
+    video_link: https://www.youtube.com/watch?v=id8IavQr290
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Spring Web MVC (Auto binding other Data Types ) -05
+    video_link: https://www.youtube.com/watch?v=5I60iLZ8WKE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Spring Web MVC (Auto binding Custom Data Types ) -06
+    video_link: https://www.youtube.com/watch?v=AYYDwl7PXhA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Spring Web MVC (InitBinder Annotation and Property Editor Classes) -07
+    video_link: https://www.youtube.com/watch?v=AgecG3t1A6U
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Spring Web MVC (Custom Property Editor Classes) -08
+    video_link: https://www.youtube.com/watch?v=Sa5Vg3wHbY8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Spring Web MVC (Form Validation) -09
+    video_link: https://www.youtube.com/watch?v=HKrvhIRUQXQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Spring Web MVC (Form Validation) -10
+    video_link: https://www.youtube.com/watch?v=YIqI0p4a-uQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Spring Web MVC (Form Validation) -11
+    video_link: https://www.youtube.com/watch?v=v41EBgkTZlE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Spring Web MVC (Interceptor Concept) -12
+    video_link: https://www.youtube.com/watch?v=3bPcLOC4I8o
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Spring Web MVC (Internationalization and Localization) -13
+    video_link: https://www.youtube.com/watch?v=ghnkSC3VSsc
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Spring MVC (Web Flow) -14
+    video_link: https://www.youtube.com/watch?v=sjSeVdoXaQo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Spring MVC (Sub Flow) -15
+    video_link: https://www.youtube.com/watch?v=pVFrcVmyTHU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: Spring Web MVC (Integrating JSF-PrimeFaces) -16
+    video_link: https://www.youtube.com/watch?v=RGwfDAcLep0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

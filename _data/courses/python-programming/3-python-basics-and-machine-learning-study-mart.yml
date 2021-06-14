@@ -112,10 +112,6 @@ content:
     video_link: https://www.youtube.com/watch?v=eXInWRXd-Ho
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Private video
-    video_link: https://www.youtube.com/watch?v=mZfwdGJqAsg
-    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
-
   - name: 23. Python Bangla Tutorial for Beginners || Nested if statement in Python || Study Mart
     video_link: https://www.youtube.com/watch?v=ggQiI-rWjG4
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।

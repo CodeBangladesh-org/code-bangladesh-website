@@ -140,10 +140,6 @@ content:
     video_link: https://www.youtube.com/watch?v=Uux8HJuat6I
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
 
-  - name: Private video
-    video_link: https://www.youtube.com/watch?v=kXSYJ5pOilA
-    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
-
   - name: Bitwise Operator 3 - Left Shift with Negative Number  
     video_link: https://www.youtube.com/watch?v=b86O3EuEm78
     description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
