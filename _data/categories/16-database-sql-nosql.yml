@@ -1,0 +1,9 @@
+id: database-sql-nosql
+name: ড্যাটাবেস SQL / NoSQL
+description: >-
+  ড্যাটাবেস তথ্য সংরক্ষণ করার জন্য ব্যাবহৃত হয়। সফটওয়্যার ড্যাটাবেস ক্লাইন্ট API ব্যাবহার করে ড্যাটাবেসে তথ্য সংরক্ষণ করে।
+
+image_source: /assets/img/database.png
+number_of_courses: dynamic
+number_of_videos: dynamic
+number_of_topics: dynamic

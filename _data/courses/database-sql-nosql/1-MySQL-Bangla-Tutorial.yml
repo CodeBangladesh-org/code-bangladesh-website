@@ -1,0 +1,192 @@
+id: MySQL-Bangla-Tutorial
+name: MySQL বাংলা টিউটোরিয়াল
+description: >-
+  বাংলায় MySQL এর সম্পুর্ন টিউটোরিয়াল।
+
+image_source: /assets/img/database.png
+category_id: database-sql-nosql
+number_of_videos: 41
+
+topics:
+  - ড্যাটাবেস
+  - MySQL
+  - SQL
+  - রিলেশনার ড্যাটাবেস
+
+complexity: >-
+  কোন অভিজ্ঞতা থাকার প্রয়োজন নাই।
+
+instructors:
+  - name: Learn Hunter
+    link: https://www.youtube.com/c/LearnHunter
+
+content:
+
+  - name: 00 MySQL bangla tutorial (Introduction)
+    video_link: https://www.youtube.com/watch?v=GYHu3nstDkQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 01 MySQL bangla tutorial (Database) 
+    video_link: https://www.youtube.com/watch?v=_wCvBUhE5T8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 02 MySQL bangla tutorial (Xampp Download) 
+    video_link: https://www.youtube.com/watch?v=aiVOusPB_Ak
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 03 MySQL bangla tutorial (Key) 
+    video_link: https://www.youtube.com/watch?v=aO3NDr_j59E
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 04 MySQL bangla tutorial (Databse Create) 
+    video_link: https://www.youtube.com/watch?v=iyD25jhhxcY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 05 MySQL bangla tutorial (Delete Database) 
+    video_link: https://www.youtube.com/watch?v=bY_37bcnN1o
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 06 MySQL bangla tutorial (Import & Export)
+    video_link: https://www.youtube.com/watch?v=vlTTy8MObxQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 07. MySQL bangla tutorial (Create Table) 
+    video_link: https://www.youtube.com/watch?v=Pg86lhV93OM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 08 MySQL bangla tutorial (Delete Table) 
+    video_link: https://www.youtube.com/watch?v=JINvYM6pRTU
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 09 MySQL bangla tutorila (Data Type) 
+    video_link: https://www.youtube.com/watch?v=aqSXS0wN_Fk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 10. MySQL bangla tutorial (Alter) 
+    video_link: https://www.youtube.com/watch?v=aCcOwyHdTrA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 11. MySQL bangla tutorial (NOT NULL) 
+    video_link: https://www.youtube.com/watch?v=JP5sJz8SuR0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 12 MySQL bangla tutorial (UNIQUE) 
+    video_link: https://www.youtube.com/watch?v=iMI1fz5APhQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 13 MySQL bangla tutorial (Primary KEY) 
+    video_link: https://www.youtube.com/watch?v=s3zyBQs-ovM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 14 MySQL bangla tutorial (Foreign Key) 
+    video_link: https://www.youtube.com/watch?v=SIO3TWrfJFA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 15 MySQL bangla tutorial (CHECK) 
+    video_link: https://www.youtube.com/watch?v=CJAazFlBcgE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 16 MySQL bangla tutorial (Auto Increment) 
+    video_link: https://www.youtube.com/watch?v=garY81-B2Z8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 17 MySQL bangla tutorial (Important Commands)
+    video_link: https://www.youtube.com/watch?v=zGjt6CSLRAM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 18 MySQL bangla tutorial (SELECT) 
+    video_link: https://www.youtube.com/watch?v=9tjN_CgQyxs
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 19 MySQL bangla tutorial (Distinct) 
+    video_link: https://www.youtube.com/watch?v=FW6INnlh5EE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 20 MySQL bangla tutorial (WHERE) 
+    video_link: https://www.youtube.com/watch?v=TVt9PRP7JDM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 21 MySQL bangla tutorial (AND OR NOT) 
+    video_link: https://www.youtube.com/watch?v=A_UStL2hmOA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 22 MySQL bangla tutorial (ORDER BY ASC,DSC)
+    video_link: https://www.youtube.com/watch?v=s940o0uAWkM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 23 MySQL bangla tutorial (INSERT INTO) 
+    video_link: https://www.youtube.com/watch?v=XIT7rxSC05s
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 24 MySQL bangla tutorial (INSERT MULTIPLE DATA)
+    video_link: https://www.youtube.com/watch?v=zq0kaW1oKn4
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 25 MySQL bangla tutorial IS (NULL & IS NOT NULL)
+    video_link: https://www.youtube.com/watch?v=W3dLGCRuOQk
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 26 MySQL bangla tutorial (UPDATE) 
+    video_link: https://www.youtube.com/watch?v=0CJC0vYg6cg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 27 MySQL bangla tutorial (DELETE) 
+    video_link: https://www.youtube.com/watch?v=SALKiQSDXgg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 28 MySQL bangla tutorial (LIMIT)
+    video_link: https://www.youtube.com/watch?v=me2nzGzHuMM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 29 MySQL bangla tutorial (MIN & MAX) 
+    video_link: https://www.youtube.com/watch?v=5nUtbRdk3wo
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 30 MySQL bangla tutorial (AVG,Count,Sum)
+    video_link: https://www.youtube.com/watch?v=aek2KI2mp0g
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 31 MySQL bangla tutorial (LIKE)
+    video_link: https://www.youtube.com/watch?v=mrOZ29Bv7Dg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 31 MySQL bangla tutorial (LIKE)
+    video_link: https://www.youtube.com/watch?v=mrOZ29Bv7Dg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 32 MySQL bangla tutorial (IN & NOT IN)
+    video_link: https://www.youtube.com/watch?v=Bf_mRr__4l8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 33 MySQL bangla tutorial (BETWEEN & NOT BETWEEN)
+    video_link: https://www.youtube.com/watch?v=uZ9piiq525c
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 34 MySQL bangla tutorial (ALIAS)
+    video_link: https://www.youtube.com/watch?v=HvIeJcxr2TY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 35 MySQL bangla tutorial (JOIN)
+    video_link: https://www.youtube.com/watch?v=Fyp5DdjpZZw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 36 MySQL bangla tutorial (INNER JOIN)
+    video_link: https://www.youtube.com/watch?v=b1SGcPvOiqg
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 37 MySQL bangla tutorial (LEFT JOIN)
+    video_link: https://www.youtube.com/watch?v=vL5BJp8KMD8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 38 MySQL bangla tutorial (RIGHT JOIN)
+    video_link: https://www.youtube.com/watch?v=iJfwdMOD7uY
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 39 MySQL bangla tutorial (UNION)
+    video_link: https://www.youtube.com/watch?v=sAFz8Vf5ArM
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 40 MySQL bangla tutorial (GROUPBY)
+    video_link: https://www.youtube.com/watch?v=vOUPKR3uD4Y
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
