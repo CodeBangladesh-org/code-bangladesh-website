@@ -1,0 +1,51 @@
+id: MSSQL-Server-Bangla-Tutorial
+name: Microsoft SQL Server বাংলা টিউটোরিয়াল
+description: >-
+  বাংলায় Microsoft SQL Server এর সম্পূর্ন টিউটোরিয়াল।
+
+image_source: /assets/img/database.png
+category_id: database-sql-nosql
+number_of_videos: 7
+
+topics:
+  - ড্যাটাবেস
+  - MS SQL Server
+  - SQL
+  - রিলেশনাল ড্যাটাবেস
+
+complexity: >-
+  কোন অভিজ্ঞতা থাকার প্রয়োজন নাই।
+
+instructors:
+  - name: Mahmudur Rahman
+    link: https://www.youtube.com/c/MahmudurRahman22
+
+content:
+
+  - name: 1 - Introduction and Installation of Sql Server 2014
+    video_link: https://www.youtube.com/watch?v=qzqUDrb4OnA
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 2 - Create,Alter,drop database
+    video_link: https://www.youtube.com/watch?v=WAY2l4MsRlw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 3 - Create,insert, alter and drop table
+    video_link: https://www.youtube.com/watch?v=6ioI98jz6TE
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 4 - update and delete data from table and truncate
+    video_link: https://www.youtube.com/watch?v=F1gThS2HJQQ
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 5 - select record from table
+    video_link: https://www.youtube.com/watch?v=6mJWYSkqcc8
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 6 - Primary and Foreign Key
+    video_link: https://www.youtube.com/watch?v=O2_rPKIANBw
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+
+  - name: 7 - check, unique and default constraint
+    video_link: https://www.youtube.com/watch?v=-oXhmMwOgy0
+    description: এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
