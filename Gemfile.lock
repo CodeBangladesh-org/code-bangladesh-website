@@ -18,6 +18,7 @@ GEM
       zeitwerk (~> 2.2, >= 2.2.2)
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
+    asciidoctor (1.5.8)
     colorator (1.1.0)
     concurrent-ruby (1.1.8)
     em-websocket (0.5.2)
@@ -122,6 +123,7 @@ PLATFORMS
   universal-darwin-19
 
 DEPENDENCIES
+  asciidoctor (~> 1.5, >= 1.5.4)
   jekyll (~> 4.0.1)
   jekyll-assets
   jekyll-feed (~> 0.15.1)
