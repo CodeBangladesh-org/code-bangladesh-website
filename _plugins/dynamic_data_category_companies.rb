@@ -16,7 +16,7 @@ module DynamicDataCategoryCompaniesPlugin
               end
             end
           end
-          category["companies"] = category_companies.flatten!
+          category["companies"] = category_companies.flatten.uniq
         end
       end
 
