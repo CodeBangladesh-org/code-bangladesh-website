@@ -38,7 +38,8 @@ module MobileAppDataGeneratorPlugin
       }
       payload_obj = {
         "siteConf" => site_conf,
-        "categories" => categories
+        "categories" => categories,
+        "companies" => CompanyUtils.read_companies_csv_as_CompanyDto
       }
 
       Common.generate_json(site, "app-data", payload_obj)

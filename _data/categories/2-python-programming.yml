@@ -9,4 +9,7 @@ number_of_courses: dynamic
 number_of_videos: dynamic
 number_of_topics: dynamic
 popular_topics:
+  - Python
   - Django
+  - Flask
+companies: dynamic

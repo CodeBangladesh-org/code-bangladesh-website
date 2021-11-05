@@ -34,6 +34,21 @@ layout: codebangladesh-default
 <div class="row"><br></div>
 
 <div class="list-group">
+
+    {% if page.category["companies"] %}
+    <a href="{{ '/tech-companies-use-' | append: page.category.id | slug | relative_url }}"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">আর্টিকেলঃ টেক কোম্পানি লিস্ট</h5>
+        </div>
+        <small class="text-muted">
+            <img class="img-fluid" height="20" src="/assets/img/company.png" width="20">&nbsp;
+            <span>টেক কোম্পানি লিস্ট যারা {{ page.category.name | escape }} নিয়ে কাজ করে। </span><br>
+        </small>
+    </a>
+    <div class="row"><br></div>
+    {% endif %}
+
     {% for course in page.courses %}
     <a href="{{ page.category.id | append: '/' | append: course.id | relative_url }}"
        class="list-group-item list-group-item-action flex-column align-items-start">

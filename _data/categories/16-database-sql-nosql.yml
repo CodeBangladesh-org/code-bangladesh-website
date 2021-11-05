@@ -7,3 +7,11 @@ image_source: /assets/img/database.png
 number_of_courses: dynamic
 number_of_videos: dynamic
 number_of_topics: dynamic
+popular_topics:
+  - MySQL
+  - MSSQL
+  - Oracle DB
+  - MongoDB
+  - PostgreSQL
+  - NoSQL
+companies: dynamic

@@ -36,6 +36,18 @@ module DynamicPagesPlugin
     end
   end
 
+  class CompaniesPage < Jekyll::Page
+    def initialize(site, base, dir, name, category, all_companies)
+      @site = site
+      @base = base
+      @dir = dir
+      @name = name
+      self.process(name)
+      self.read_yaml(File.join(base, "_layouts"), "companies-page.html")
+      self.data.merge!({ "category" => category, "all_companies" =>  all_companies})
+    end
+  end
+
   class Generator < Jekyll::Generator
     def generate(site)
       categories = Common.read_categories(site)
@@ -45,8 +57,10 @@ module DynamicPagesPlugin
         generate_category_pages(site, category, courses, topics)
         generate_courses_pages(site, category, courses)
         generate_topics_pages(site, topics)
+        generate_companies_by_tech_pages(site, category)
       end
-      puts "Category and Course pages generated successfully from data `_data`"
+      generate_all_companies_page(site)
+      puts "Category, Course and Company pages generated successfully from data `_data`"
     end
 
     private
@@ -65,6 +79,15 @@ module DynamicPagesPlugin
       topics.each do | topic |
         site.pages << TopicPage.new(site, site.source, 'topics', topic["filename"] + '.html', topic, topic["courses"])
       end
+    end
+
+    def generate_companies_by_tech_pages(site, category)
+      site.pages << CompaniesPage.new(site, site.source, '', "tech-companies-use-" + category["id"] + '.html', category, nil)
+    end
+
+    def generate_all_companies_page(site)
+      # site.data["companies"] getting data from companies.csv
+      site.pages << CompaniesPage.new(site, site.source, '', "tech-companies-in-bangladesh.html", nil, CompanyUtils.read_companies_csv_as_CompanyDto)
     end
 
   end

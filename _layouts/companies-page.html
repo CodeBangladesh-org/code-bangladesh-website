@@ -1,0 +1,85 @@
+---
+layout: codebangladesh-default
+---
+
+<header class="header-section" xmlns="http://www.w3.org/1999/html">
+    <div class="intro-header no-img">
+        <div class="container-md">
+            <div class="row d-flex flex-wrap align-items-center">
+                <div class="page-subheading">
+                    {% if page.category %}
+                    <h1>
+                        <img class="img-fluid" height="60" src="{{ page.category.image_source }}" width="60">&nbsp;
+                        {{ page.category.name | escape }}
+                    </h1>
+                    {% else %}
+                    <h1>
+                        <img class="img-fluid" height="60" src="/assets/img/company.png" width="60">&nbsp;
+                        বাংলাদেশে অবস্থিত তথ্যপ্রযুক্তি কোম্পানির লিস্ট
+                    </h1>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+<div class="row"><br></div>
+
+<div class="d-grid gap-3">
+
+    {% if page.category %}
+    <div class="p-2">
+        <h5>{{ page.category["companies"].size | bangla_number }} টি কোম্পানি {{ page.category.name | escape }} নিয়ে কাজ করে।</h5>
+    </div>
+    {% else %}
+    <div class="p-2">
+        <h5>{{ page.all_companies.size | bangla_number }} টি কোম্পানি বিভিন্ন টেকনোলোজি নিয়ে কাজ করে।</h5>
+    </div>
+    {% endif %}
+
+    {% if page.category %}
+      {% assign companies = page.category["companies"] %}
+    {% else %}
+      {% assign companies = page.all_companies %}
+    {% endif %}
+
+    {% for company in companies %}
+    <div class="p-2">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">{{ company.name }}</h5><br>
+        </div>
+        <div>
+            <img class="img-fluid" src="/assets/img/programming.png" width="25" height="25">&nbsp;&nbsp;
+            <span>{% for tech in company.technologies %}
+            {{ tech }}{% if forloop.last %}{% else %},{% endif %}
+            {% endfor %}</span><br>
+        </div>
+        <div>
+            <img class="img-fluid" src="/assets/img/internet.png" width="25" height="25">&nbsp;&nbsp;
+            <span>{{ company.web_presence }}</span><br>
+        </div>
+        <small class="text-muted">
+            <img class="img-fluid" src="/assets/img/map.png" width="25" height="25">&nbsp;&nbsp;
+            <span>{{ company.office_location }}</span><br>
+        </small>
+        <br>
+    </div>
+    {% endfor %}
+
+    {% if page.category %}
+    <a href="/tech-companies-in-bangladesh">
+        <img class="img-fluid" src="/assets/img/article.png" width="25" height="25">&nbsp;&nbsp;
+        <span class="mb-1">আর্টিকেলঃ সব টেক কোম্পানি লিস্ট</span>
+    </a>
+    {% else %}
+    <div class="p-2">
+        <h5>তথ্যসূত্র ও কৃতজ্ঞতা স্বীকার</h5>
+        <p>তথ্যপ্রযুক্তি কোম্পানির লিস্টটি <a href="https://github.com/MBSTUPC/tech-companies-in-bangladesh" target="_blank">
+            https://github.com/MBSTUPC/tech-companies-in-bangladesh</a> থেকে নেয়া হয়েছে।</p>
+    </div>
+    {% endif %}
+
+
+</div>

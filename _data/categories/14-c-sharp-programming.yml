@@ -7,3 +7,9 @@ image_source: /assets/img/csharp.png
 number_of_courses: dynamic
 number_of_videos: dynamic
 number_of_topics: dynamic
+popular_topics:
+  - C#
+  - .NET
+  - ASP.NET
+  - WPF
+companies: dynamic

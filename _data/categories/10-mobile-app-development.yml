@@ -8,4 +8,12 @@ number_of_courses: dynamic
 number_of_videos: dynamic
 number_of_topics: dynamic
 popular_topics:
+  - Android
+  - iOS
   - React Native
+  - Kotlin
+  - Firebase
+  - Flutter
+  - Swift
+  - Objective-C
+companies: dynamic
