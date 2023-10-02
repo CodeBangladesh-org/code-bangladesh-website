@@ -8,7 +8,16 @@ module DynamicPagesPlugin
       @name = name
       self.process(name)
       self.read_yaml(File.join(base, "_layouts"), "category-page.html")
-      self.data.merge!({ "category"=>category, "courses"=>courses, "topics"=>topics })
+      self.data.merge!(
+        {
+          "title" => category["name"],
+          "description" => category["description"],
+          "image" => category["image_source"],
+          "category" => category,
+          "courses" => courses,
+          "topics" => topics
+        }
+      )
     end
   end
 
@@ -50,13 +59,17 @@ module DynamicPagesPlugin
 
   class Generator < Jekyll::Generator
     def generate(site)
+      already_generated_topics_filename = Set.new
       categories = Common.read_categories(site)
       categories.each do | category |
         courses = Common.read_category_courses(site, category["id"])
         topics = Common.read_category_topics(site, category["id"])
         generate_category_pages(site, category, courses, topics)
         generate_courses_pages(site, category, courses)
-        generate_topics_pages(site, topics)
+
+        generate_topics_pages(site, topics, already_generated_topics_filename)
+        topics.each { |topic| already_generated_topics_filename << topic['filename'] }
+
         generate_companies_by_tech_pages(site, category)
       end
       generate_all_companies_page(site)
@@ -75,9 +88,11 @@ module DynamicPagesPlugin
       end
     end
 
-    def generate_topics_pages(site, topics)
+    def generate_topics_pages(site, topics, already_generated_topics_filename)
       topics.each do | topic |
-        site.pages << TopicPage.new(site, site.source, 'topics', topic["filename"] + '.html', topic, topic["courses"])
+        unless already_generated_topics_filename.include?(topic["filename"])
+          site.pages << TopicPage.new(site, site.source, 'topics', topic["filename"] + '.html', topic, topic["courses"])
+        end
       end
     end
 

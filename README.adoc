@@ -1,5 +1,10 @@
 # Code Bangladesh Website
 
+### How to build on local
+- Make `local_serve.sh` an executable. E.g. `chmod a+x local_serve.sh`.
+- `./local_serve.sh build`
+- `./local_serve.sh serve`
+
 ### Contribute
 - Fork it (https://github.com/CodeBangladesh-org/code-bangladesh-website/fork)
 - Create your feature branch (git checkout -b my-new-feature)
