@@ -2,7 +2,8 @@ FROM jekyll/jekyll:stable
 
 COPY Gemfile* ./
 
-RUN gem install bundler:2.4 && bundle install
+RUN gem install bundler
+RUN bundle install
 
 ENTRYPOINT [ "jekyll" ]
 
