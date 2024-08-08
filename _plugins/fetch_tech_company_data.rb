@@ -4,6 +4,10 @@ module FetchTechCompanyDataPlugin
     priority :highest
     def generate(site)
 
+      if ENV['JEKYLL_ENV'] == 'production'
+        File.delete("_data/companies.csv") if File.exist?("_data/companies.csv")
+      end
+
       if already_downloaded?
         puts "Company data already downloaded from Github and saved in `_data/companies.csv`"
         return
