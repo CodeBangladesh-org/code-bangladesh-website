@@ -1,0 +1,1862 @@
+<!DOCTYPE html>
+<html lang="bn"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>CodeBangladesh.org | সফটওয়্যার ডেভেলপমেন্ট, প্রোগ্রামিং ও টেক জব সংক্রান্ত ফ্রি কনটেন্টগুলো একসাথে সাজিয়ে উপস্থাপন করা যাতে যারা নতুন শিখছেন তারা দ্রুত ভালভাবে শিখতে পারেন।</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="CodeBangladesh.org" />
+<meta name="author" content="CodeBangladesh.org" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="সফটওয়্যার ডেভেলপমেন্ট, প্রোগ্রামিং ও টেক জব সংক্রান্ত ফ্রি কনটেন্টগুলো একসাথে সাজিয়ে উপস্থাপন করা যাতে যারা নতুন শিখছেন তারা দ্রুত ভালভাবে শিখতে পারেন।" />
+<meta property="og:description" content="সফটওয়্যার ডেভেলপমেন্ট, প্রোগ্রামিং ও টেক জব সংক্রান্ত ফ্রি কনটেন্টগুলো একসাথে সাজিয়ে উপস্থাপন করা যাতে যারা নতুন শিখছেন তারা দ্রুত ভালভাবে শিখতে পারেন।" />
+<link rel="canonical" href="https://codebangladesh.org/java-programming/java-programming-tutorial-Anisul-Islam.html" />
+<meta property="og:url" content="https://codebangladesh.org/java-programming/java-programming-tutorial-Anisul-Islam.html" />
+<meta property="og:site_name" content="CodeBangladesh.org" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="CodeBangladesh.org" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"CodeBangladesh.org"},"description":"সফটওয়্যার ডেভেলপমেন্ট, প্রোগ্রামিং ও টেক জব সংক্রান্ত ফ্রি কনটেন্টগুলো একসাথে সাজিয়ে উপস্থাপন করা যাতে যারা নতুন শিখছেন তারা দ্রুত ভালভাবে শিখতে পারেন।","headline":"CodeBangladesh.org","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://codebangladesh.org/assets/img/tortoise.png"},"name":"CodeBangladesh.org"},"url":"https://codebangladesh.org/java-programming/java-programming-tutorial-Anisul-Islam.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://codebangladesh.org/feed.xml" title="CodeBangladesh.org" /><script async src="https://www.googletagmanager.com/gtag/js?id=UA-195294918-1"></script>
+<script>
+  window['ga-disable-UA-195294918-1'] = window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNotTrack === "yes" || navigator.msDoNotTrack === "1";
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){window.dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-195294918-1');
+</script>
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+<link rel="stylesheet" href="/assets/css/bootstrap-social.css">
+
+<link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
+<link rel="stylesheet" href="/assets/css/demo.css">
+<link rel="stylesheet" href="/assets/css/override.css">
+
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon.png"/>
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png"/>
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png"/>
+<link rel="manifest" href="/assets/favicons/site.webmanifest"/>
+<link rel="mask-icon" href="/assets/favicons/safari-pinned-tab.svg" color="#5bbad5"/>
+
+<meta name="msapplication-TileColor" content="#da532c"/>
+<meta name="theme-color" content="#ffffff"/>
+</head>
+<body><nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular">
+
+    <a class="navbar-brand" rel="author" href="/">CodeBangladesh.org</a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar"
+            aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="avatar-container">
+        <div class="avatar-img-border">
+            <a href="/">
+                <img alt="Navigation bar avatar" class="avatar-img" src="/assets/img/tortoise.png">
+            </a>
+        </div>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="/about">আমাদের কথা</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://play.google.com/store/apps/details?id=org.codebangladesh" target="_blank">
+                    <img class="mg-fluid" src="/assets/img/mobile-app.png" height="20" width="20">
+                    অ্যানড্রয়েড অ্যাপ
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/tech-companies-in-bangladesh">তথ্যপ্রযুক্তি কোম্পানির লিস্ট</a>
+            </li>
+        </ul>
+    </div>
+
+</nav>
+<div class=" container-md" role="main">
+    <div class="row">
+        <div class="col-xl-10 col-lg-10 offset-lg-1">
+            <div class="row"><br></div>
+            <header class="header-section">
+    <div class="intro-header no-img">
+        <div class="container-md">
+            <div class="row d-flex flex-wrap align-items-center">
+                <div class="page-subheading">
+                    <h1>
+                        <img class="img-fluid" height="60" src="/assets/img/java.png" width="60">&nbsp;
+                        কোর জাভা টিউটোরিয়াল
+                    </h1>
+                    <p class="mb-1">
+                        এই কোর্সে ১৫৩টি ভিডিওতে সিনট্যাক্স থেকে শুরু করে, OOP ও কালেকশন ফ্রেমওয়্যার্ক, জাভার সমস্ত বেসিকই শেখানো হয়েছে।
+                    </p>
+                    <p class="mb-1">
+                        কনটেন্টটি নেয়া হয়েছে:
+                        
+                        <small><a href="https://www.youtube.com/channel/UCEXwc6mNh7Lakj6lX-7a2Mg" target="_blank">আনিসুল ইসলাম</a></small>
+                        
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+<div class="row"><br></div>
+
+<div class="list-group">
+    
+    <a href="https://www.youtube.com/watch?v=hf4k4OWlBfI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">জাভা সূচনা</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=vLeY9fkdWiU" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Netbean এ JDK সেটআপ ও JDK not found সমস্যার সমাধান</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=ZBsm7mX4cE4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">প্রথম জাভা আপ্লিকেশন</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=_1N8dKsQ8JE" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">String এ ইস্কেপ সিকুয়েন্স</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=jZlMh69-45c" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">কমেন্ট</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=IKIVEPRW6uM" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">প্রোগ্রাম চালানোর ধাপগুলো</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=8Udh2XRF2gc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">ভ্যারিয়েবল ও ড্যাটা টাইপ (পার্ট ১)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=ZLPY87bWO6k" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">ভ্যারিয়েবল ও ড্যাটা টাইপ (পার্ট ২)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=glkZLc9jnCw" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Format specifier</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=Po8bPEFsnow" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">How to get user input</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=sMbDqDG56Zw" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Arithmetic Operator (simple Calculator)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=YDbN8R00vY0" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Assignment Operator</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=GVHCWFbSudM" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Area of triangle and circle</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=VevKmDVtB1s" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Temperature Converter</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=6qPXOplc6uA" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Unary operator</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=eSU34np9DLc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Relational Operator</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=MddtJbNvxMQ" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Control Statement ( if,else )</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=PWaVjoY0clQ" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Checking Even/Odd Number</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=vP0XFm0BV3U" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Checking Vowel/Consonant</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=ioQRYoE0Y04" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Logical Operator (part-1)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=6k0rDeGplwE" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Logical Operator (part-2)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=NDtRRR3WDL0" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">switch (part-1)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=hRUkljRO25g" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">switch (part-2)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=LWvia2PQh4k" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Conditional Operator</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=TllHVJGEY5A" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Bitwise operator</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=3E4UB_RYY_c" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Math Class</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=AVKvaIAWKYQ" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">for loop</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=e3GWjcY478Y" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">while loop</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=sDNrL8xoRx0" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">do while loop</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=fsnGj9mhCIA" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">while vs do-while loop</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=m0Kkv3mWQOg" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">break and continue statement</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=0ZOmylyFZQQ" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Netbeans keyboard shortcut</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=rgQAmCziUtc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">print Even number from m to n</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=EjY4iFvPRqU" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Series (part-1)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=5M5g24RQfwE" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Series (part-2)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=djB0qWh2yiY" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Factorial of a number</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=9uprdqZmQ2A" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Multiplication Table ( গুণের নামতা )</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=T8CRalD1mgc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Prime Number (মৌলিক সংখ্যা)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=ch7E1SXjfLk" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Prime Numbers from m to n</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=5YVuG-885Ug" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Fibonacci series</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=IVHExlhBhrE" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">sum of digits (Theory)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=lnK_Z_IbpqQ" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">sum of digits (practical)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=NwFRZK5kj_U" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">How To Reverse A Number (Theory)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=L5N9zYoOo8I" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">How To Reverse A Number (practical)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=1rVaH6_L3iQ" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Palindrome number (Theory)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=4xff-zaIkac" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Palindrome Number (practical)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=MWORULBTt-o" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Armstrong number (Theory)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=2gRsO3GZkYE" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Armstrong Number (practical)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=LLDIiIyU1Pc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">pattern 1</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=2Rquz1rstM4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">pattern 2</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=CulauAqd7AA" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Introduction to Array</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=PEv0gtMdMdA" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Array ( finding sum and average )</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=DuyMEGxd-BI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Array ( finding Maximum and minimum)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=1LIbHvJX-1w" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">for each loop</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=7gfVMC7x_QM" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">introduction to 2D array</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=0_em4d79wcY" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Array (Matrix part-1)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=Novjda71-Wc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Array ( Matrix part-2 )</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=iC0c3ABIzkU" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">sum of diagonal, upper triangle and lower triangle elements of a matrix</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=LdrBdj84zw4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Array output (part-1)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=ueJkSgvVt4U" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Array output (part-2)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=vwS9mDCdoBo" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Sorting an Array</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=FZFdTY5FIHg" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">ArrayList (part-1)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=yYOAHrWZ8is" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">ArrayList (part-2)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=KQhcMDfr2lI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">ArrayList (part-3)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=GSmcD5CBGSc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Sorting an ArrayList</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=CWbO9tf1iGk" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">String (part-1)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=Az3-FLM8JJI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">String (part-2)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=biu3d5cGPV4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">String (part-3)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=AzFvZZe4Uvo" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">String (part-4)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=qF1mJhqlYqw" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">StringBuffer</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=57duOwmqifk" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">String Palindrome</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=JX6wxGi6wNM" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">StringBuilder</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=o0tP_aebqOk" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Wrapper class (autoboxing, unboxing)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=0ZAsvFSKwqU" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Conversion between String and Primitive Data type</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=TPu5VpbVw6c" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Decimal To Binary,octal,hexadecimal</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=zePmPqyGz-M" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Binary, octal, hexadecimal to Decimal</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=DzY6YTePqJw" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Date</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=Hj8CHr2k7WA" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Time</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=YJjQrEanyQM" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Random Number Generator</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=5sH2WHxApTE" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Introduction to OOP | class,objects</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=sGqUBTWxYj4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Introducing method</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=hvbCvpnvMaY" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Parametrized Method</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=ZaQ9Br0-Sbo" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Constructor</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=8U3CdZES7IY" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Types of Constructor</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=oFAWd4l9zQE" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Overloading constructor</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=oVoKwpmQjR0" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Returning a value from method</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=8S7I2Z5yqNQ" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Difference between Constructor And Method</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=K3RXf7IMwWs" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">static variable (part-1)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=oS2k1JTnRdc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">static variable (part-2)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=GL_YOiqz4WE" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">static variable (part-3)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=CTvteDE4tIs" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">static method</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=Q7q_SXBKwOk" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">static method's restrictions</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=inpThZFe_NI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">static block</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=KHRS60UgsNU" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Types of variable | local, class, instance variable</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=N5S2xERb_gs" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Problem Solving - 1 (Box volume)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=r5klZTH1e9o" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Instance Variable Hiding</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=1RcJUfBQtac" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Math class (Remake)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=DwaUODamu2g" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Method Overloading</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=8kbaS9TRtyk" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Automatic Type Conversion</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=h4009ZHlbPw" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Debugging in java</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=ZrzmE2gW2ks" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">call by value vs call by reference</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=hn5V5TmpDls" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">variable length arguments</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=5yP5Tr218kc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">factorial using recursion in java</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=1NbPbdbSDtk" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Iteration vs Recursion</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=hpRcmfNnwu8" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Encapsulation</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=5zanUOGTzk8" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Setter And Getter methods</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=4HbOzg4aWFk" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Inheritance (Theory)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=XZO7OMMFMl8" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Inheritance (practical)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=tF0JZVWr3IQ" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Inheriting Private Member</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=TXuPpxpKMDU" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">instanceof Operator</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=fnqSfeZ8n8c" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Types of Inheritance</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=CXZ1SgyLMxU" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Method Overriding (part-1)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=MHBoFRqQB3k" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Method Overriding (part-2)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=9nR-XD8hFnU" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Method Overloading Vs Method Overriding</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=kzUUW4BSSG0" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Why Java Doesn't Support Multiple Inheritance ?</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=_ZrRORCIev4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">super keyword (part-1)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=gs5aWsbsej4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Super Keyword (part-2)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=fD2wJtoaQGI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">super keyword (part-3)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=RBRmfPWJvhw" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">super keyword (part-4)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=WeB03aowC-k" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">this Keyword (part-1)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=RRtFMXjBo7c" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">this Keyword (part-2)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=__vHJJf5vWc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">final Keyword (part-1)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=lURPx32q5Uw" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">final Keyword (part-2)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=AlTTlEj2Z78" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Polymorphism (Theory)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=ldrDMD0zZPM" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Polymorphism (Practical-1)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=g2R4CiV0H9M" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Polymorphism (Practical-2)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=XUvnPcnYsHM" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Abstraction (Theory)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=P_Yb5CQFh3Y" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Abstraction (Practical)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=tsyK0r-cpA0" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Problem solving-2 (Abstract class Shape)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=ksj96Q8XVh4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Introduction to interface</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=vsO0HLu7zaM" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Why Interface Support Multiple Inheritance ?</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=LNDOlSOa_B4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Difference Between Abstract Class And Interface</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=vwyGP2LPAoc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Package (theory)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=xsmTP5WIcPE" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Package (practical)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=cHxlv-UPp0g" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Access Modifier</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=1YineNi4164" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Type Casting (Upcasting & Downcasting)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=OTeR-3GnI3s" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Anonymous class</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=ucpUzdqDubs" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Exception handling (Theory)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=p4p5VujIkUo" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Exception handling (practical)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=5CazHwwzfjM" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Problem solving-3 (Exception Handling)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=wDI-VqiFM44" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Decimal Number Formatting</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=ZlMgv5EzrAY" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">toString Method</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=onseyF_KN-M" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">String comparison | equal( ) vs ==</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=NgphSe8Cdr8" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">LinkedList (part-1)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=ShbLRIUhaKc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">LinkedList (part-2)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=mkxBZbxVUV8" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Creating a Student List</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=5LuNlnwFPQ4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">HashMap</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=lbhuJ15SjZk" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">HashSet</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=zcPo8kcPJoM" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">How to create a file or directory</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=iO31szWASfM" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">How to write into a File</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=g9nmd0X43xY" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">How to read a File</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=7GkGWdv5lvY" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">How to run a java program from command Line</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=OjKYFEO9Q-0" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">How to run a java program from a package</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+</div>
+
+        </div>
+    </div>
+</div><footer>
+    <div class="container-md beautiful-jekyll-footer">
+        <div class="row">
+            <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+                <ul class="list-inline text-center footer-links">
+                    <li class="list-inline-item">
+                        <a href="mailto:admin@codebangladesh.org" title="ইমেইল করুন">
+                          <span aria-hidden="true" class="fa-stack fa-lg">
+                            <i class="fas fa-circle fa-stack-2x"></i>
+                            <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+                          </span>
+                            <span class="sr-only">ইমেইল করুন</span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://github.com/CodeBangladesh-org" title="গিটহাব">
+                          <span aria-hidden="true" class="fa-stack fa-lg">
+                            <i class="fas fa-circle fa-stack-2x"></i>
+                            <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                          </span>
+                            <span class="sr-only">গিটহাব</span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://discord.gg/RsCDspZKqM" title="ডিসকর্ড" target="_blank">
+                          <span aria-hidden="true" class="fa-stack fa-lg">
+                              <i class="fas fa-circle fa-stack-2x"></i>
+                              <i class="fab fa-discord fa-stack-1x fa-inverse"></i>
+                          </span>
+                            <span class="sr-only">ডিসকর্ড</span>
+                        </a>
+                    </li>
+                </ul>
+
+                <p class="copyright text-muted">কোড বাংলাদেশ&nbsp;•&nbsp;২০২৪ &nbsp•&nbsp;
+                    <span class="author-site"><a href="https://CodeBangladesh.org">CodeBangladesh.org</a></span>
+                    <span>• <a href="/privacy">প্রাইভেসি পলিসি</a></span>
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script crossorigin="anonymous"
+        integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
+        src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script crossorigin="anonymous"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script crossorigin="anonymous"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<script src="/assets/js/beautifuljekyll.js"></script>
+<script src="/assets/js/demo.js"></script>
+</body>
+
+</html>

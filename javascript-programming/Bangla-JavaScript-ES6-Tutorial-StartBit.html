@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="bn"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>CodeBangladesh.org | সফটওয়্যার ডেভেলপমেন্ট, প্রোগ্রামিং ও টেক জব সংক্রান্ত ফ্রি কনটেন্টগুলো একসাথে সাজিয়ে উপস্থাপন করা যাতে যারা নতুন শিখছেন তারা দ্রুত ভালভাবে শিখতে পারেন।</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="CodeBangladesh.org" />
+<meta name="author" content="CodeBangladesh.org" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="সফটওয়্যার ডেভেলপমেন্ট, প্রোগ্রামিং ও টেক জব সংক্রান্ত ফ্রি কনটেন্টগুলো একসাথে সাজিয়ে উপস্থাপন করা যাতে যারা নতুন শিখছেন তারা দ্রুত ভালভাবে শিখতে পারেন।" />
+<meta property="og:description" content="সফটওয়্যার ডেভেলপমেন্ট, প্রোগ্রামিং ও টেক জব সংক্রান্ত ফ্রি কনটেন্টগুলো একসাথে সাজিয়ে উপস্থাপন করা যাতে যারা নতুন শিখছেন তারা দ্রুত ভালভাবে শিখতে পারেন।" />
+<link rel="canonical" href="https://codebangladesh.org/javascript-programming/Bangla-JavaScript-ES6-Tutorial-StartBit.html" />
+<meta property="og:url" content="https://codebangladesh.org/javascript-programming/Bangla-JavaScript-ES6-Tutorial-StartBit.html" />
+<meta property="og:site_name" content="CodeBangladesh.org" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="CodeBangladesh.org" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"CodeBangladesh.org"},"description":"সফটওয়্যার ডেভেলপমেন্ট, প্রোগ্রামিং ও টেক জব সংক্রান্ত ফ্রি কনটেন্টগুলো একসাথে সাজিয়ে উপস্থাপন করা যাতে যারা নতুন শিখছেন তারা দ্রুত ভালভাবে শিখতে পারেন।","headline":"CodeBangladesh.org","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://codebangladesh.org/assets/img/tortoise.png"},"name":"CodeBangladesh.org"},"url":"https://codebangladesh.org/javascript-programming/Bangla-JavaScript-ES6-Tutorial-StartBit.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://codebangladesh.org/feed.xml" title="CodeBangladesh.org" /><script async src="https://www.googletagmanager.com/gtag/js?id=UA-195294918-1"></script>
+<script>
+  window['ga-disable-UA-195294918-1'] = window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNotTrack === "yes" || navigator.msDoNotTrack === "1";
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){window.dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-195294918-1');
+</script>
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+<link rel="stylesheet" href="/assets/css/bootstrap-social.css">
+
+<link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
+<link rel="stylesheet" href="/assets/css/demo.css">
+<link rel="stylesheet" href="/assets/css/override.css">
+
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon.png"/>
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png"/>
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png"/>
+<link rel="manifest" href="/assets/favicons/site.webmanifest"/>
+<link rel="mask-icon" href="/assets/favicons/safari-pinned-tab.svg" color="#5bbad5"/>
+
+<meta name="msapplication-TileColor" content="#da532c"/>
+<meta name="theme-color" content="#ffffff"/>
+</head>
+<body><nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular">
+
+    <a class="navbar-brand" rel="author" href="/">CodeBangladesh.org</a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar"
+            aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="avatar-container">
+        <div class="avatar-img-border">
+            <a href="/">
+                <img alt="Navigation bar avatar" class="avatar-img" src="/assets/img/tortoise.png">
+            </a>
+        </div>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="/about">আমাদের কথা</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://play.google.com/store/apps/details?id=org.codebangladesh" target="_blank">
+                    <img class="mg-fluid" src="/assets/img/mobile-app.png" height="20" width="20">
+                    অ্যানড্রয়েড অ্যাপ
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/tech-companies-in-bangladesh">তথ্যপ্রযুক্তি কোম্পানির লিস্ট</a>
+            </li>
+        </ul>
+    </div>
+
+</nav>
+<div class=" container-md" role="main">
+    <div class="row">
+        <div class="col-xl-10 col-lg-10 offset-lg-1">
+            <div class="row"><br></div>
+            <header class="header-section">
+    <div class="intro-header no-img">
+        <div class="container-md">
+            <div class="row d-flex flex-wrap align-items-center">
+                <div class="page-subheading">
+                    <h1>
+                        <img class="img-fluid" height="60" src="/assets/img/javascript.png" width="60">&nbsp;
+                        বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল (ES6)
+                    </h1>
+                    <p class="mb-1">
+                        জাভাস্ক্রিপ্ট টিউটোরিয়াল সিরিজে আমরা JavaScript ও EcmaScript 6 এর বেসিক শিখব। এই সিরিজ টি দেখার পর আপনি JavaScript এর যেকোন frontend ও backend ফ্রেমওয়ার্ক AngularJS, ReactJS, NodeJS নিয়ে কাজ করা শুরু করতে পারবেন।
+                    </p>
+                    <p class="mb-1">
+                        কনটেন্টটি নেয়া হয়েছে:
+                        
+                        <small><a href="https://www.youtube.com/c/FakiBuzz" target="_blank">StartBit</a></small>
+                        
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+<div class="row"><br></div>
+
+<div class="list-group">
+    
+    <a href="https://www.youtube.com/watch?v=P0aLUU-aSwA" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">JavaScript ES6 Introduction Bangla । বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল ভূমিকা</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=W-8Gawun9gc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Hello World - JavaScript ES6 Bangla Tutorial - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=g3HV5FEHq6k" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Variables - Bangla JavaScript ES6 - ভেরিয়েবল বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=L8IYe4cADJw" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Concatination - Bangla JavaScript ES6 - কনক্যাটিনেশন বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=yYl-68l8lcI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">JavaScript ES6 if else Statements Bangla - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=T7A232cod2w" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">JavaScript ES6 Conditions and Operators Bangla | বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল রিলেশনাল অপারেটর</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=frmChI-WF5I" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">JavaScript ES6 Array Bangla | বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল - এরে</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=HbJaMIkOQyM" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Nested Array Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=N7t2GMOohT0" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Object Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=fAtiPVV-xTk" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Install Node JS and VS Code - Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=Ik3A0jR5DcU" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">JSON Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল, জেসন</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=YtRCijxibO8" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">For Loop Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=XtSShLXBJHc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">While Loop Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=IZFV_T_FlG8" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">break, continue - Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=vbuEnkoAwSM" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Function - Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল | ফাংশন</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=8HRGmatYuLk" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Function Parameters/Arguments Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=Q6BObmzz4B4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Function's Return Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=rlfFgumI5_4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Arrow Function Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=eA6Wxw4WKRg" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Async JavaScript - Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=z7QQz4oE6VA" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Callback JavaScript - Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=XwlBSiXX0kY" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Promise JavaScript - Bangla JavaScript ES6 - বাংলা জাভাস্ক্রিপ্ট টিউটোরিয়াল</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+</div>
+
+        </div>
+    </div>
+</div><footer>
+    <div class="container-md beautiful-jekyll-footer">
+        <div class="row">
+            <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+                <ul class="list-inline text-center footer-links">
+                    <li class="list-inline-item">
+                        <a href="mailto:admin@codebangladesh.org" title="ইমেইল করুন">
+                          <span aria-hidden="true" class="fa-stack fa-lg">
+                            <i class="fas fa-circle fa-stack-2x"></i>
+                            <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+                          </span>
+                            <span class="sr-only">ইমেইল করুন</span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://github.com/CodeBangladesh-org" title="গিটহাব">
+                          <span aria-hidden="true" class="fa-stack fa-lg">
+                            <i class="fas fa-circle fa-stack-2x"></i>
+                            <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                          </span>
+                            <span class="sr-only">গিটহাব</span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://discord.gg/RsCDspZKqM" title="ডিসকর্ড" target="_blank">
+                          <span aria-hidden="true" class="fa-stack fa-lg">
+                              <i class="fas fa-circle fa-stack-2x"></i>
+                              <i class="fab fa-discord fa-stack-1x fa-inverse"></i>
+                          </span>
+                            <span class="sr-only">ডিসকর্ড</span>
+                        </a>
+                    </li>
+                </ul>
+
+                <p class="copyright text-muted">কোড বাংলাদেশ&nbsp;•&nbsp;২০২৪ &nbsp•&nbsp;
+                    <span class="author-site"><a href="https://CodeBangladesh.org">CodeBangladesh.org</a></span>
+                    <span>• <a href="/privacy">প্রাইভেসি পলিসি</a></span>
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script crossorigin="anonymous"
+        integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
+        src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script crossorigin="anonymous"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script crossorigin="anonymous"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<script src="/assets/js/beautifuljekyll.js"></script>
+<script src="/assets/js/demo.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="bn"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>CodeBangladesh.org | সফটওয়্যার ডেভেলপমেন্ট, প্রোগ্রামিং ও টেক জব সংক্রান্ত ফ্রি কনটেন্টগুলো একসাথে সাজিয়ে উপস্থাপন করা যাতে যারা নতুন শিখছেন তারা দ্রুত ভালভাবে শিখতে পারেন।</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="CodeBangladesh.org" />
+<meta name="author" content="CodeBangladesh.org" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="সফটওয়্যার ডেভেলপমেন্ট, প্রোগ্রামিং ও টেক জব সংক্রান্ত ফ্রি কনটেন্টগুলো একসাথে সাজিয়ে উপস্থাপন করা যাতে যারা নতুন শিখছেন তারা দ্রুত ভালভাবে শিখতে পারেন।" />
+<meta property="og:description" content="সফটওয়্যার ডেভেলপমেন্ট, প্রোগ্রামিং ও টেক জব সংক্রান্ত ফ্রি কনটেন্টগুলো একসাথে সাজিয়ে উপস্থাপন করা যাতে যারা নতুন শিখছেন তারা দ্রুত ভালভাবে শিখতে পারেন।" />
+<link rel="canonical" href="https://codebangladesh.org/data-structure-and-algorithm/Data-Structure-and-Algorithms-Tamim-Shahriar.html" />
+<meta property="og:url" content="https://codebangladesh.org/data-structure-and-algorithm/Data-Structure-and-Algorithms-Tamim-Shahriar.html" />
+<meta property="og:site_name" content="CodeBangladesh.org" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="CodeBangladesh.org" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"CodeBangladesh.org"},"description":"সফটওয়্যার ডেভেলপমেন্ট, প্রোগ্রামিং ও টেক জব সংক্রান্ত ফ্রি কনটেন্টগুলো একসাথে সাজিয়ে উপস্থাপন করা যাতে যারা নতুন শিখছেন তারা দ্রুত ভালভাবে শিখতে পারেন।","headline":"CodeBangladesh.org","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://codebangladesh.org/assets/img/tortoise.png"},"name":"CodeBangladesh.org"},"url":"https://codebangladesh.org/data-structure-and-algorithm/Data-Structure-and-Algorithms-Tamim-Shahriar.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://codebangladesh.org/feed.xml" title="CodeBangladesh.org" /><script async src="https://www.googletagmanager.com/gtag/js?id=UA-195294918-1"></script>
+<script>
+  window['ga-disable-UA-195294918-1'] = window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNotTrack === "yes" || navigator.msDoNotTrack === "1";
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){window.dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-195294918-1');
+</script>
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+<link rel="stylesheet" href="/assets/css/bootstrap-social.css">
+
+<link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
+<link rel="stylesheet" href="/assets/css/demo.css">
+<link rel="stylesheet" href="/assets/css/override.css">
+
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon.png"/>
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png"/>
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png"/>
+<link rel="manifest" href="/assets/favicons/site.webmanifest"/>
+<link rel="mask-icon" href="/assets/favicons/safari-pinned-tab.svg" color="#5bbad5"/>
+
+<meta name="msapplication-TileColor" content="#da532c"/>
+<meta name="theme-color" content="#ffffff"/>
+</head>
+<body><nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular">
+
+    <a class="navbar-brand" rel="author" href="/">CodeBangladesh.org</a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar"
+            aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="avatar-container">
+        <div class="avatar-img-border">
+            <a href="/">
+                <img alt="Navigation bar avatar" class="avatar-img" src="/assets/img/tortoise.png">
+            </a>
+        </div>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="/about">আমাদের কথা</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://play.google.com/store/apps/details?id=org.codebangladesh" target="_blank">
+                    <img class="mg-fluid" src="/assets/img/mobile-app.png" height="20" width="20">
+                    অ্যানড্রয়েড অ্যাপ
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/tech-companies-in-bangladesh">তথ্যপ্রযুক্তি কোম্পানির লিস্ট</a>
+            </li>
+        </ul>
+    </div>
+
+</nav>
+<div class=" container-md" role="main">
+    <div class="row">
+        <div class="col-xl-10 col-lg-10 offset-lg-1">
+            <div class="row"><br></div>
+            <header class="header-section">
+    <div class="intro-header no-img">
+        <div class="container-md">
+            <div class="row d-flex flex-wrap align-items-center">
+                <div class="page-subheading">
+                    <h1>
+                        <img class="img-fluid" height="60" src="/assets/img/algorithm.png" width="60">&nbsp;
+                        ড্যাটা স্ট্রাকচার ও অ্যালগোরিদম
+                    </h1>
+                    <p class="mb-1">
+                        ডেটা স্ট্রাকচার ও বেসিক অ্যালগরিদম নিয়ে বাংলায় ভিডিও লেকচার সিরিজ। যাদের ডেটা স্ট্রাকচার কোর্স আছে, তাদের জন্য উপযোগি।
+                    </p>
+                    <p class="mb-1">
+                        কনটেন্টটি নেয়া হয়েছে:
+                        
+                        <small><a href="https://www.youtube.com/c/TamimShahriar" target="_blank">Tamim Shahriar</a></small>
+                        
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+<div class="row"><br></div>
+
+<div class="list-group">
+    
+    <a href="https://www.youtube.com/watch?v=Mz9BlmST31w" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">ডেটা স্ট্রাকচার ও অ্যালগরিদম</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=bfB4YN_4Vyo" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">টাইম কমপ্লেক্সিটি - ১ (time complexity - 1)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=aNpBA0SgL0c" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">টাইম কমপ্লেক্সিটি - ২ (time complexity - 2)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=DC-1dIY2fBE" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">স্পেস কমপ্লেক্সিটি (space complexity)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=IbV2eELjP2k" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">লিনিয়ার সার্চ - linear search</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=NMC6ltspWys" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">বাইনারি সার্চ - binary search</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=qHmByz1YvQs" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">সিলেকশন সর্ট - Selection Sort</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=ZUI0VQ9JvDw" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">বাবল সর্ট - Bubble Sort</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=aBi8ptRBWY8" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">ইনসার্শন সর্ট - Insertion Sort</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=-8JxL-dXg6w" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">স্ট্যাক - Stack</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=IFWHj7_OW2k" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">কিউ - Queue</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=k3wD1KtP8EE" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">লিঙ্কড লিস্ট - ১ (Linked List - 1) - প্রাথমিক ধারণা</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=rBc-CApEe3s" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">লিঙ্কড লিস্ট - ২ (Linked List - 2) - নোড বাদ দেওয়া</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=VLd6EnfUuWU" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">লিঙ্কড লিস্ট - ৩ (Linked List - 3) - নোড যোগ করা</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=XLBBmEUILi4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">লিঙ্কড লিস্ট - ৪ (Linked List - 4) - ট্রাভার্স করা</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=kyuPR9SqvDY" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">লিঙ্কড লিস্ট - ৫ (Linked List - 5) - ডবলি লিঙ্কড লিস্ট</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=DKpe5gsySag" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">লিঙ্কড লিস্ট - ৬ (Linked List - 6) - অ্যারে ও লিঙ্কড লিস্ট-এর পার্থক্য</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=0I1JVXbHpec" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">ট্রি - ১ (Tree - 1) - ট্রি-এর প্রাথমিক ধারণা</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=Rz93CQd7jXc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">ট্রি - ২ (Tree - 2) - কোনটি ট্রি কোনটি নয়?</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=cCnYkrZbsAg" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">বাইনারি ট্রি (Binary Tree) ১ - বাইনারি ট্রি-এর বৈশিষ্ট্য</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=p0ltqTz93Nk" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">বাইনারি ট্রি প্রিঅর্ডার ট্রাভার্সাল - Binary Tree Preorder Traversal</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=zd5ayCGPQXA" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">বাইনারি ট্রি পোস্টঅর্ডার ট্রাভার্সাল - Binary Tree Postorder Traversal</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=D9cvhd-jPGs" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">বাইনারি ট্রি ইনঅর্ডার ট্রাভার্সাল - Binary Tree Inorder Traversal</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=mWuk56Aa6xw" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">মার্জ সর্ট - ১ (Merge Sort - 1) - অ্যালগরিদম</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=-UzllqjFHW8" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">মার্জ সর্ট - ২ (Merge Sort - 2) - সি দিয়ে ইমপ্লিমেন্টেশন</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=g63rwGXC720" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">মার্জ সর্ট - ৩ (Merge Sort - 3) - স্পেস ও টাইম কমপ্লেক্সিটি</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=PmlfVdY_XjI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">কুইক সর্ট ১ - অ্যালগরিদম (Quick Sort Algorithm)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=kwG0C2Lv-fQ" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">কুইক সর্ট ২ - পার্টিশন (Quick Sort Partition)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=MbO_N_7xSD0" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">কুইক সর্ট ৩ - কমপ্লেক্সিটি (Quick Sort Complexity)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=m7x0GETKPaU" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">হিপ - ১ (Heap - 1) - হিপ ডেটা স্ট্রাকচার</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=8Kwh0WgO_TU" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">হিপ - ২ (Heap - 2) - হিপ তৈরি করা</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=FibnepuyOLY" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">হিপ - ৩ (Heap 3) - হিপসর্ট</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=v0tzjgW0i8E" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">প্রায়োরিটি কিউ - (Priority Queue)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=FpekDm8ztVA" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">বাইনারি সার্চ ট্রি - ১ (Binary Search Tree - 1) - প্রাথমিক ধারণা</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=PrHoIGnU3c0" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">বাইনারি সার্চ ট্রি - ২ (Binary Search Tree - 2) - সার্চ করা</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=IAHqCl5b4fE" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">বাইনারি সার্চ ট্রি - ৩ (Binary Search Tree - 3) - ইনসার্ট করা</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=F2uwPe3GaVU" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">বাইনারি সার্চ ট্রি - ৪ (Binary Search Tree - 4) - ডিলিট করা</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=MP6Ep0aCYHs" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">হ্যাশ টেবিল - ১ (Hash Table) - উদাহরণ</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=RSR3BofKK3Q" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">হ্যাশ টেবিল - ২ (Hash Table) - হ্যাশ ফাংশন</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=ZkT9H8R4WaM" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">হ্যাশ টেবিল - ৩ (Hash Table) - কলিশন</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=VMS8xd_xLGg" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">হ্যাশ টেবিল - ৪ (Hash Table) - হ্যাশ টেবিলের অ্যানিমেশন</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+</div>
+
+        </div>
+    </div>
+</div><footer>
+    <div class="container-md beautiful-jekyll-footer">
+        <div class="row">
+            <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+                <ul class="list-inline text-center footer-links">
+                    <li class="list-inline-item">
+                        <a href="mailto:admin@codebangladesh.org" title="ইমেইল করুন">
+                          <span aria-hidden="true" class="fa-stack fa-lg">
+                            <i class="fas fa-circle fa-stack-2x"></i>
+                            <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+                          </span>
+                            <span class="sr-only">ইমেইল করুন</span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://github.com/CodeBangladesh-org" title="গিটহাব">
+                          <span aria-hidden="true" class="fa-stack fa-lg">
+                            <i class="fas fa-circle fa-stack-2x"></i>
+                            <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                          </span>
+                            <span class="sr-only">গিটহাব</span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://discord.gg/RsCDspZKqM" title="ডিসকর্ড" target="_blank">
+                          <span aria-hidden="true" class="fa-stack fa-lg">
+                              <i class="fas fa-circle fa-stack-2x"></i>
+                              <i class="fab fa-discord fa-stack-1x fa-inverse"></i>
+                          </span>
+                            <span class="sr-only">ডিসকর্ড</span>
+                        </a>
+                    </li>
+                </ul>
+
+                <p class="copyright text-muted">কোড বাংলাদেশ&nbsp;•&nbsp;২০২৪ &nbsp•&nbsp;
+                    <span class="author-site"><a href="https://CodeBangladesh.org">CodeBangladesh.org</a></span>
+                    <span>• <a href="/privacy">প্রাইভেসি পলিসি</a></span>
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script crossorigin="anonymous"
+        integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
+        src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script crossorigin="anonymous"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script crossorigin="anonymous"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<script src="/assets/js/beautifuljekyll.js"></script>
+<script src="/assets/js/demo.js"></script>
+</body>
+
+</html>
