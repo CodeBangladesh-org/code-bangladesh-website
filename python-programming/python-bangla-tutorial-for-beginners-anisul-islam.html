@@ -1,0 +1,905 @@
+<!DOCTYPE html>
+<html lang="bn"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>CodeBangladesh.org | সফটওয়্যার ডেভেলপমেন্ট, প্রোগ্রামিং ও টেক জব সংক্রান্ত ফ্রি কনটেন্টগুলো একসাথে সাজিয়ে উপস্থাপন করা যাতে যারা নতুন শিখছেন তারা দ্রুত ভালভাবে শিখতে পারেন।</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="CodeBangladesh.org" />
+<meta name="author" content="CodeBangladesh.org" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="সফটওয়্যার ডেভেলপমেন্ট, প্রোগ্রামিং ও টেক জব সংক্রান্ত ফ্রি কনটেন্টগুলো একসাথে সাজিয়ে উপস্থাপন করা যাতে যারা নতুন শিখছেন তারা দ্রুত ভালভাবে শিখতে পারেন।" />
+<meta property="og:description" content="সফটওয়্যার ডেভেলপমেন্ট, প্রোগ্রামিং ও টেক জব সংক্রান্ত ফ্রি কনটেন্টগুলো একসাথে সাজিয়ে উপস্থাপন করা যাতে যারা নতুন শিখছেন তারা দ্রুত ভালভাবে শিখতে পারেন।" />
+<link rel="canonical" href="https://codebangladesh.org/python-programming/python-bangla-tutorial-for-beginners-anisul-islam.html" />
+<meta property="og:url" content="https://codebangladesh.org/python-programming/python-bangla-tutorial-for-beginners-anisul-islam.html" />
+<meta property="og:site_name" content="CodeBangladesh.org" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="CodeBangladesh.org" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"CodeBangladesh.org"},"description":"সফটওয়্যার ডেভেলপমেন্ট, প্রোগ্রামিং ও টেক জব সংক্রান্ত ফ্রি কনটেন্টগুলো একসাথে সাজিয়ে উপস্থাপন করা যাতে যারা নতুন শিখছেন তারা দ্রুত ভালভাবে শিখতে পারেন।","headline":"CodeBangladesh.org","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://codebangladesh.org/assets/img/tortoise.png"},"name":"CodeBangladesh.org"},"url":"https://codebangladesh.org/python-programming/python-bangla-tutorial-for-beginners-anisul-islam.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://codebangladesh.org/feed.xml" title="CodeBangladesh.org" /><script async src="https://www.googletagmanager.com/gtag/js?id=UA-195294918-1"></script>
+<script>
+  window['ga-disable-UA-195294918-1'] = window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNotTrack === "yes" || navigator.msDoNotTrack === "1";
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){window.dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-195294918-1');
+</script>
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+<link rel="stylesheet" href="/assets/css/bootstrap-social.css">
+
+<link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
+<link rel="stylesheet" href="/assets/css/demo.css">
+<link rel="stylesheet" href="/assets/css/override.css">
+
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon.png"/>
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png"/>
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png"/>
+<link rel="manifest" href="/assets/favicons/site.webmanifest"/>
+<link rel="mask-icon" href="/assets/favicons/safari-pinned-tab.svg" color="#5bbad5"/>
+
+<meta name="msapplication-TileColor" content="#da532c"/>
+<meta name="theme-color" content="#ffffff"/>
+</head>
+<body><nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular">
+
+    <a class="navbar-brand" rel="author" href="/">CodeBangladesh.org</a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar"
+            aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="avatar-container">
+        <div class="avatar-img-border">
+            <a href="/">
+                <img alt="Navigation bar avatar" class="avatar-img" src="/assets/img/tortoise.png">
+            </a>
+        </div>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="/about">আমাদের কথা</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://play.google.com/store/apps/details?id=org.codebangladesh" target="_blank">
+                    <img class="mg-fluid" src="/assets/img/mobile-app.png" height="20" width="20">
+                    অ্যানড্রয়েড অ্যাপ
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/tech-companies-in-bangladesh">তথ্যপ্রযুক্তি কোম্পানির লিস্ট</a>
+            </li>
+        </ul>
+    </div>
+
+</nav>
+<div class=" container-md" role="main">
+    <div class="row">
+        <div class="col-xl-10 col-lg-10 offset-lg-1">
+            <div class="row"><br></div>
+            <header class="header-section">
+    <div class="intro-header no-img">
+        <div class="container-md">
+            <div class="row d-flex flex-wrap align-items-center">
+                <div class="page-subheading">
+                    <h1>
+                        <img class="img-fluid" height="60" src="/assets/img/python.png" width="60">&nbsp;
+                        বিগিনারদের জন্য পাইথন টিউটোরিয়াল
+                    </h1>
+                    <p class="mb-1">
+                        এই কোর্সে ৬৭টি ভিডিওতে সিনট্যাক্স থেকে শুরু করে সমস্ত বেসিকই শেখানো হয়েছে।
+                    </p>
+                    <p class="mb-1">
+                        কনটেন্টটি নেয়া হয়েছে:
+                        
+                        <small><a href="https://www.youtube.com/channel/UCEXwc6mNh7Lakj6lX-7a2Mg" target="_blank">আনিসুল ইসলাম</a></small>
+                        
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+<div class="row"><br></div>
+
+<div class="list-group">
+    
+    <a href="https://www.youtube.com/watch?v=xjcCi6Tzfxw" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 0 - Welcome To Python</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=-JgNMdS-yaM" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 1 - Introduction to Python</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=OVoFqb-ki7c" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 2 - Environment Setup</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=drUjUMAzTEY" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 3 - First Python Program</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=UFdOg2DKWhs" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 4 - Backslash characters and comments</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=SbApaY6kbOk" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 5 - Variables and Data Types</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=kC8Bwp0mv-E" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 6 - Basic Numerical Operations</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=ycfpjVhgX3E" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 7 - Getting User Input</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=E4IsGGhCHm0" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 8 - Type Casting</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=wtm4ipxOaPE" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 9 - Area of any shape</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=yYR7WOdexDw" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 10 - Math related Library functions</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=yEZXSZfHnEw" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 11 - Formatted String | Type function</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=FMsGRimbW14" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 12 - Relational Operator & Boolean Data Type</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=3gEJGMikdo8" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 13 - if, else statement (Theoretical)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=1UgUSBRz2qU" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 14 - if, else statement (practical)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=utEULnqzQII" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 15 - elif statement</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=2EJs_E5OjMU" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 16 - Inner If Statement</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=vvT3IL3CSY4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 17 - Ternary Operator</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=NuZe0UV8sGs" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 18 - Logical operator</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=fkgCdSJW5gU" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 19 - Letter Grade Program</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=Umt5YNcy0kI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 20 - while loop</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=9ib33lpfZK4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 21 - Sum of n numbers</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=kmmeCzf9uw0" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 22 - break and continue</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=V0zzqVn3Tn8" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 23 - List (Part-1)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=YVov0H3JRkc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 24 - List (Part-2)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=q_y0-Gv95DI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 25 - Range function</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=UJNGZI2nbq0" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 26 - for Loop</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=akuLuG9byt8" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 27 - Series</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=BjCCZkff0Rg" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 28 - Pattern printing</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=DSicftv7RsA" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 29 - Guessing Game</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=bCwlkjr7TCI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 30 - List as input from user</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=aRyJMon8pEY" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 31 - Matrix</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=RQ9XfR7yax0" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 32 - Dictionaries</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=BOysCcj2w04" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 33 - Tuples</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=YVyWORhFnCU" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 34 - Set</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=SvAoP104xmA" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 35 - Stack And Queue</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=m9o9itPDjAs" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 36 - Introduction to Function</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=yAsq15hvZKc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 37 - Returning Value from function</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=MuK3ggxQK9A" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 38 - xxargs and xxxargs</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=ClS458qN-1c" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 39 - Debugging</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=364ntZ-oNuw" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 40 - Lambda Functions</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=_QhdkklX-wQ" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 41 - map and filter function</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=AufvjfKtedE" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 42 - List Comprehensions</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=8mkhqD6pV5s" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 43 - Zip Function</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=GTWxn75Nf-k" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 44 - Recursion</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=lnmonWbNIsQ" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 45 - Reading a file</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=8pD44zKlW0w" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 46 - writing in a file</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=wjy1wltl_Lo" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 47 - Exception Handling (part-1)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=MowhoM91yaI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 48 - Exception Handling (part-2)</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=y7Ju2zkzBUw" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 49 - Swapping  | End of Basic Python</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=E-FCsyC_C8U" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 50 - Introduction to OOP | class and object</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=_biQtYIsKy0" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 51 - Introducing Methods</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=Yh8kivPAFZM" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 52 - Constructor</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=6FgcuoapVg0" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 53 - Exercise</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=IeFWnKPdwjY" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 54 - Inheritance</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=sIwVJCaoMLQ" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 55 - Method Overriding</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=HII9lgKtHeI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 56 - A practical example of inheritance</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=eems7Rdmdjc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 57 - Types Of Inheritance</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=ralplPDzOU4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 58 - Abstraction</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=JQNSFgSgqz4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 59 - Polymorphism</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=AcWqcjTcxuI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 60 - Magic methods</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=szuPNfhK5HA" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 61 - Creating your own Module</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=sTb-lhScglI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 62 - Regular expressions</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=x3Yhc2qbMAI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 63 - Search And Replace</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=XeJoNgNQ4n0" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 64 - Meta Characters</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=7QTOIAkjsh4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">Python Bangla Tutorials 65 - Character Class</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+</div>
+
+        </div>
+    </div>
+</div><footer>
+    <div class="container-md beautiful-jekyll-footer">
+        <div class="row">
+            <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+                <ul class="list-inline text-center footer-links">
+                    <li class="list-inline-item">
+                        <a href="mailto:admin@codebangladesh.org" title="ইমেইল করুন">
+                          <span aria-hidden="true" class="fa-stack fa-lg">
+                            <i class="fas fa-circle fa-stack-2x"></i>
+                            <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+                          </span>
+                            <span class="sr-only">ইমেইল করুন</span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://github.com/CodeBangladesh-org" title="গিটহাব">
+                          <span aria-hidden="true" class="fa-stack fa-lg">
+                            <i class="fas fa-circle fa-stack-2x"></i>
+                            <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                          </span>
+                            <span class="sr-only">গিটহাব</span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://discord.gg/RsCDspZKqM" title="ডিসকর্ড" target="_blank">
+                          <span aria-hidden="true" class="fa-stack fa-lg">
+                              <i class="fas fa-circle fa-stack-2x"></i>
+                              <i class="fab fa-discord fa-stack-1x fa-inverse"></i>
+                          </span>
+                            <span class="sr-only">ডিসকর্ড</span>
+                        </a>
+                    </li>
+                </ul>
+
+                <p class="copyright text-muted">কোড বাংলাদেশ&nbsp;•&nbsp;২০২৪ &nbsp•&nbsp;
+                    <span class="author-site"><a href="https://CodeBangladesh.org">CodeBangladesh.org</a></span>
+                    <span>• <a href="/privacy">প্রাইভেসি পলিসি</a></span>
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script crossorigin="anonymous"
+        integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
+        src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script crossorigin="anonymous"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script crossorigin="anonymous"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<script src="/assets/js/beautifuljekyll.js"></script>
+<script src="/assets/js/demo.js"></script>
+</body>
+
+</html>

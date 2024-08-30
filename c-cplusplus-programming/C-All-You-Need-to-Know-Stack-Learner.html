@@ -1,0 +1,872 @@
+<!DOCTYPE html>
+<html lang="bn"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>CodeBangladesh.org | সফটওয়্যার ডেভেলপমেন্ট, প্রোগ্রামিং ও টেক জব সংক্রান্ত ফ্রি কনটেন্টগুলো একসাথে সাজিয়ে উপস্থাপন করা যাতে যারা নতুন শিখছেন তারা দ্রুত ভালভাবে শিখতে পারেন।</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="CodeBangladesh.org" />
+<meta name="author" content="CodeBangladesh.org" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="সফটওয়্যার ডেভেলপমেন্ট, প্রোগ্রামিং ও টেক জব সংক্রান্ত ফ্রি কনটেন্টগুলো একসাথে সাজিয়ে উপস্থাপন করা যাতে যারা নতুন শিখছেন তারা দ্রুত ভালভাবে শিখতে পারেন।" />
+<meta property="og:description" content="সফটওয়্যার ডেভেলপমেন্ট, প্রোগ্রামিং ও টেক জব সংক্রান্ত ফ্রি কনটেন্টগুলো একসাথে সাজিয়ে উপস্থাপন করা যাতে যারা নতুন শিখছেন তারা দ্রুত ভালভাবে শিখতে পারেন।" />
+<link rel="canonical" href="https://codebangladesh.org/c-cplusplus-programming/C-All-You-Need-to-Know-Stack-Learner.html" />
+<meta property="og:url" content="https://codebangladesh.org/c-cplusplus-programming/C-All-You-Need-to-Know-Stack-Learner.html" />
+<meta property="og:site_name" content="CodeBangladesh.org" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="CodeBangladesh.org" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"CodeBangladesh.org"},"description":"সফটওয়্যার ডেভেলপমেন্ট, প্রোগ্রামিং ও টেক জব সংক্রান্ত ফ্রি কনটেন্টগুলো একসাথে সাজিয়ে উপস্থাপন করা যাতে যারা নতুন শিখছেন তারা দ্রুত ভালভাবে শিখতে পারেন।","headline":"CodeBangladesh.org","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://codebangladesh.org/assets/img/tortoise.png"},"name":"CodeBangladesh.org"},"url":"https://codebangladesh.org/c-cplusplus-programming/C-All-You-Need-to-Know-Stack-Learner.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://codebangladesh.org/feed.xml" title="CodeBangladesh.org" /><script async src="https://www.googletagmanager.com/gtag/js?id=UA-195294918-1"></script>
+<script>
+  window['ga-disable-UA-195294918-1'] = window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNotTrack === "yes" || navigator.msDoNotTrack === "1";
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){window.dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-195294918-1');
+</script>
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+<link rel="stylesheet" href="/assets/css/bootstrap-social.css">
+
+<link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
+<link rel="stylesheet" href="/assets/css/demo.css">
+<link rel="stylesheet" href="/assets/css/override.css">
+
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon.png"/>
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png"/>
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png"/>
+<link rel="manifest" href="/assets/favicons/site.webmanifest"/>
+<link rel="mask-icon" href="/assets/favicons/safari-pinned-tab.svg" color="#5bbad5"/>
+
+<meta name="msapplication-TileColor" content="#da532c"/>
+<meta name="theme-color" content="#ffffff"/>
+</head>
+<body><nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular">
+
+    <a class="navbar-brand" rel="author" href="/">CodeBangladesh.org</a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar"
+            aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="avatar-container">
+        <div class="avatar-img-border">
+            <a href="/">
+                <img alt="Navigation bar avatar" class="avatar-img" src="/assets/img/tortoise.png">
+            </a>
+        </div>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="/about">আমাদের কথা</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://play.google.com/store/apps/details?id=org.codebangladesh" target="_blank">
+                    <img class="mg-fluid" src="/assets/img/mobile-app.png" height="20" width="20">
+                    অ্যানড্রয়েড অ্যাপ
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/tech-companies-in-bangladesh">তথ্যপ্রযুক্তি কোম্পানির লিস্ট</a>
+            </li>
+        </ul>
+    </div>
+
+</nav>
+<div class=" container-md" role="main">
+    <div class="row">
+        <div class="col-xl-10 col-lg-10 offset-lg-1">
+            <div class="row"><br></div>
+            <header class="header-section">
+    <div class="intro-header no-img">
+        <div class="container-md">
+            <div class="row d-flex flex-wrap align-items-center">
+                <div class="page-subheading">
+                    <h1>
+                        <img class="img-fluid" height="60" src="/assets/img/C.png" width="60">&nbsp;
+                        সি প্রোগ্রামিং - যা যা দরকারি
+                    </h1>
+                    <p class="mb-1">
+                        সি প্রোগ্রামিং এর যা যা জানা দরকার সবটুকুই কভার করা হয়েছে।
+                    </p>
+                    <p class="mb-1">
+                        কনটেন্টটি নেয়া হয়েছে:
+                        
+                        <small><a href="https://www.youtube.com/c/StackLearner" target="_blank">Stack Learner</a></small>
+                        
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+<div class="row"><br></div>
+
+<div class="list-group">
+    
+    <a href="https://www.youtube.com/watch?v=982nK2Vdk_o" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">001. C Course Introduction</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=E9WDkJ7i7mI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">002.Setup Working Environment</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=37ihwOpP4PE" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">003. Hands on Code in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=NWhvLbIHIqI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">004. Basic Calculation in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=76UTxRliHQE" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">005. Variables in C Programming</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=4jOE5TL1h3U" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">006. Variables Definitions Vs Declaration</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=gfgwJ8xo1K4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">007. Basic Data Types in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=MAH1pzkpoas" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">008. Reserved Keywords in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=58GlFVqPpkM" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">009. User Input in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=xY8ReEvXS38" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">010. Simple Calculator Project in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=rEarpiMDqnE" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">011. Data Types and it's Importance in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=t_mVEzHxaqo" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">012. Data Type in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=epA1odKWpNI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">013. Different Data Types with Sizes in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=G3dGqYkf9rQ" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">014. Integer Types Data in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=X-eQEictwbo" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">015. Float Types Data in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=80bBBMeK3bk" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">016. Character Types Data in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=6UpVCpmcbns" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">017. String Works in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=mVHlLp9Lbxs" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">018. Boolean Works in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=5cF_wgY4bk8" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">019. Type Conversion in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=mOhHQEOCXwo" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">020. Operators in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=orhuwwJryEU" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">021. C Operators</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=yWZvUW-gUYI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">022. Arithmetic Operators in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=9D73PsHmBGI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">023. Relational Operators in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=cgwzfuUH5q0" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">024. Logical Operators in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=tzLD2DxwrU4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">025. Assignment Operators in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=K55NS1BlD7E" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">026. Bitwise Operators in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=NP5YMKaRV_A" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">027. Unary Operators in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=oXc4KYczRSs" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">028. Conditional Operators in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=uzRBAQxAc1s" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">029. Sizeof Operators in C Programming</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=CwatI9feifY" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">030. What is Condition in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=ntIuuL_529Q" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">031. If Condition in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=NDcsxa6PLWc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">032. If Else Condition</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=b0WS-30arMc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">033. Else If Condition</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=PON0UrYtxoM" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">034. Switch Statement in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=Q-8Dt31AWXw" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">035. Nested Condition</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=lcuW4XXMPcU" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">036. Even and Odd</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=sozqYxS9rPQ" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">037. Uppercase to Lowercase</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=KIsy7KrGLSw" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">038. Find Leap Year in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=ul4iH44-M9k" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">039. Pick A Lucky Number</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=ce7kbKVKS98" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">040. Loops in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=EW7kdyhbHMI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">041. For Loop in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=0lNGN9BKoF8" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">042. Draw A Box Using For Loop</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=4iAIQj2kA_4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">043. VSCode and Compiler Setup on Windows 10</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=fT9_SSL2n-w" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">044. While Loop</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=XXOlt9CCC-E" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">045. Use of While Loop</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=ckiC1UQdz-c" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">046. Guessing Game using While Loop</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=vX4Ptpyr6uI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">047. Guessing Game Limited Chance using While Loop</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=IEBS8gRbqVs" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">048. Do While Loop</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=qfVzmC6bXQY" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">049. Use of While Loop</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=BRmtM4SEHH4" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">050. Uppercase to Lowercase using Loop</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=OBIL9kImJ-I" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">051. Draw Star Pyramid with Loop</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=rnMjFk8hoJY" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">052. Draw Star Diamond using Loop</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=HhMXjCeZwgI" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">053. Continue and Break Statement in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=_xCALeiorAg" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">054. Array in C</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=bJzK5l_sHr0" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">055. Declare an Array</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=K-AlgW5WAEA" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">056. Traverse Array Elements</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=CucfZJDFfYo" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">057. Array Sum Average and Max Number</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=Ks7PefK8p6A" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">058. How does Array Store Elements in Memory</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=c-Ok-wSC3Js" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">059. Sizeof Operator used in Array</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=YKxv22Fl5dc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">060. Input Array Elements</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=45pngCeemN0" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">061. Variable Length Array</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=mFjvGVNMi2M" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">062. Search Array Elements</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+    <a href="https://www.youtube.com/watch?v=QtSn-Q4FrHc" target="_blank"
+       class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <h5 class="mb-1">063. Simple Sort Algorithm</h5>
+            <small class="text-muted"><img class="img-fluid" height="20" src="/assets/img/youtube.png" width="20"></small>
+        </div>
+        <small class="text-muted">
+            এটি একটি ভিডিও লিঙ্ক, সরাসরি ইউটিউবে চলে যাবে।
+        </small>
+    </a>
+    
+</div>
+
+        </div>
+    </div>
+</div><footer>
+    <div class="container-md beautiful-jekyll-footer">
+        <div class="row">
+            <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+                <ul class="list-inline text-center footer-links">
+                    <li class="list-inline-item">
+                        <a href="mailto:admin@codebangladesh.org" title="ইমেইল করুন">
+                          <span aria-hidden="true" class="fa-stack fa-lg">
+                            <i class="fas fa-circle fa-stack-2x"></i>
+                            <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+                          </span>
+                            <span class="sr-only">ইমেইল করুন</span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://github.com/CodeBangladesh-org" title="গিটহাব">
+                          <span aria-hidden="true" class="fa-stack fa-lg">
+                            <i class="fas fa-circle fa-stack-2x"></i>
+                            <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                          </span>
+                            <span class="sr-only">গিটহাব</span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://discord.gg/RsCDspZKqM" title="ডিসকর্ড" target="_blank">
+                          <span aria-hidden="true" class="fa-stack fa-lg">
+                              <i class="fas fa-circle fa-stack-2x"></i>
+                              <i class="fab fa-discord fa-stack-1x fa-inverse"></i>
+                          </span>
+                            <span class="sr-only">ডিসকর্ড</span>
+                        </a>
+                    </li>
+                </ul>
+
+                <p class="copyright text-muted">কোড বাংলাদেশ&nbsp;•&nbsp;২০২৪ &nbsp•&nbsp;
+                    <span class="author-site"><a href="https://CodeBangladesh.org">CodeBangladesh.org</a></span>
+                    <span>• <a href="/privacy">প্রাইভেসি পলিসি</a></span>
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script crossorigin="anonymous"
+        integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
+        src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script crossorigin="anonymous"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script crossorigin="anonymous"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<script src="/assets/js/beautifuljekyll.js"></script>
+<script src="/assets/js/demo.js"></script>
+</body>
+
+</html>
